@@ -10,11 +10,13 @@
 
     <title>@yield('title')</title>
 
-    <link rel="icon" href="../../public/favicon.ico">
+    <link rel="icon" href="/favicon.ico">
 
     <link href="/css/app.css" rel="stylesheet">
 
     @yield('complement-css')
+
+    <script src="/js/app.js"></script>
 </head>
 
 <body>
@@ -22,7 +24,5 @@
 @yield('top-menu')
 
 @yield('main-container')
-
-<script src="/js/app.js"></script>
 </body>
 </html>

@@ -13,8 +13,9 @@
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="{{ route('home') }}">Home</a></li>
-                    <li><a href="{{ route('flex-index') }}">Flex Exercices</a></li>
-                    {{--<li><a href="/flex">Flex Exercices</a></li>--}}
+                    <li><a href="{{ route('flex-index') }}">CSS: Flex</a></li>
+                    <li><a href="{{ route('bootstrap_ex-index') }}">Css: Bootstrap</a></li>
+                    <li><a href="{{ route('jquery_ex-index') }}">Js: jQuery</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
