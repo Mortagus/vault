@@ -16,6 +16,8 @@
                     <li><a href="{{ route('flex-index') }}">CSS: Flex</a></li>
                     <li><a href="{{ route('bootstrap_ex-index') }}">Css: Bootstrap</a></li>
                     <li><a href="{{ route('jquery_ex-index') }}">Js: jQuery</a></li>
+                    <li><a href="{{ route('contest-index') }}">Ex.: Contest Management</a></li>
+                    <li><a href="{{ route('tetris') }}">Tetris</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>

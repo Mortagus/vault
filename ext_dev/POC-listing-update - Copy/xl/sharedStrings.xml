@@ -1,0 +1,10605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="6494" uniqueCount="3534">
+    <si>
+        <t>CreatedDate</t>
+    </si>
+    <si>
+        <t>BLACK &amp; WHYTE</t>
+    </si>
+    <si>
+        <t>VEZON</t>
+    </si>
+    <si>
+        <t>LE DIAMANT</t>
+    </si>
+    <si>
+        <t>SCHAERBEEK</t>
+    </si>
+    <si>
+        <t>DEN BUREAU</t>
+    </si>
+    <si>
+        <t>BRUXELLES (SCHAERBEEK)</t>
+    </si>
+    <si>
+        <t>LE ROI ALBERT</t>
+    </si>
+    <si>
+        <t>BRUXELLES</t>
+    </si>
+    <si>
+        <t>LE CHRISTHY</t>
+    </si>
+    <si>
+        <t>LE SPORTIF</t>
+    </si>
+    <si>
+        <t>SAINT-GILLES</t>
+    </si>
+    <si>
+        <t>PAVILLON</t>
+    </si>
+    <si>
+        <t>BRUXELLES (ANDERLECHT)</t>
+    </si>
+    <si>
+        <t>NEW DAILLY</t>
+    </si>
+    <si>
+        <t>LE VEGAS</t>
+    </si>
+    <si>
+        <t>IXELLES</t>
+    </si>
+    <si>
+        <t>LE MOUNIER</t>
+    </si>
+    <si>
+        <t>BRUXELLES (WOLUWE-SAINT-L</t>
+    </si>
+    <si>
+        <t>CAFE DU BOCAGE</t>
+    </si>
+    <si>
+        <t>BRUXELLES (SAINT-GILLES)</t>
+    </si>
+    <si>
+        <t>MODA NOVA</t>
+    </si>
+    <si>
+        <t>TC DEN BRUUL</t>
+    </si>
+    <si>
+        <t>GEEL</t>
+    </si>
+    <si>
+        <t>TC WESTERLO</t>
+    </si>
+    <si>
+        <t>WESTERLO</t>
+    </si>
+    <si>
+        <t>SPOOR 10</t>
+    </si>
+    <si>
+        <t>AARSCHOT</t>
+    </si>
+    <si>
+        <t>PARO.CENTRUM ST-JOZEF WEZEL+DE GROT</t>
+    </si>
+    <si>
+        <t>MOL</t>
+    </si>
+    <si>
+        <t>PAROCHIECENTRUM ST PIETER</t>
+    </si>
+    <si>
+        <t>LILLE</t>
+    </si>
+    <si>
+        <t>DEN DERDEN HELFT</t>
+    </si>
+    <si>
+        <t>BEVEREN-WAAS</t>
+    </si>
+    <si>
+        <t>SPORTCENTRUM DE PIT</t>
+    </si>
+    <si>
+        <t>BUGGENHOUT</t>
+    </si>
+    <si>
+        <t>GEMAK</t>
+    </si>
+    <si>
+        <t>BORNEM</t>
+    </si>
+    <si>
+        <t>DE ZAAL</t>
+    </si>
+    <si>
+        <t>LOKEREN</t>
+    </si>
+    <si>
+        <t>FOREST</t>
+    </si>
+    <si>
+        <t>BERLARE</t>
+    </si>
+    <si>
+        <t>UNION</t>
+    </si>
+    <si>
+        <t>GENT</t>
+    </si>
+    <si>
+        <t>LAMBERT</t>
+    </si>
+    <si>
+        <t>THE CITY</t>
+    </si>
+    <si>
+        <t>WILRIJK</t>
+    </si>
+    <si>
+        <t>DE KROEG</t>
+    </si>
+    <si>
+        <t>ANTWERPEN</t>
+    </si>
+    <si>
+        <t>AU BON ACCUEIL+SALLE</t>
+    </si>
+    <si>
+        <t>HOLLAIN</t>
+    </si>
+    <si>
+        <t>HOCKEY TENNIS CLUB L'OMBRAGE</t>
+    </si>
+    <si>
+        <t>BRUXELLES (WOLUWE-SAINT-P</t>
+    </si>
+    <si>
+        <t>TAVERNE DU BULTIA</t>
+    </si>
+    <si>
+        <t>NALINNES</t>
+    </si>
+    <si>
+        <t>BISTRO AM WERTH</t>
+    </si>
+    <si>
+        <t>EUPEN</t>
+    </si>
+    <si>
+        <t>L'ELDORADO</t>
+    </si>
+    <si>
+        <t>FLORENVILLE</t>
+    </si>
+    <si>
+        <t>L'EKSEPTION</t>
+    </si>
+    <si>
+        <t>TOURNAI</t>
+    </si>
+    <si>
+        <t>DE JOKER</t>
+    </si>
+    <si>
+        <t>KALMTHOUT</t>
+    </si>
+    <si>
+        <t>KVKTIENEN CAFETARIA</t>
+    </si>
+    <si>
+        <t>TIENEN</t>
+    </si>
+    <si>
+        <t>L'UNIVERS</t>
+    </si>
+    <si>
+        <t>WARCOING</t>
+    </si>
+    <si>
+        <t>FC FOREST ASBL</t>
+    </si>
+    <si>
+        <t>BRUXELLES (FOREST)</t>
+    </si>
+    <si>
+        <t>LES BLEUS</t>
+    </si>
+    <si>
+        <t>WIHERIES</t>
+    </si>
+    <si>
+        <t>T SPIEKE</t>
+    </si>
+    <si>
+        <t>KEERBERGEN</t>
+    </si>
+    <si>
+        <t>DE PAREL</t>
+    </si>
+    <si>
+        <t>GRIMBERGEN</t>
+    </si>
+    <si>
+        <t>DE KRING</t>
+    </si>
+    <si>
+        <t>BALEGEM</t>
+    </si>
+    <si>
+        <t>CAFÉ EXPORT</t>
+    </si>
+    <si>
+        <t>HASSELT</t>
+    </si>
+    <si>
+        <t>THE CORNER</t>
+    </si>
+    <si>
+        <t>DENDERLEEUW</t>
+    </si>
+    <si>
+        <t>WARANDE</t>
+    </si>
+    <si>
+        <t>RUMMEN</t>
+    </si>
+    <si>
+        <t>THE NEW SNOOKER CORNER</t>
+    </si>
+    <si>
+        <t>NINOVE</t>
+    </si>
+    <si>
+        <t>HALL OMNISPORTS CAFETARIA</t>
+    </si>
+    <si>
+        <t>BOUSSU</t>
+    </si>
+    <si>
+        <t>IN 'T BOSKE</t>
+    </si>
+    <si>
+        <t>HOEILAART</t>
+    </si>
+    <si>
+        <t>ANKER</t>
+    </si>
+    <si>
+        <t>PULLE</t>
+    </si>
+    <si>
+        <t>SPORTHAL MOLENVIJVER</t>
+    </si>
+    <si>
+        <t>ETANGS 6 CHEMINS</t>
+    </si>
+    <si>
+        <t>LAVA</t>
+    </si>
+    <si>
+        <t>DE MERGELHOEK</t>
+    </si>
+    <si>
+        <t>HERZELE</t>
+    </si>
+    <si>
+        <t>DE PUB</t>
+    </si>
+    <si>
+        <t>MERELBEKE</t>
+    </si>
+    <si>
+        <t>DE KLOEF</t>
+    </si>
+    <si>
+        <t>RONSE</t>
+    </si>
+    <si>
+        <t>COME BACK</t>
+    </si>
+    <si>
+        <t>DE KROON</t>
+    </si>
+    <si>
+        <t>AUX SIX CENTS</t>
+    </si>
+    <si>
+        <t>THEUX</t>
+    </si>
+    <si>
+        <t>KLEIN VENETIE</t>
+    </si>
+    <si>
+        <t>BRUGGE</t>
+    </si>
+    <si>
+        <t>RUGBY CLUB BOITSFORT</t>
+    </si>
+    <si>
+        <t>BRUXELLES (WATERMAEL-BOIT</t>
+    </si>
+    <si>
+        <t>PISCINE DE CHAUDFONTAINE</t>
+    </si>
+    <si>
+        <t>CHAUDFONTAINE</t>
+    </si>
+    <si>
+        <t>LITTLE PUB</t>
+    </si>
+    <si>
+        <t>CS PAYS VERT OSTICHES ATH</t>
+    </si>
+    <si>
+        <t>IRCHONWELZ</t>
+    </si>
+    <si>
+        <t>LA REGENCE</t>
+    </si>
+    <si>
+        <t>ATH</t>
+    </si>
+    <si>
+        <t>GOLF DE LIEGE THE 19TH HOLE</t>
+    </si>
+    <si>
+        <t>LIEGE</t>
+    </si>
+    <si>
+        <t>CELTIC IRELAND</t>
+    </si>
+    <si>
+        <t>LA CLOSERAIE - CHEZ MU</t>
+    </si>
+    <si>
+        <t>ROCOURT</t>
+    </si>
+    <si>
+        <t>LA FERTE</t>
+    </si>
+    <si>
+        <t>ERQUELINNES</t>
+    </si>
+    <si>
+        <t>CAFE DE LA BONNE HUMEUR</t>
+    </si>
+    <si>
+        <t>BERSILLIES-L'ABBAYE</t>
+    </si>
+    <si>
+        <t>HALL OMNISPORTS</t>
+    </si>
+    <si>
+        <t>OUD SINT ELOOI</t>
+    </si>
+    <si>
+        <t>OVERIJSE</t>
+    </si>
+    <si>
+        <t>CAFE DU STADE</t>
+    </si>
+    <si>
+        <t>BRUXELLES (EVERE)</t>
+    </si>
+    <si>
+        <t>SPORTECHO</t>
+    </si>
+    <si>
+        <t>L'ALLIANCE</t>
+    </si>
+    <si>
+        <t>ENGIS</t>
+    </si>
+    <si>
+        <t>L'ARNICA</t>
+    </si>
+    <si>
+        <t>CRISNEE</t>
+    </si>
+    <si>
+        <t>CAFE DE LA POSTE</t>
+    </si>
+    <si>
+        <t>HUY</t>
+    </si>
+    <si>
+        <t>LE SEVADA</t>
+    </si>
+    <si>
+        <t>FLEMALLE-HAUTE</t>
+    </si>
+    <si>
+        <t>SPIOENKOP</t>
+    </si>
+    <si>
+        <t>WENDUINE</t>
+    </si>
+    <si>
+        <t>LES BRASSEURS</t>
+    </si>
+    <si>
+        <t>TC HET ZEEN</t>
+    </si>
+    <si>
+        <t>STERREBEEK</t>
+    </si>
+    <si>
+        <t>NEW ATLAS</t>
+    </si>
+    <si>
+        <t>DE VIER HUIZEN</t>
+    </si>
+    <si>
+        <t>LE BON ACCUEIL</t>
+    </si>
+    <si>
+        <t>VISE</t>
+    </si>
+    <si>
+        <t>DE LEIVESE TON</t>
+    </si>
+    <si>
+        <t>LEUVEN</t>
+    </si>
+    <si>
+        <t>BOWLING 69</t>
+    </si>
+    <si>
+        <t>WAREMME</t>
+    </si>
+    <si>
+        <t>LE PANAMA</t>
+    </si>
+    <si>
+        <t>DINANT</t>
+    </si>
+    <si>
+        <t>MOJITO PUB</t>
+    </si>
+    <si>
+        <t>DE CURVE</t>
+    </si>
+    <si>
+        <t>KESSEL-LO</t>
+    </si>
+    <si>
+        <t>LA COLLEGIALE</t>
+    </si>
+    <si>
+        <t>NIVELLES</t>
+    </si>
+    <si>
+        <t>SPORTOASE TONGEREN</t>
+    </si>
+    <si>
+        <t>TONGEREN</t>
+    </si>
+    <si>
+        <t>MARCO POLO</t>
+    </si>
+    <si>
+        <t>NIEUWPOORT</t>
+    </si>
+    <si>
+        <t>KAPELLEKE SPORTKOMPLEKS</t>
+    </si>
+    <si>
+        <t>HERENTHOUT</t>
+    </si>
+    <si>
+        <t>LE ROOSEVELT</t>
+    </si>
+    <si>
+        <t>COURCELLES</t>
+    </si>
+    <si>
+        <t>MUSKE</t>
+    </si>
+    <si>
+        <t>DE KLOK</t>
+    </si>
+    <si>
+        <t>DEINZE</t>
+    </si>
+    <si>
+        <t>MARITIME</t>
+    </si>
+    <si>
+        <t>ZELZATE</t>
+    </si>
+    <si>
+        <t>SPORTAGON</t>
+    </si>
+    <si>
+        <t>TESSENDERLO</t>
+    </si>
+    <si>
+        <t>IN DE FAZANT</t>
+    </si>
+    <si>
+        <t>HALLE</t>
+    </si>
+    <si>
+        <t>MOONLIGHT MUSICHAL</t>
+    </si>
+    <si>
+        <t>DIEST</t>
+    </si>
+    <si>
+        <t>VINTAGE BAR</t>
+    </si>
+    <si>
+        <t>LOUVAIN-LA-NEUVE</t>
+    </si>
+    <si>
+        <t>DE PUT</t>
+    </si>
+    <si>
+        <t>VLIERZELE</t>
+    </si>
+    <si>
+        <t>FOOT R.F.C. ECAUSSINNES</t>
+    </si>
+    <si>
+        <t>ECAUSSINNES-D'ENGHIEN</t>
+    </si>
+    <si>
+        <t>CENTRE SPORTIF DE BLOCRY</t>
+    </si>
+    <si>
+        <t>BLUESLESS</t>
+    </si>
+    <si>
+        <t>DE KASTAAR</t>
+    </si>
+    <si>
+        <t>GROENE MEERSEN</t>
+    </si>
+    <si>
+        <t>ZEDELGEM</t>
+    </si>
+    <si>
+        <t>PISCINE DU BLOCRY</t>
+    </si>
+    <si>
+        <t>SPORTHAL DE KOEKOEK</t>
+    </si>
+    <si>
+        <t>HALEN</t>
+    </si>
+    <si>
+        <t>LE PETIT LIBERTY</t>
+    </si>
+    <si>
+        <t>OUDE MARKT</t>
+    </si>
+    <si>
+        <t>MONTENAKEN</t>
+    </si>
+    <si>
+        <t>LE KINEO (EPINE)</t>
+    </si>
+    <si>
+        <t>LIMELETTE</t>
+    </si>
+    <si>
+        <t>MA CAMPAGNE</t>
+    </si>
+    <si>
+        <t>NORD EXPRESS</t>
+    </si>
+    <si>
+        <t>BRAINE-L`ALLEUD</t>
+    </si>
+    <si>
+        <t>LE COYOTE</t>
+    </si>
+    <si>
+        <t>BELGRADE</t>
+    </si>
+    <si>
+        <t>LA POMPE</t>
+    </si>
+    <si>
+        <t>TC RUMBEKE</t>
+    </si>
+    <si>
+        <t>RUMBEKE</t>
+    </si>
+    <si>
+        <t>TENNIS CLUBHOUSE SMASH 51</t>
+    </si>
+    <si>
+        <t>LIERS</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB TROIS CHENES</t>
+    </si>
+    <si>
+        <t>AYENEUX</t>
+    </si>
+    <si>
+        <t>TENNIS WOTEN</t>
+    </si>
+    <si>
+        <t>SINT-STEVENS-WOLUWE</t>
+    </si>
+    <si>
+        <t>TC EEKLO</t>
+    </si>
+    <si>
+        <t>EEKLO</t>
+    </si>
+    <si>
+        <t>TENNIS BORNEM (TC)</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB COURT ST.ETIEN</t>
+    </si>
+    <si>
+        <t>COURT-SAINT-ETIENNE</t>
+    </si>
+    <si>
+        <t>ROYAL TENNIS CLUB TOURNAIS</t>
+    </si>
+    <si>
+        <t>FROYENNES</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB LA HULPE T.C.1310</t>
+    </si>
+    <si>
+        <t>LA HULPE</t>
+    </si>
+    <si>
+        <t>TC T ELLEBOOGSKE</t>
+    </si>
+    <si>
+        <t>GENK</t>
+    </si>
+    <si>
+        <t>TC OPGLABBEEK</t>
+    </si>
+    <si>
+        <t>OPGLABBEEK</t>
+    </si>
+    <si>
+        <t>KVW ZAVENTEM</t>
+    </si>
+    <si>
+        <t>ZAVENTEM</t>
+    </si>
+    <si>
+        <t>COMPLEXE SPORTIF D'EMBOURG</t>
+    </si>
+    <si>
+        <t>EMBOURG</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB VOORTKAPEL</t>
+    </si>
+    <si>
+        <t>SPARTA PETEGEM</t>
+    </si>
+    <si>
+        <t>PETEGEM-LEIE</t>
+    </si>
+    <si>
+        <t>RUGBY CLUB HULPE</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB DU PENSERY</t>
+    </si>
+    <si>
+        <t>MICHEROUX</t>
+    </si>
+    <si>
+        <t>TENNIS PLAINCHAMP</t>
+    </si>
+    <si>
+        <t>SAINT-VAAST</t>
+    </si>
+    <si>
+        <t>CLUB HOUSE TEN.EGLANTIERS</t>
+    </si>
+    <si>
+        <t>ROYAL LEOPOLD CLUB</t>
+    </si>
+    <si>
+        <t>BRUXELLES (UCCLE)</t>
+    </si>
+    <si>
+        <t>TENNISCLUB LAAKDAL VZW</t>
+    </si>
+    <si>
+        <t>LAAKDAL</t>
+    </si>
+    <si>
+        <t>TC STADE LEUVEN</t>
+    </si>
+    <si>
+        <t>HEVERLEE</t>
+    </si>
+    <si>
+        <t>HOUDENG-GOEGNIES</t>
+    </si>
+    <si>
+        <t>SPORTCAFE TOM</t>
+    </si>
+    <si>
+        <t>CLUB HOUSE UCCLE SPORT HOCKEY TENNI</t>
+    </si>
+    <si>
+        <t>TENNIS ASA</t>
+    </si>
+    <si>
+        <t>ANTHEIT</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB HAILLOT</t>
+    </si>
+    <si>
+        <t>HAILLOT</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB TER BREME</t>
+    </si>
+    <si>
+        <t>BRECHT</t>
+    </si>
+    <si>
+        <t>TC BASVELD</t>
+    </si>
+    <si>
+        <t>ZONHOVEN</t>
+    </si>
+    <si>
+        <t>SAVANTI TC</t>
+    </si>
+    <si>
+        <t>SINT-AMANDS</t>
+    </si>
+    <si>
+        <t>TENNISCLUB LIMBURG MAAS</t>
+    </si>
+    <si>
+        <t>MAASMECHELEN</t>
+    </si>
+    <si>
+        <t>TC RUA</t>
+    </si>
+    <si>
+        <t>BRASSCHAAT</t>
+    </si>
+    <si>
+        <t>BEERSCHOT TENNIS &amp; HOCKEY</t>
+    </si>
+    <si>
+        <t>KONTICH</t>
+    </si>
+    <si>
+        <t>TC DE ZWALUW</t>
+    </si>
+    <si>
+        <t>OOSTERZONEN K.F.C.</t>
+    </si>
+    <si>
+        <t>OOSTERWIJK</t>
+    </si>
+    <si>
+        <t>RAECT MONS (TENNIS)</t>
+    </si>
+    <si>
+        <t>MONS</t>
+    </si>
+    <si>
+        <t>TC NETEVALLEI</t>
+    </si>
+    <si>
+        <t>TENNISCLUB AS</t>
+    </si>
+    <si>
+        <t>AS</t>
+    </si>
+    <si>
+        <t>T.C. OASE</t>
+    </si>
+    <si>
+        <t>SIJSELE</t>
+    </si>
+    <si>
+        <t>ROYAL TENNIS CLUB LOUVIEROIS(ETE0</t>
+    </si>
+    <si>
+        <t>LA LOUVIERE</t>
+    </si>
+    <si>
+        <t>TC VELINA</t>
+    </si>
+    <si>
+        <t>OVERBOELARE</t>
+    </si>
+    <si>
+        <t>STEENPOELGOLF</t>
+    </si>
+    <si>
+        <t>ITTERBEEK</t>
+    </si>
+    <si>
+        <t>ROYAL VICTORY HOCKEY CLUB</t>
+    </si>
+    <si>
+        <t>EDEGEM</t>
+    </si>
+    <si>
+        <t>HOCKEYCLUB H IN H</t>
+    </si>
+    <si>
+        <t>HOEGAARDEN</t>
+    </si>
+    <si>
+        <t>TENNISCLUB TENKIE</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB BOIS DU PRINCE</t>
+    </si>
+    <si>
+        <t>MONTIGNY-LE-TILLEUL</t>
+    </si>
+    <si>
+        <t>CAFE BEUKENHOF</t>
+    </si>
+    <si>
+        <t>AALST</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB MARCHE</t>
+    </si>
+    <si>
+        <t>MARCHE-EN-FAMENNE</t>
+    </si>
+    <si>
+        <t>LE LIGHT BAR</t>
+    </si>
+    <si>
+        <t>STREPY-BRACQUEGNIES</t>
+    </si>
+    <si>
+        <t>RAKKET TC</t>
+    </si>
+    <si>
+        <t>HULSHOUT</t>
+    </si>
+    <si>
+        <t>PAVILJOEN</t>
+    </si>
+    <si>
+        <t>DE POSTHOORN</t>
+    </si>
+    <si>
+        <t>OOSTHAM</t>
+    </si>
+    <si>
+        <t>TWIT PEIRD</t>
+    </si>
+    <si>
+        <t>MALDEGEM</t>
+    </si>
+    <si>
+        <t>LE GRAVIER</t>
+    </si>
+    <si>
+        <t>CHENEE</t>
+    </si>
+    <si>
+        <t>TAVERNE PIETTE</t>
+    </si>
+    <si>
+        <t>LE KLEYER</t>
+    </si>
+    <si>
+        <t>CAFE DE LA PLAINE</t>
+    </si>
+    <si>
+        <t>CHATELINEAU</t>
+    </si>
+    <si>
+        <t>LE RALLYE</t>
+    </si>
+    <si>
+        <t>DE GROENE</t>
+    </si>
+    <si>
+        <t>MELSELE</t>
+    </si>
+    <si>
+        <t>THE NEW SEVENTY SEVEN</t>
+    </si>
+    <si>
+        <t>DUIVELS CAFE</t>
+    </si>
+    <si>
+        <t>DE MUSTANG</t>
+    </si>
+    <si>
+        <t>LEMBEEK</t>
+    </si>
+    <si>
+        <t>DE BALANS</t>
+    </si>
+    <si>
+        <t>HINGENE</t>
+    </si>
+    <si>
+        <t>CAFE PIRSON</t>
+    </si>
+    <si>
+        <t>JUMET</t>
+    </si>
+    <si>
+        <t>CREF (FOOTBALL REGION WALLONE)</t>
+    </si>
+    <si>
+        <t>TREMBLEUR</t>
+    </si>
+    <si>
+        <t>D-BAR</t>
+    </si>
+    <si>
+        <t>CHEZ NOUS</t>
+    </si>
+    <si>
+        <t>T HUIS</t>
+    </si>
+    <si>
+        <t>ROTSELAAR</t>
+    </si>
+    <si>
+        <t>TAVERNE DU SHOPPING</t>
+    </si>
+    <si>
+        <t>T STAMINEEKE</t>
+    </si>
+    <si>
+        <t>LOMMEL</t>
+    </si>
+    <si>
+        <t>THE BUTTERFLY</t>
+    </si>
+    <si>
+        <t>T KAPITEINTJE</t>
+    </si>
+    <si>
+        <t>BLANKENBERGE</t>
+    </si>
+    <si>
+        <t>OUDE BAREEL</t>
+    </si>
+    <si>
+        <t>ZELE</t>
+    </si>
+    <si>
+        <t>PLAZA</t>
+    </si>
+    <si>
+        <t>L EPHEMERE ( LA TAPERIA)</t>
+    </si>
+    <si>
+        <t>DE TURNCLUB</t>
+    </si>
+    <si>
+        <t>CELTIC TOWERS</t>
+    </si>
+    <si>
+        <t>SPORTOASE DUINENWATER</t>
+    </si>
+    <si>
+        <t>KNOKKE</t>
+    </si>
+    <si>
+        <t>T SPANT</t>
+    </si>
+    <si>
+        <t>LES FONTAINES</t>
+    </si>
+    <si>
+        <t>ETTERBEEK</t>
+    </si>
+    <si>
+        <t>GREEN FAIRY</t>
+    </si>
+    <si>
+        <t>NAMUR</t>
+    </si>
+    <si>
+        <t>DE ZWEMKOM</t>
+    </si>
+    <si>
+        <t>HAMME</t>
+    </si>
+    <si>
+        <t>BIJ DE BAAS</t>
+    </si>
+    <si>
+        <t>SHOOTERS</t>
+    </si>
+    <si>
+        <t>TREMELO</t>
+    </si>
+    <si>
+        <t>BOERENHOF</t>
+    </si>
+    <si>
+        <t>OELEGEM</t>
+    </si>
+    <si>
+        <t>CAFE TYL</t>
+    </si>
+    <si>
+        <t>TURNHOUT</t>
+    </si>
+    <si>
+        <t>GEMEENTEHUIS</t>
+    </si>
+    <si>
+        <t>DIKSMUIDE</t>
+    </si>
+    <si>
+        <t>L'ORCHIDEE</t>
+    </si>
+    <si>
+        <t>BRUXELLES SCHAERBEEK</t>
+    </si>
+    <si>
+        <t>SVELTA</t>
+    </si>
+    <si>
+        <t>L'HOEG+ID À L'ÉTAGE</t>
+    </si>
+    <si>
+        <t>BACCHUS</t>
+    </si>
+    <si>
+        <t>IVOZ-RAMET</t>
+    </si>
+    <si>
+        <t>LE CAMBRINUS</t>
+    </si>
+    <si>
+        <t>CENTRUM</t>
+    </si>
+    <si>
+        <t>WIEKEVORST</t>
+    </si>
+    <si>
+        <t>IN DE GLORIA</t>
+    </si>
+    <si>
+        <t>HILSET</t>
+    </si>
+    <si>
+        <t>TRAPKES OP</t>
+    </si>
+    <si>
+        <t>TOPAZ</t>
+    </si>
+    <si>
+        <t>LES TZARS</t>
+    </si>
+    <si>
+        <t>ZERKEGEM</t>
+    </si>
+    <si>
+        <t>BEGEINHOF JEUGDHERBERG</t>
+    </si>
+    <si>
+        <t>CENTURY</t>
+    </si>
+    <si>
+        <t>DE KLINKOET</t>
+    </si>
+    <si>
+        <t>C'ICI+LE GOUT DES METS</t>
+    </si>
+    <si>
+        <t>DE 4 CRISPELEN</t>
+    </si>
+    <si>
+        <t>BREE</t>
+    </si>
+    <si>
+        <t>CAFE DE LA JEUNESSE</t>
+    </si>
+    <si>
+        <t>RANCE</t>
+    </si>
+    <si>
+        <t>D'HERBERGHE</t>
+    </si>
+    <si>
+        <t>PLEINTJE</t>
+    </si>
+    <si>
+        <t>BEERZEL</t>
+    </si>
+    <si>
+        <t>MAISON DU PEUPLE</t>
+    </si>
+    <si>
+        <t>HAINE-SAINT-PAUL</t>
+    </si>
+    <si>
+        <t>L'EDEL</t>
+    </si>
+    <si>
+        <t>ANDERLUES</t>
+    </si>
+    <si>
+        <t>FLASH BACK</t>
+    </si>
+    <si>
+        <t>HUIZINGEN</t>
+    </si>
+    <si>
+        <t>SAMBA CAFE</t>
+    </si>
+    <si>
+        <t>BEERSEL</t>
+    </si>
+    <si>
+        <t>KERFF</t>
+    </si>
+    <si>
+        <t>GEMMENICH</t>
+    </si>
+    <si>
+        <t>OUDE KETEL</t>
+    </si>
+    <si>
+        <t>HEIST-OP-DEN-BERG</t>
+    </si>
+    <si>
+        <t>BRASSERIE NATIONALE</t>
+    </si>
+    <si>
+        <t>O'LEARY'S</t>
+    </si>
+    <si>
+        <t>JODOIGNE</t>
+    </si>
+    <si>
+        <t>CAFE DE LA SURE</t>
+    </si>
+    <si>
+        <t>MARTELANGE</t>
+    </si>
+    <si>
+        <t>THE NEW TOP</t>
+    </si>
+    <si>
+        <t>QUIEVRAIN</t>
+    </si>
+    <si>
+        <t>LEDZZ BAR</t>
+    </si>
+    <si>
+        <t>DRAAK</t>
+    </si>
+    <si>
+        <t>KAPELLEN</t>
+    </si>
+    <si>
+        <t>SOLSLEUTEL</t>
+    </si>
+    <si>
+        <t>LOT</t>
+    </si>
+    <si>
+        <t>PURA VIDA</t>
+    </si>
+    <si>
+        <t>OOSTENDE</t>
+    </si>
+    <si>
+        <t>LE RUSTIQUE</t>
+    </si>
+    <si>
+        <t>ORTHO</t>
+    </si>
+    <si>
+        <t>L'EMBUSCADE</t>
+    </si>
+    <si>
+        <t>DIAMANT BAR</t>
+    </si>
+    <si>
+        <t>ROOS</t>
+    </si>
+    <si>
+        <t>HAASDONK</t>
+    </si>
+    <si>
+        <t>LE BISTRO</t>
+    </si>
+    <si>
+        <t>JEMELLE</t>
+    </si>
+    <si>
+        <t>LE LUCKY BALL</t>
+    </si>
+    <si>
+        <t>T KLAVERKE</t>
+    </si>
+    <si>
+        <t>ONZE-LIEVE-VROUW-WAVER</t>
+    </si>
+    <si>
+        <t>FARAO</t>
+    </si>
+    <si>
+        <t>VESPA</t>
+    </si>
+    <si>
+        <t>LE RENARD</t>
+    </si>
+    <si>
+        <t>TAVERNE ALBERT ONE</t>
+    </si>
+    <si>
+        <t>GOSSELIES</t>
+    </si>
+    <si>
+        <t>TAVERNE DES PRIMEVERES</t>
+    </si>
+    <si>
+        <t>L 'ESTAMINET</t>
+    </si>
+    <si>
+        <t>DE UIVER</t>
+    </si>
+    <si>
+        <t>IJSBAAN - GOE GEVALLEN</t>
+    </si>
+    <si>
+        <t>LIEDEKERKE</t>
+    </si>
+    <si>
+        <t>BLUE NOTE</t>
+    </si>
+    <si>
+        <t>PETIT PARIS</t>
+    </si>
+    <si>
+        <t>DE LEEUW VAN VLAANDEREN</t>
+    </si>
+    <si>
+        <t>SINT-NIKLAAS</t>
+    </si>
+    <si>
+        <t>VOLKSHUIS</t>
+    </si>
+    <si>
+        <t>KOKSIJDE</t>
+    </si>
+    <si>
+        <t>CAFE DE LA PLACE</t>
+    </si>
+    <si>
+        <t>BONCELLES</t>
+    </si>
+    <si>
+        <t>STVV CAFE DU SOLEIL (STAYEN)</t>
+    </si>
+    <si>
+        <t>SINT-TRUIDEN</t>
+    </si>
+    <si>
+        <t>BARMAZO</t>
+    </si>
+    <si>
+        <t>MERKSEM</t>
+    </si>
+    <si>
+        <t>SNOOKER RILEY INN</t>
+    </si>
+    <si>
+        <t>MARTKAFEE</t>
+    </si>
+    <si>
+        <t>IZEGEM</t>
+    </si>
+    <si>
+        <t>SIRIUS</t>
+    </si>
+    <si>
+        <t>T PLAKIJZER</t>
+    </si>
+    <si>
+        <t>AU CLUB</t>
+    </si>
+    <si>
+        <t>LEDEBERG</t>
+    </si>
+    <si>
+        <t>LA PARENTHESE</t>
+    </si>
+    <si>
+        <t>CHARLEROI</t>
+    </si>
+    <si>
+        <t>L'UNION</t>
+    </si>
+    <si>
+        <t>HERSTAL</t>
+    </si>
+    <si>
+        <t>SPORTCOMPLEX DE SCHOMME</t>
+    </si>
+    <si>
+        <t>BOOM</t>
+    </si>
+    <si>
+        <t>TAVERNE DRAKAR</t>
+    </si>
+    <si>
+        <t>LEOPOLDSBURG</t>
+    </si>
+    <si>
+        <t>C.S.DEMUYTER-RISC FOOTBALL</t>
+    </si>
+    <si>
+        <t>BRUXELLES (IXELLES)</t>
+    </si>
+    <si>
+        <t>CHANDELIER D'OR</t>
+    </si>
+    <si>
+        <t>SPA</t>
+    </si>
+    <si>
+        <t>BAGATEL</t>
+    </si>
+    <si>
+        <t>HECHTEL</t>
+    </si>
+    <si>
+        <t>STADION</t>
+    </si>
+    <si>
+        <t>PLEZANTE HOEK</t>
+    </si>
+    <si>
+        <t>LIER</t>
+    </si>
+    <si>
+        <t>S&amp;R DOMMELSLAG REST EAU CAFE</t>
+    </si>
+    <si>
+        <t>OVERPELT</t>
+    </si>
+    <si>
+        <t>NO NAME S CAFE</t>
+    </si>
+    <si>
+        <t>BRUXELLES (WOLUWE-SAINT-LAMBERT)</t>
+    </si>
+    <si>
+        <t>BACKSTAGE</t>
+    </si>
+    <si>
+        <t>DEURNE</t>
+    </si>
+    <si>
+        <t>KOEPUUR</t>
+    </si>
+    <si>
+        <t>TEXTIELHUIS VOLHARDING</t>
+    </si>
+    <si>
+        <t>TIELT</t>
+    </si>
+    <si>
+        <t>OLD TRAFFORD</t>
+    </si>
+    <si>
+        <t>TAVERNE ST PAUL</t>
+    </si>
+    <si>
+        <t>BIJ SMEULDERS</t>
+    </si>
+    <si>
+        <t>BERINGEN</t>
+    </si>
+    <si>
+        <t>LE RELAXHORIS</t>
+    </si>
+    <si>
+        <t>XHORIS</t>
+    </si>
+    <si>
+        <t>CHEZ FRANCE</t>
+    </si>
+    <si>
+        <t>BRESSOUX</t>
+    </si>
+    <si>
+        <t>BRASSERIE DU VIEUX PONT</t>
+    </si>
+    <si>
+        <t>TROIS-PONTS</t>
+    </si>
+    <si>
+        <t>LE CODE BAR</t>
+    </si>
+    <si>
+        <t>MALMEDY</t>
+    </si>
+    <si>
+        <t>SPORT INN ( SPORTHAL)</t>
+    </si>
+    <si>
+        <t>L'IMPAIR</t>
+    </si>
+    <si>
+        <t>LE CENTRAL</t>
+    </si>
+    <si>
+        <t>LE CHAPLIN</t>
+    </si>
+    <si>
+        <t>DEN NIEVEN HERTOG</t>
+    </si>
+    <si>
+        <t>HOBOKEN</t>
+    </si>
+    <si>
+        <t>L'AUTOBUS</t>
+    </si>
+    <si>
+        <t>LA MASCOTTE</t>
+    </si>
+    <si>
+        <t>CAFE T VERVOLG</t>
+    </si>
+    <si>
+        <t>GERAARDSBERGEN</t>
+    </si>
+    <si>
+        <t>LA TAVERNE</t>
+    </si>
+    <si>
+        <t>HOTTON</t>
+    </si>
+    <si>
+        <t>AU NOUVEAU PONT</t>
+    </si>
+    <si>
+        <t>LE PREVERT II</t>
+    </si>
+    <si>
+        <t>SERAING</t>
+    </si>
+    <si>
+        <t>LA CORDERIE</t>
+    </si>
+    <si>
+        <t>DISON</t>
+    </si>
+    <si>
+        <t>LE BARREL</t>
+    </si>
+    <si>
+        <t>CAMPING LE VAL DE L'AISNE</t>
+    </si>
+    <si>
+        <t>AMONINES</t>
+    </si>
+    <si>
+        <t>LE KS</t>
+    </si>
+    <si>
+        <t>ROCHEFORT</t>
+    </si>
+    <si>
+        <t>LA MAIRIE</t>
+    </si>
+    <si>
+        <t>VERVIERS</t>
+    </si>
+    <si>
+        <t>LE MEMORIAL</t>
+    </si>
+    <si>
+        <t>LE STADE</t>
+    </si>
+    <si>
+        <t>OUGREE</t>
+    </si>
+    <si>
+        <t>CHALET UNION</t>
+    </si>
+    <si>
+        <t>TAVERNE CHOPIN</t>
+    </si>
+    <si>
+        <t>GRAND CAFÉ DES ARCADES</t>
+    </si>
+    <si>
+        <t>DEN DUG-OUT</t>
+    </si>
+    <si>
+        <t>O'PELERIN</t>
+    </si>
+    <si>
+        <t>BOUSVAL</t>
+    </si>
+    <si>
+        <t>IDEFIX</t>
+    </si>
+    <si>
+        <t>LE CASINO</t>
+    </si>
+    <si>
+        <t>STAVELOT</t>
+    </si>
+    <si>
+        <t>ST ANNAKRING</t>
+    </si>
+    <si>
+        <t>LE BISTROQUET</t>
+    </si>
+    <si>
+        <t>UCCLE</t>
+    </si>
+    <si>
+        <t>ISCB</t>
+    </si>
+    <si>
+        <t>BAUFFE</t>
+    </si>
+    <si>
+        <t>OUD CORTENAEKEN</t>
+    </si>
+    <si>
+        <t>KORTENAKEN</t>
+    </si>
+    <si>
+        <t>ST CORNELIUS</t>
+    </si>
+    <si>
+        <t>MARIAKERKE</t>
+    </si>
+    <si>
+        <t>LE TILO</t>
+    </si>
+    <si>
+        <t>DEN COMPTOIR</t>
+    </si>
+    <si>
+        <t>SINT-ANDRIES</t>
+    </si>
+    <si>
+        <t>HAPPY DAY'S CAFE</t>
+    </si>
+    <si>
+        <t>LESSINES</t>
+    </si>
+    <si>
+        <t>CAFETERIA PISCINE</t>
+    </si>
+    <si>
+        <t>GILLY</t>
+    </si>
+    <si>
+        <t>NO MAISON</t>
+    </si>
+    <si>
+        <t>LE BARA</t>
+    </si>
+    <si>
+        <t>TAVERNE SAINTE BARBE</t>
+    </si>
+    <si>
+        <t>CAFE BARATEE</t>
+    </si>
+    <si>
+        <t>NEERIJSE</t>
+    </si>
+    <si>
+        <t>T KROONTJE</t>
+    </si>
+    <si>
+        <t>LE LOUVRE</t>
+    </si>
+    <si>
+        <t>OHR HULDENBERG</t>
+    </si>
+    <si>
+        <t>HULDENBERG</t>
+    </si>
+    <si>
+        <t>THE PITCH SPORTS BAR</t>
+    </si>
+    <si>
+        <t>LE COQ GAULOIS</t>
+    </si>
+    <si>
+        <t>LE FOUQUET</t>
+    </si>
+    <si>
+        <t>LE SUPRA</t>
+    </si>
+    <si>
+        <t>MONCEAU-SUR-SAMBRE</t>
+    </si>
+    <si>
+        <t>SPORTHAL'T SOLVELD</t>
+    </si>
+    <si>
+        <t>TIELT (BT.)</t>
+    </si>
+    <si>
+        <t>CAFE DES SPORTS</t>
+    </si>
+    <si>
+        <t>LENS</t>
+    </si>
+    <si>
+        <t>LE PETIT SAAZ</t>
+    </si>
+    <si>
+        <t>QUAREGNON</t>
+    </si>
+    <si>
+        <t>T KAFFAAT</t>
+    </si>
+    <si>
+        <t>LE TAMIS</t>
+    </si>
+    <si>
+        <t>TIP-TOP</t>
+    </si>
+    <si>
+        <t>LA TETE D'ARGENT</t>
+    </si>
+    <si>
+        <t>LA TABLE RONDE</t>
+    </si>
+    <si>
+        <t>DEN TRAM</t>
+    </si>
+    <si>
+        <t>SQUARE</t>
+    </si>
+    <si>
+        <t>ZEEDUIF</t>
+    </si>
+    <si>
+        <t>KLEMSKERKE</t>
+    </si>
+    <si>
+        <t>DEN DELPER</t>
+    </si>
+    <si>
+        <t>DE OUDE SMIS</t>
+    </si>
+    <si>
+        <t>NEERWINDEN</t>
+    </si>
+    <si>
+        <t>LA CHOPE D'OR</t>
+    </si>
+    <si>
+        <t>LOCH NESS TAVERN</t>
+    </si>
+    <si>
+        <t>JEMEPPE-SUR-SAMBRE</t>
+    </si>
+    <si>
+        <t>DE VUURTOREN</t>
+    </si>
+    <si>
+        <t>HEIST</t>
+    </si>
+    <si>
+        <t>OUDEN TIJD</t>
+    </si>
+    <si>
+        <t>DEN AS</t>
+    </si>
+    <si>
+        <t>PIGEON D'OR</t>
+    </si>
+    <si>
+        <t>LE COMTE DE FLANDRE</t>
+    </si>
+    <si>
+        <t>LA PETITE GAYOLE</t>
+    </si>
+    <si>
+        <t>SNOOKER PALACE ORCHIDEE</t>
+    </si>
+    <si>
+        <t>WETTEREN</t>
+    </si>
+    <si>
+        <t>DE GILDE</t>
+    </si>
+    <si>
+        <t>PITTEM</t>
+    </si>
+    <si>
+        <t>MIEREGHEMHOF</t>
+    </si>
+    <si>
+        <t>MERCHTEM</t>
+    </si>
+    <si>
+        <t>SPORTLOKAAL</t>
+    </si>
+    <si>
+        <t>VRASENE</t>
+    </si>
+    <si>
+        <t>SPORTIEF</t>
+    </si>
+    <si>
+        <t>NEW BOUFFONS</t>
+    </si>
+    <si>
+        <t>BRUXELLES (ETTERBEEK)</t>
+    </si>
+    <si>
+        <t>DE GRENS</t>
+    </si>
+    <si>
+        <t>KEMZEKE</t>
+    </si>
+    <si>
+        <t>HANKAR</t>
+    </si>
+    <si>
+        <t>BRUXELLES (AUDERGHEM)</t>
+    </si>
+    <si>
+        <t>T STAMKROEGSKE</t>
+    </si>
+    <si>
+        <t>MUIZEN</t>
+    </si>
+    <si>
+        <t>AU BUCHER</t>
+    </si>
+    <si>
+        <t>WASMUEL</t>
+    </si>
+    <si>
+        <t>PARADOX</t>
+    </si>
+    <si>
+        <t>STEKENE</t>
+    </si>
+    <si>
+        <t>L'INATTENDU</t>
+    </si>
+    <si>
+        <t>WESTMINSTER</t>
+    </si>
+    <si>
+        <t>HOLLANDSE VISMIJN</t>
+    </si>
+    <si>
+        <t>LA VICTOIRE</t>
+    </si>
+    <si>
+        <t>BRUSSEL (ETTERBEEK)</t>
+    </si>
+    <si>
+        <t>TAVERNE DU DOUAIRE</t>
+    </si>
+    <si>
+        <t>OTTIGNIES</t>
+    </si>
+    <si>
+        <t>LE JUMP</t>
+    </si>
+    <si>
+        <t>MELKERIJ</t>
+    </si>
+    <si>
+        <t>AALBEKE</t>
+    </si>
+    <si>
+        <t>DE STAMINEE</t>
+    </si>
+    <si>
+        <t>LOCHRISTI</t>
+    </si>
+    <si>
+        <t>MAJESTIC (BIJ VOETJE)</t>
+    </si>
+    <si>
+        <t>GROOT-GELMEN</t>
+    </si>
+    <si>
+        <t>KRING ST GODELIEVE</t>
+    </si>
+    <si>
+        <t>WONDELGEM</t>
+    </si>
+    <si>
+        <t>DE OUDE VAART</t>
+    </si>
+    <si>
+        <t>COCOON</t>
+    </si>
+    <si>
+        <t>MARIE THERESE</t>
+    </si>
+    <si>
+        <t>T BLOK</t>
+    </si>
+    <si>
+        <t>BERTEM</t>
+    </si>
+    <si>
+        <t>ELOUGES</t>
+    </si>
+    <si>
+        <t>LE CONDRUZE</t>
+    </si>
+    <si>
+        <t>CINEY</t>
+    </si>
+    <si>
+        <t>SPORTCAFE</t>
+    </si>
+    <si>
+        <t>OTTENBURG</t>
+    </si>
+    <si>
+        <t>TABOR</t>
+    </si>
+    <si>
+        <t>C.S.TERDELT</t>
+    </si>
+    <si>
+        <t>LE PLANCHER</t>
+    </si>
+    <si>
+        <t>BRASSERIE DES CLUBS</t>
+    </si>
+    <si>
+        <t>FLORENNES</t>
+    </si>
+    <si>
+        <t>LE CENTRAL + SALLE</t>
+    </si>
+    <si>
+        <t>TEMPLEUVE</t>
+    </si>
+    <si>
+        <t>LA GUINGUETTE</t>
+    </si>
+    <si>
+        <t>L'YSER</t>
+    </si>
+    <si>
+        <t>MORLANWELZ-MARIEMONT</t>
+    </si>
+    <si>
+        <t>BISTRO DE PERSE</t>
+    </si>
+    <si>
+        <t>DE NIEUWE LANTAARN</t>
+    </si>
+    <si>
+        <t>DE TON</t>
+    </si>
+    <si>
+        <t>DEN BREUGHEL</t>
+    </si>
+    <si>
+        <t>DE PROF</t>
+    </si>
+    <si>
+        <t>MECHELEN</t>
+    </si>
+    <si>
+        <t>DON QUICHOTE</t>
+    </si>
+    <si>
+        <t>LE DUCAL</t>
+    </si>
+    <si>
+        <t>LE CARILLON</t>
+    </si>
+    <si>
+        <t>ANNES CAFE</t>
+    </si>
+    <si>
+        <t>HAPPY DAYS</t>
+    </si>
+    <si>
+        <t>JABBEKE</t>
+    </si>
+    <si>
+        <t>MOUSCRON</t>
+    </si>
+    <si>
+        <t>LA SIESTA</t>
+    </si>
+    <si>
+        <t>SPORTCAFE NOVA</t>
+    </si>
+    <si>
+        <t>IEPER</t>
+    </si>
+    <si>
+        <t>CANTERBURY</t>
+    </si>
+    <si>
+        <t>BECK'S INN</t>
+    </si>
+    <si>
+        <t>LE PHARE</t>
+    </si>
+    <si>
+        <t>LE SELECT</t>
+    </si>
+    <si>
+        <t>LA CALAMINE</t>
+    </si>
+    <si>
+        <t>REYNAERT</t>
+    </si>
+    <si>
+        <t>PERTOTAL</t>
+    </si>
+    <si>
+        <t>SINT-GILLIS-DENDERMONDE</t>
+    </si>
+    <si>
+        <t>NIEUW BIJLKEN</t>
+    </si>
+    <si>
+        <t>CAFE MON TOÎT</t>
+    </si>
+    <si>
+        <t>RUMES</t>
+    </si>
+    <si>
+        <t>GEMEENTEHUIS (JAAK)</t>
+    </si>
+    <si>
+        <t>ZOTTEGEM</t>
+    </si>
+    <si>
+        <t>BISTRO ST ANNEKE</t>
+    </si>
+    <si>
+        <t>HOUWAART</t>
+    </si>
+    <si>
+        <t>AU TRAM 6</t>
+    </si>
+    <si>
+        <t>T VERKET</t>
+    </si>
+    <si>
+        <t>DE SCHULLE</t>
+    </si>
+    <si>
+        <t>SINT-KRUIS</t>
+    </si>
+    <si>
+        <t>MOEDER LAMBIK</t>
+    </si>
+    <si>
+        <t>BREDENE</t>
+    </si>
+    <si>
+        <t>L'INSOMNIA</t>
+    </si>
+    <si>
+        <t>ARLON</t>
+    </si>
+    <si>
+        <t>SPORTHAL VARSENARE</t>
+    </si>
+    <si>
+        <t>VARSENARE</t>
+    </si>
+    <si>
+        <t>GOMAAR</t>
+    </si>
+    <si>
+        <t>DENDERHOUTEM</t>
+    </si>
+    <si>
+        <t>LA BELLE EPOQUE</t>
+    </si>
+    <si>
+        <t>P.I.B.O</t>
+    </si>
+    <si>
+        <t>MANNEKEN PILS</t>
+    </si>
+    <si>
+        <t>T KWETTERHOF</t>
+    </si>
+    <si>
+        <t>BETEKOM</t>
+    </si>
+    <si>
+        <t>POEDERLEE</t>
+    </si>
+    <si>
+        <t>J. CONNOLLY'S</t>
+    </si>
+    <si>
+        <t>SAINT-GEORGES-SUR-MEUSE</t>
+    </si>
+    <si>
+        <t>STIB CLUB HOUSE</t>
+    </si>
+    <si>
+        <t>BRUXELLES (HAEREN)</t>
+    </si>
+    <si>
+        <t>SPORTPLEIN</t>
+    </si>
+    <si>
+        <t>AU MODERNE</t>
+    </si>
+    <si>
+        <t>BRASMENIL</t>
+    </si>
+    <si>
+        <t>RALLYE</t>
+    </si>
+    <si>
+        <t>L'EUROPE</t>
+    </si>
+    <si>
+        <t>KORTENBERG</t>
+    </si>
+    <si>
+        <t>T EILAND</t>
+    </si>
+    <si>
+        <t>RESSEGEM</t>
+    </si>
+    <si>
+        <t>LA RENAISSANCE</t>
+    </si>
+    <si>
+        <t>BARCHON</t>
+    </si>
+    <si>
+        <t>THE CHAMPS</t>
+    </si>
+    <si>
+        <t>WESTENDE</t>
+    </si>
+    <si>
+        <t>LE BREUGHEL</t>
+    </si>
+    <si>
+        <t>TUBIZE</t>
+    </si>
+    <si>
+        <t>DEN HUT</t>
+    </si>
+    <si>
+        <t>BEERNEM</t>
+    </si>
+    <si>
+        <t>SETUP</t>
+    </si>
+    <si>
+        <t>TERNAT</t>
+    </si>
+    <si>
+        <t>VILLERS-LE-TEMPLE</t>
+    </si>
+    <si>
+        <t>JACHTHOEVE</t>
+    </si>
+    <si>
+        <t>LA MANIVELLE</t>
+    </si>
+    <si>
+        <t>VIELSALM</t>
+    </si>
+    <si>
+        <t>HET ZEVENDE ZEGEL</t>
+    </si>
+    <si>
+        <t>RUIEN</t>
+    </si>
+    <si>
+        <t>LE JAURES</t>
+    </si>
+    <si>
+        <t>T VERSCHIL</t>
+    </si>
+    <si>
+        <t>VOSSELAAR</t>
+    </si>
+    <si>
+        <t>L'EXCELSIOR</t>
+    </si>
+    <si>
+        <t>HERSEAUX</t>
+    </si>
+    <si>
+        <t>CHEERS</t>
+    </si>
+    <si>
+        <t>LES TROIS PASSERELLES</t>
+    </si>
+    <si>
+        <t>HOUFFALIZE</t>
+    </si>
+    <si>
+        <t>AU PAS PERDUS</t>
+    </si>
+    <si>
+        <t>DOTTIGNIES</t>
+    </si>
+    <si>
+        <t>DE WALVIS</t>
+    </si>
+    <si>
+        <t>DE WILDEMAN</t>
+    </si>
+    <si>
+        <t>HERENT</t>
+    </si>
+    <si>
+        <t>CAMBRINUS</t>
+    </si>
+    <si>
+        <t>WELLE</t>
+    </si>
+    <si>
+        <t>STATIONNEKE</t>
+    </si>
+    <si>
+        <t>RUISBROEK</t>
+    </si>
+    <si>
+        <t>THE SAILOR</t>
+    </si>
+    <si>
+        <t>ZEEBRUGGE</t>
+    </si>
+    <si>
+        <t>DE KROPHOEK</t>
+    </si>
+    <si>
+        <t>CAFE HANENBERG</t>
+    </si>
+    <si>
+        <t>RETIE</t>
+    </si>
+    <si>
+        <t>VERMAAK</t>
+    </si>
+    <si>
+        <t>BOOISCHOT</t>
+    </si>
+    <si>
+        <t>HALF TIME</t>
+    </si>
+    <si>
+        <t>LEBBEKE</t>
+    </si>
+    <si>
+        <t>LE CELTIC</t>
+    </si>
+    <si>
+        <t>VIRTON</t>
+    </si>
+    <si>
+        <t>DE KOPEREN PAN</t>
+    </si>
+    <si>
+        <t>T VELD</t>
+    </si>
+    <si>
+        <t>ADINKERKE</t>
+    </si>
+    <si>
+        <t>LA ROSA</t>
+    </si>
+    <si>
+        <t>KIELDRECHT</t>
+    </si>
+    <si>
+        <t>RIVE GAUCHE</t>
+    </si>
+    <si>
+        <t>HAMOIR</t>
+    </si>
+    <si>
+        <t>K.F.C.M. HALLAAR</t>
+    </si>
+    <si>
+        <t>HALLAAR</t>
+    </si>
+    <si>
+        <t>CAFE THE CORNER</t>
+    </si>
+    <si>
+        <t>MALDEREN</t>
+    </si>
+    <si>
+        <t>DE KEMPIOEN</t>
+    </si>
+    <si>
+        <t>KUMTICH</t>
+    </si>
+    <si>
+        <t>T'UVELTJE</t>
+    </si>
+    <si>
+        <t>HOEVENEN</t>
+    </si>
+    <si>
+        <t>DRIJ GAPERS (DE)</t>
+    </si>
+    <si>
+        <t>LEEST</t>
+    </si>
+    <si>
+        <t>ST.ANNA'S TAVERN</t>
+    </si>
+    <si>
+        <t>VILVOORDE</t>
+    </si>
+    <si>
+        <t>T HALLEKE</t>
+    </si>
+    <si>
+        <t>SCHERPENHEUVEL</t>
+    </si>
+    <si>
+        <t>CAFE LAPAZ</t>
+    </si>
+    <si>
+        <t>DEN HALT</t>
+    </si>
+    <si>
+        <t>TILDONK</t>
+    </si>
+    <si>
+        <t>LETUGGA</t>
+    </si>
+    <si>
+        <t>LE SAGITAIRE</t>
+    </si>
+    <si>
+        <t>ROZEVELD (CAFE/FEESTZAAL)</t>
+    </si>
+    <si>
+        <t>TORHOUT</t>
+    </si>
+    <si>
+        <t>DE MOLEKENS</t>
+    </si>
+    <si>
+        <t>STEENOKKERZEEL</t>
+    </si>
+    <si>
+        <t>AU DAMIER</t>
+    </si>
+    <si>
+        <t>MENEN</t>
+    </si>
+    <si>
+        <t>DE WACHTZAAL</t>
+    </si>
+    <si>
+        <t>ASTENE</t>
+    </si>
+    <si>
+        <t>DE NIEUWE ZWINGELMOLEN</t>
+    </si>
+    <si>
+        <t>DE SPREEUW</t>
+    </si>
+    <si>
+        <t>ZANDVLIET</t>
+    </si>
+    <si>
+        <t>DE MILDE</t>
+    </si>
+    <si>
+        <t>DIEGEM</t>
+    </si>
+    <si>
+        <t>DE KLOKKE</t>
+    </si>
+    <si>
+        <t>SHERRY S PUB</t>
+    </si>
+    <si>
+        <t>ROESELARE</t>
+    </si>
+    <si>
+        <t>CLERMONT</t>
+    </si>
+    <si>
+        <t>OUD SCHUNNEBROECK</t>
+    </si>
+    <si>
+        <t>T GHISTELEHOF</t>
+    </si>
+    <si>
+        <t>GISTEL</t>
+    </si>
+    <si>
+        <t>LE FLORE</t>
+    </si>
+    <si>
+        <t>LE COBRA JAUNE</t>
+    </si>
+    <si>
+        <t>CAFE STELLA</t>
+    </si>
+    <si>
+        <t>SCHOTEN</t>
+    </si>
+    <si>
+        <t>LANTERREKE</t>
+    </si>
+    <si>
+        <t>LUBBEEK</t>
+    </si>
+    <si>
+        <t>DE VRIENDSCHAP</t>
+    </si>
+    <si>
+        <t>KAPELLE-OP-DEN-BOS</t>
+    </si>
+    <si>
+        <t>LE BOTANIQUE</t>
+    </si>
+    <si>
+        <t>PHILIPPEVILLE</t>
+    </si>
+    <si>
+        <t>DEN PLANSJEE</t>
+    </si>
+    <si>
+        <t>KAPRIJKE</t>
+    </si>
+    <si>
+        <t>ATLANTIS</t>
+    </si>
+    <si>
+        <t>SPORTSBAR</t>
+    </si>
+    <si>
+        <t>HOUTHALEN</t>
+    </si>
+    <si>
+        <t>LE CONCORDIA</t>
+    </si>
+    <si>
+        <t>EREZEE</t>
+    </si>
+    <si>
+        <t>SPORTHAL BALSAKKER</t>
+    </si>
+    <si>
+        <t>PRAATCAFE DE ROELAND</t>
+    </si>
+    <si>
+        <t>SINT-LAUREINS</t>
+    </si>
+    <si>
+        <t>LA CAFETT</t>
+    </si>
+    <si>
+        <t>CELLES</t>
+    </si>
+    <si>
+        <t>UNION'S TAVERN</t>
+    </si>
+    <si>
+        <t>T HOEKSKE</t>
+    </si>
+    <si>
+        <t>T MOLENSLOP</t>
+    </si>
+    <si>
+        <t>WEELDE</t>
+    </si>
+    <si>
+        <t>BENELUX</t>
+    </si>
+    <si>
+        <t>MOERBEKE-WAAS</t>
+    </si>
+    <si>
+        <t>AU BRASSEUR</t>
+    </si>
+    <si>
+        <t>T KLEIN RIJSEL</t>
+    </si>
+    <si>
+        <t>AU CARILLON</t>
+    </si>
+    <si>
+        <t>T KOUTERHOF</t>
+    </si>
+    <si>
+        <t>OORDEGEM</t>
+    </si>
+    <si>
+        <t>T LEETVERMAAK</t>
+    </si>
+    <si>
+        <t>OKEGEM</t>
+    </si>
+    <si>
+        <t>CAFE MESJEU</t>
+    </si>
+    <si>
+        <t>NEERHAREN</t>
+    </si>
+    <si>
+        <t>AMERICAN DINER 50"</t>
+    </si>
+    <si>
+        <t>BARVAUX-SUR-OURTHE</t>
+    </si>
+    <si>
+        <t>STAPELHOEF</t>
+    </si>
+    <si>
+        <t>LA BOULE DU CENTRE</t>
+    </si>
+    <si>
+        <t>GAURAIN-RAMECROIX</t>
+    </si>
+    <si>
+        <t>MAXIMS PLACE</t>
+    </si>
+    <si>
+        <t>PUTTE</t>
+    </si>
+    <si>
+        <t>LA PORALLEE</t>
+    </si>
+    <si>
+        <t>SOUGNE-REMOUCHAMPS</t>
+    </si>
+    <si>
+        <t>L'EKSTENSION</t>
+    </si>
+    <si>
+        <t>T HOEKSKEN</t>
+    </si>
+    <si>
+        <t>O TAKE</t>
+    </si>
+    <si>
+        <t>CAFE MEURIS</t>
+    </si>
+    <si>
+        <t>RAVELS</t>
+    </si>
+    <si>
+        <t>BUBBLES &amp; WINE</t>
+    </si>
+    <si>
+        <t>LE PROVENCAL</t>
+    </si>
+    <si>
+        <t>SWEET CAROLINE</t>
+    </si>
+    <si>
+        <t>KAMPENHOUT</t>
+    </si>
+    <si>
+        <t>ARMENONVILLE</t>
+    </si>
+    <si>
+        <t>BRASSERIE DU CERF</t>
+    </si>
+    <si>
+        <t>CERFONTAINE</t>
+    </si>
+    <si>
+        <t>AMON NOS AUTES</t>
+    </si>
+    <si>
+        <t>PEPINSTER</t>
+    </si>
+    <si>
+        <t>LE ST MARTIN</t>
+    </si>
+    <si>
+        <t>JALHAY</t>
+    </si>
+    <si>
+        <t>LE METROPOLE</t>
+    </si>
+    <si>
+        <t>JEMEPPE-SUR-MEUSE</t>
+    </si>
+    <si>
+        <t>SEVEN SEVEN</t>
+    </si>
+    <si>
+        <t>KLEIN IDEGEM</t>
+    </si>
+    <si>
+        <t>IDEGEM</t>
+    </si>
+    <si>
+        <t>LE COLOMBOPHILE + SALLE</t>
+    </si>
+    <si>
+        <t>KAIN/MONT-SAINT-AUBERT</t>
+    </si>
+    <si>
+        <t>DE KERKUIL</t>
+    </si>
+    <si>
+        <t>DEFTINGE</t>
+    </si>
+    <si>
+        <t>VIER WEGEN</t>
+    </si>
+    <si>
+        <t>SINT-KATELIJNE-WAVER</t>
+    </si>
+    <si>
+        <t>CAFE EENDRACHT</t>
+    </si>
+    <si>
+        <t>SERSKAMP</t>
+    </si>
+    <si>
+        <t>VREDEZAAL</t>
+    </si>
+    <si>
+        <t>EVERBERG</t>
+    </si>
+    <si>
+        <t>LE KENNEDY</t>
+    </si>
+    <si>
+        <t>STEDELIJK ZWEMBAD (CAFETARIA BOVEN)</t>
+    </si>
+    <si>
+        <t>DE WARANDE</t>
+    </si>
+    <si>
+        <t>HAALTERT</t>
+    </si>
+    <si>
+        <t>BOULEVARD</t>
+    </si>
+    <si>
+        <t>AS DE CARREAU</t>
+    </si>
+    <si>
+        <t>TAVERNE DU LOUP</t>
+    </si>
+    <si>
+        <t>AU VIEUX COMPTOIR</t>
+    </si>
+    <si>
+        <t>MAR AZUL</t>
+    </si>
+    <si>
+        <t>TAVERNE LE THABOR</t>
+    </si>
+    <si>
+        <t>BASSILLY</t>
+    </si>
+    <si>
+        <t>IN DE WANDELING</t>
+    </si>
+    <si>
+        <t>L'ARISTO</t>
+    </si>
+    <si>
+        <t>PALLIETER</t>
+    </si>
+    <si>
+        <t>SINT-LIEVENS-HOUTEM</t>
+    </si>
+    <si>
+        <t>PICASSO</t>
+    </si>
+    <si>
+        <t>L'HOTEL DE VILLE</t>
+    </si>
+    <si>
+        <t>MANAGE</t>
+    </si>
+    <si>
+        <t>LE BLOODY MARY</t>
+    </si>
+    <si>
+        <t>GOUGNIES</t>
+    </si>
+    <si>
+        <t>DE BERGPOORT</t>
+    </si>
+    <si>
+        <t>THE FAME X3</t>
+    </si>
+    <si>
+        <t>POP UP CAFE DE PIT (PAROCHIECENTRUM</t>
+    </si>
+    <si>
+        <t>KASTERLEE</t>
+    </si>
+    <si>
+        <t>ST. JACOBSHUIS</t>
+    </si>
+    <si>
+        <t>LISSEWEGE</t>
+    </si>
+    <si>
+        <t>DE PIRANHA</t>
+    </si>
+    <si>
+        <t>SCHELLEBELLE</t>
+    </si>
+    <si>
+        <t>PONDEROSA</t>
+    </si>
+    <si>
+        <t>KOTEM</t>
+    </si>
+    <si>
+        <t>T GENOEGEN</t>
+    </si>
+    <si>
+        <t>DE MANSARDE</t>
+    </si>
+    <si>
+        <t>TER VONCKE</t>
+    </si>
+    <si>
+        <t>DE WELKOM</t>
+    </si>
+    <si>
+        <t>LE STOP</t>
+    </si>
+    <si>
+        <t>DYLAN S II</t>
+    </si>
+    <si>
+        <t>DE KLOK (KRUGERSHOF)</t>
+    </si>
+    <si>
+        <t>L'EMPEREUR</t>
+    </si>
+    <si>
+        <t>BASECLES</t>
+    </si>
+    <si>
+        <t>MON VILLAGE+SALLE</t>
+    </si>
+    <si>
+        <t>MOLENBAIX</t>
+    </si>
+    <si>
+        <t>T KETJE</t>
+    </si>
+    <si>
+        <t>LE CAF'CONC'</t>
+    </si>
+    <si>
+        <t>SAINT-LEGER-EN-GAUME</t>
+    </si>
+    <si>
+        <t>T FORUM</t>
+    </si>
+    <si>
+        <t>DE DRIE KONINGEN</t>
+    </si>
+    <si>
+        <t>WESTKAPELLE</t>
+    </si>
+    <si>
+        <t>DEN WILLECOM SPORTHAL</t>
+    </si>
+    <si>
+        <t>DEN HOEK</t>
+    </si>
+    <si>
+        <t>OLEN</t>
+    </si>
+    <si>
+        <t>DOUR</t>
+    </si>
+    <si>
+        <t>GO HALL SOCCER</t>
+    </si>
+    <si>
+        <t>GRIVEGNEE</t>
+    </si>
+    <si>
+        <t>SPORT CLUB ABBAYE</t>
+    </si>
+    <si>
+        <t>GLENN</t>
+    </si>
+    <si>
+        <t>MERKSPLAS</t>
+    </si>
+    <si>
+        <t>SPORTLOKAAL BILLIARD PALACE</t>
+    </si>
+    <si>
+        <t>CAFETARIA COMPLEXE SPORTIF</t>
+    </si>
+    <si>
+        <t>GENAPPE</t>
+    </si>
+    <si>
+        <t>AU MINISTERE</t>
+    </si>
+    <si>
+        <t>TECHNOFIT SPORT EN KAFFEE</t>
+    </si>
+    <si>
+        <t>FITNESS TRAFFIC</t>
+    </si>
+    <si>
+        <t>LANAKEN</t>
+    </si>
+    <si>
+        <t>LE FOYER</t>
+    </si>
+    <si>
+        <t>EUGIES</t>
+    </si>
+    <si>
+        <t>LE MALAKOFF</t>
+    </si>
+    <si>
+        <t>LINKEBEEK</t>
+    </si>
+    <si>
+        <t>WACKO'S</t>
+    </si>
+    <si>
+        <t>L'EGYPTE</t>
+    </si>
+    <si>
+        <t>T KAFEE</t>
+    </si>
+    <si>
+        <t>CAFE L'ENTITE</t>
+    </si>
+    <si>
+        <t>ESTINNES</t>
+    </si>
+    <si>
+        <t>MARTIN'S CENTRAL PARK</t>
+    </si>
+    <si>
+        <t>T JONCKHOLT CAFE</t>
+    </si>
+    <si>
+        <t>HOELBEEK</t>
+    </si>
+    <si>
+        <t>DE NACHTMIS</t>
+    </si>
+    <si>
+        <t>MELDERT</t>
+    </si>
+    <si>
+        <t>VISSERSHOF VISVIJVER</t>
+    </si>
+    <si>
+        <t>MERE</t>
+    </si>
+    <si>
+        <t>A PORAI</t>
+    </si>
+    <si>
+        <t>TILFF</t>
+    </si>
+    <si>
+        <t>HORIZON PC</t>
+    </si>
+    <si>
+        <t>CAFE REAL MADRID</t>
+    </si>
+    <si>
+        <t>CAFE FEESTZAAL DE KEYZER</t>
+    </si>
+    <si>
+        <t>LE NEW SEREY</t>
+    </si>
+    <si>
+        <t>DE DUIF</t>
+    </si>
+    <si>
+        <t>LINT</t>
+    </si>
+    <si>
+        <t>LA CONCORDE</t>
+    </si>
+    <si>
+        <t>FRAIPONT</t>
+    </si>
+    <si>
+        <t>LA CERVOISE</t>
+    </si>
+    <si>
+        <t>DE CROONE</t>
+    </si>
+    <si>
+        <t>STABROEK</t>
+    </si>
+    <si>
+        <t>T BUITENBEENTJE</t>
+    </si>
+    <si>
+        <t>SMEEREBBE-VLOERZEGEM</t>
+    </si>
+    <si>
+        <t>AUX FLAMBEAUX</t>
+    </si>
+    <si>
+        <t>DE VIER WEGEN</t>
+    </si>
+    <si>
+        <t>SPORTWERELD</t>
+    </si>
+    <si>
+        <t>VIKING TAVERNE</t>
+    </si>
+    <si>
+        <t>MIDDELKERKE</t>
+    </si>
+    <si>
+        <t>LANGDORP</t>
+    </si>
+    <si>
+        <t>HEERS</t>
+    </si>
+    <si>
+        <t>THOPPUNT</t>
+    </si>
+    <si>
+        <t>NEDERBRAKEL</t>
+    </si>
+    <si>
+        <t>LE DIAMOND BAR</t>
+    </si>
+    <si>
+        <t>CAFÉ SPLENDID</t>
+    </si>
+    <si>
+        <t>BAUDOUR</t>
+    </si>
+    <si>
+        <t>LE CHAWRESSE</t>
+    </si>
+    <si>
+        <t>CORNER</t>
+    </si>
+    <si>
+        <t>DEN AKOTEE</t>
+    </si>
+    <si>
+        <t>DE VLINDER</t>
+    </si>
+    <si>
+        <t>MINDERHOUT</t>
+    </si>
+    <si>
+        <t>ONS GENOEGEN</t>
+    </si>
+    <si>
+        <t>CAFE STING</t>
+    </si>
+    <si>
+        <t>L'ESCALE</t>
+    </si>
+    <si>
+        <t>REEDIJK</t>
+    </si>
+    <si>
+        <t>WANDRE</t>
+    </si>
+    <si>
+        <t>FLAGEYS</t>
+    </si>
+    <si>
+        <t>LE GRIFFON</t>
+    </si>
+    <si>
+        <t>SYLLABUSE</t>
+    </si>
+    <si>
+        <t>NOVA REAL</t>
+    </si>
+    <si>
+        <t>TAVERNE WANROY</t>
+    </si>
+    <si>
+        <t>WAANRODE</t>
+    </si>
+    <si>
+        <t>LE VILLERS</t>
+    </si>
+    <si>
+        <t>COUILLET</t>
+    </si>
+    <si>
+        <t>TAVERNE DES MAITRES FROMAGERS</t>
+    </si>
+    <si>
+        <t>T FONTEINTJE</t>
+    </si>
+    <si>
+        <t>BEVEREN-LEIE</t>
+    </si>
+    <si>
+        <t>DE PADDOCK</t>
+    </si>
+    <si>
+        <t>MARQUISE</t>
+    </si>
+    <si>
+        <t>BAASRODE</t>
+    </si>
+    <si>
+        <t>LE DER</t>
+    </si>
+    <si>
+        <t>WASMES</t>
+    </si>
+    <si>
+        <t>LE RAPIDO</t>
+    </si>
+    <si>
+        <t>THUIN</t>
+    </si>
+    <si>
+        <t>A LA PASSERELLE</t>
+    </si>
+    <si>
+        <t>GLONS</t>
+    </si>
+    <si>
+        <t>NIEF PENNEKE</t>
+    </si>
+    <si>
+        <t>DE DRY CLAVEREN</t>
+    </si>
+    <si>
+        <t>AUBERGE</t>
+    </si>
+    <si>
+        <t>BRASSERIE SAINT MARDOISE</t>
+    </si>
+    <si>
+        <t>SAINT-MARD</t>
+    </si>
+    <si>
+        <t>LA BARRIERE</t>
+    </si>
+    <si>
+        <t>GHISLENGHIEN</t>
+    </si>
+    <si>
+        <t>GARRINCHA BRUGGE</t>
+    </si>
+    <si>
+        <t>ASSEBROEK</t>
+    </si>
+    <si>
+        <t>TUNNEL</t>
+    </si>
+    <si>
+        <t>LE FIGARO</t>
+    </si>
+    <si>
+        <t>LA TABLE D'AMY</t>
+    </si>
+    <si>
+        <t>CAFE PACIFIC</t>
+    </si>
+    <si>
+        <t>LANKLAAR</t>
+    </si>
+    <si>
+        <t>ANCIENNE MAISON COMMUNALE</t>
+    </si>
+    <si>
+        <t>LUINGNE</t>
+    </si>
+    <si>
+        <t>MOLLY'S</t>
+    </si>
+    <si>
+        <t>HOEFIJZER</t>
+    </si>
+    <si>
+        <t>LE PULLMAN</t>
+    </si>
+    <si>
+        <t>ROUX</t>
+    </si>
+    <si>
+        <t>HOCKEY CLUB BRUGGE</t>
+    </si>
+    <si>
+        <t>LES TOURISTES</t>
+    </si>
+    <si>
+        <t>VIRELLES</t>
+    </si>
+    <si>
+        <t>FLORIDE</t>
+    </si>
+    <si>
+        <t>DE WATERTOREN</t>
+    </si>
+    <si>
+        <t>BERENDRECHT</t>
+    </si>
+    <si>
+        <t>DE STEENBERG</t>
+    </si>
+    <si>
+        <t>TERVUREN</t>
+    </si>
+    <si>
+        <t>GEMBLOUX</t>
+    </si>
+    <si>
+        <t>BREUGHEL</t>
+    </si>
+    <si>
+        <t>MORTSEL</t>
+    </si>
+    <si>
+        <t>CHEZ BEAU J'AI</t>
+    </si>
+    <si>
+        <t>RONGY</t>
+    </si>
+    <si>
+        <t>LA BELLAVIGNA</t>
+    </si>
+    <si>
+        <t>LE GAVROCHE</t>
+    </si>
+    <si>
+        <t>DE BEURS</t>
+    </si>
+    <si>
+        <t>SNOOKER KORTENBERG</t>
+    </si>
+    <si>
+        <t>T BERGSKE</t>
+    </si>
+    <si>
+        <t>LA DAME DE PIQUE</t>
+    </si>
+    <si>
+        <t>LE SAINT ANTOINE</t>
+    </si>
+    <si>
+        <t>LE NEW TERMINUS</t>
+    </si>
+    <si>
+        <t>KRING SINT HUBERTUS</t>
+    </si>
+    <si>
+        <t>ZAFFELARE</t>
+    </si>
+    <si>
+        <t>ONDER DEN TOREN</t>
+    </si>
+    <si>
+        <t>ESSEN</t>
+    </si>
+    <si>
+        <t>PRESLEY</t>
+    </si>
+    <si>
+        <t>LE CITY</t>
+    </si>
+    <si>
+        <t>WATERLOO</t>
+    </si>
+    <si>
+        <t>LE BOULEVARD</t>
+    </si>
+    <si>
+        <t>ZEN</t>
+    </si>
+    <si>
+        <t>DE PANNE</t>
+    </si>
+    <si>
+        <t>RINCONADA</t>
+    </si>
+    <si>
+        <t>MIEKE PAP</t>
+    </si>
+    <si>
+        <t>POPPEL</t>
+    </si>
+    <si>
+        <t>L'ESTAMINET</t>
+    </si>
+    <si>
+        <t>ENGHIEN</t>
+    </si>
+    <si>
+        <t>LE CLUB BLEU</t>
+    </si>
+    <si>
+        <t>BLEGNY</t>
+    </si>
+    <si>
+        <t>LAFAYETTE</t>
+    </si>
+    <si>
+        <t>ST LUCAS</t>
+    </si>
+    <si>
+        <t>SPORTHAL ELEVEN LANGEMARK</t>
+    </si>
+    <si>
+        <t>LANGEMARK</t>
+    </si>
+    <si>
+        <t>BROUWERSHOF</t>
+    </si>
+    <si>
+        <t>ICHTEGEM</t>
+    </si>
+    <si>
+        <t>VENNEHOF</t>
+    </si>
+    <si>
+        <t>GIERLE</t>
+    </si>
+    <si>
+        <t>PLACE TO BE</t>
+    </si>
+    <si>
+        <t>BERENDRECHT SPORT CAFE</t>
+    </si>
+    <si>
+        <t>DE REISDUIF</t>
+    </si>
+    <si>
+        <t>WOUBRECHTEGEM</t>
+    </si>
+    <si>
+        <t>LE COYOTE BAR</t>
+    </si>
+    <si>
+        <t>BIZET</t>
+    </si>
+    <si>
+        <t>CAFETARIA TENNISCLUB GT</t>
+    </si>
+    <si>
+        <t>BALEN</t>
+    </si>
+    <si>
+        <t>CLABECQ</t>
+    </si>
+    <si>
+        <t>MANU</t>
+    </si>
+    <si>
+        <t>RENOVA</t>
+    </si>
+    <si>
+        <t>ARENDONK</t>
+    </si>
+    <si>
+        <t>BREUGHELHOF</t>
+    </si>
+    <si>
+        <t>GENTBRUGGE</t>
+    </si>
+    <si>
+        <t>MOESJ</t>
+    </si>
+    <si>
+        <t>MEERBEKE</t>
+    </si>
+    <si>
+        <t>ST. ELIGIUS</t>
+    </si>
+    <si>
+        <t>ZEVENEKEN</t>
+    </si>
+    <si>
+        <t>POSEIDON</t>
+    </si>
+    <si>
+        <t>CAFE CAFE</t>
+    </si>
+    <si>
+        <t>LA PORTE D'ERE</t>
+    </si>
+    <si>
+        <t>ERE</t>
+    </si>
+    <si>
+        <t>CAFE PANNEHOF</t>
+    </si>
+    <si>
+        <t>CAMPINASTRAND</t>
+    </si>
+    <si>
+        <t>DESSEL</t>
+    </si>
+    <si>
+        <t>GANZENHOF CAFE EN ZAAL</t>
+    </si>
+    <si>
+        <t>BOWLING 67</t>
+    </si>
+    <si>
+        <t>LONTZEN</t>
+    </si>
+    <si>
+        <t>GIANNI'S</t>
+    </si>
+    <si>
+        <t>RU RIXENSART BUVETTE 1</t>
+    </si>
+    <si>
+        <t>ROSIERES</t>
+    </si>
+    <si>
+        <t>ONS HUIS</t>
+    </si>
+    <si>
+        <t>ESSENE</t>
+    </si>
+    <si>
+        <t>TYROL</t>
+    </si>
+    <si>
+        <t>AARTRIJKE</t>
+    </si>
+    <si>
+        <t>CAFE WELKOM</t>
+    </si>
+    <si>
+        <t>HAKENDOVER</t>
+    </si>
+    <si>
+        <t>PISCINE COMMUNALE</t>
+    </si>
+    <si>
+        <t>WANZE</t>
+    </si>
+    <si>
+        <t>@FUNDUM</t>
+    </si>
+    <si>
+        <t>EREMBODEGEM</t>
+    </si>
+    <si>
+        <t>PANORAMA</t>
+    </si>
+    <si>
+        <t>DILBEEK</t>
+    </si>
+    <si>
+        <t>MOLENHUIS</t>
+    </si>
+    <si>
+        <t>LE PARVIS</t>
+    </si>
+    <si>
+        <t>CHATELET</t>
+    </si>
+    <si>
+        <t>BODEGEM CITY</t>
+    </si>
+    <si>
+        <t>SINT-MARTENS-BODEGEM</t>
+    </si>
+    <si>
+        <t>7E HEMEL</t>
+    </si>
+    <si>
+        <t>OLD FORESTER</t>
+    </si>
+    <si>
+        <t>T PLENKE</t>
+    </si>
+    <si>
+        <t>PERK</t>
+    </si>
+    <si>
+        <t>HALL OMNISPORTS DE VAUX</t>
+    </si>
+    <si>
+        <t>VAUX-SOUS-CHEVREMONT</t>
+    </si>
+    <si>
+        <t>DE TWEE LEEUWKES</t>
+    </si>
+    <si>
+        <t>ZOUTLEEUW</t>
+    </si>
+    <si>
+        <t>LE ROUET</t>
+    </si>
+    <si>
+        <t>WANFERCEE-BAULET</t>
+    </si>
+    <si>
+        <t>DILKOM</t>
+    </si>
+    <si>
+        <t>TAVERNE DU CHATEAU</t>
+    </si>
+    <si>
+        <t>POULSEUR</t>
+    </si>
+    <si>
+        <t>CHEZ NEUCH</t>
+    </si>
+    <si>
+        <t>AU VIEUX HAN</t>
+    </si>
+    <si>
+        <t>HAN-SUR-LESSE</t>
+    </si>
+    <si>
+        <t>DE MARKOEN</t>
+    </si>
+    <si>
+        <t>WICHELEN</t>
+    </si>
+    <si>
+        <t>POSTILJON</t>
+    </si>
+    <si>
+        <t>BELLEGEM</t>
+    </si>
+    <si>
+        <t>LE REMBRANDT</t>
+    </si>
+    <si>
+        <t>APPLE CAFE</t>
+    </si>
+    <si>
+        <t>LE SYMPA</t>
+    </si>
+    <si>
+        <t>DE WALPUT</t>
+    </si>
+    <si>
+        <t>OOSTAKKER</t>
+    </si>
+    <si>
+        <t>TORENHOF</t>
+    </si>
+    <si>
+        <t>DIBANGO</t>
+    </si>
+    <si>
+        <t>D'OUDE TIMMERIE</t>
+    </si>
+    <si>
+        <t>ZONNEBEKE</t>
+    </si>
+    <si>
+        <t>T NIEF HOEKSKE</t>
+    </si>
+    <si>
+        <t>HOVE</t>
+    </si>
+    <si>
+        <t>ARENA SNOOKER</t>
+    </si>
+    <si>
+        <t>COILLIE TIME</t>
+    </si>
+    <si>
+        <t>BERLAAR</t>
+    </si>
+    <si>
+        <t>HERINNES-LEZ-PECQ</t>
+    </si>
+    <si>
+        <t>SPORTCENTRUM PEERDSBOS</t>
+    </si>
+    <si>
+        <t>RFC FLERON</t>
+    </si>
+    <si>
+        <t>FLERON</t>
+    </si>
+    <si>
+        <t>KING BOULEVARD</t>
+    </si>
+    <si>
+        <t>SEA BREEZE</t>
+    </si>
+    <si>
+        <t>CAFE RIGA</t>
+    </si>
+    <si>
+        <t>SPORTCENTRUM WINDEKIND</t>
+    </si>
+    <si>
+        <t>T PUTJE</t>
+    </si>
+    <si>
+        <t>OOSTKAMP</t>
+    </si>
+    <si>
+        <t>SNOOKER BCE</t>
+    </si>
+    <si>
+        <t>DE KASTEELDREEF</t>
+    </si>
+    <si>
+        <t>LOVENDEGEM</t>
+    </si>
+    <si>
+        <t>ECLIPSE</t>
+    </si>
+    <si>
+        <t>EXTRA-TIME MT ST GUIBERT</t>
+    </si>
+    <si>
+        <t>MONT-SAINT-GUIBERT</t>
+    </si>
+    <si>
+        <t>FIESTA SNOOKER</t>
+    </si>
+    <si>
+        <t>EVERGEM</t>
+    </si>
+    <si>
+        <t>CHAPLIN</t>
+    </si>
+    <si>
+        <t>T VERVOLG</t>
+    </si>
+    <si>
+        <t>MADELON</t>
+    </si>
+    <si>
+        <t>WEZEMBEEK-OPPEM</t>
+    </si>
+    <si>
+        <t>AUX CAMPENAIRES</t>
+    </si>
+    <si>
+        <t>STAMBRUGES</t>
+    </si>
+    <si>
+        <t>LA BONNE PLANQUE</t>
+    </si>
+    <si>
+        <t>LES ETATS-UNIS</t>
+    </si>
+    <si>
+        <t>POCKET SNOOKER</t>
+    </si>
+    <si>
+        <t>DEERLIJK</t>
+    </si>
+    <si>
+        <t>L'AIR PUR</t>
+    </si>
+    <si>
+        <t>CAPENBERG OXACO</t>
+    </si>
+    <si>
+        <t>BOECHOUT</t>
+    </si>
+    <si>
+        <t>SQUASH 22</t>
+    </si>
+    <si>
+        <t>PECHERIE DU TULTAY</t>
+    </si>
+    <si>
+        <t>SPRIMONT</t>
+    </si>
+    <si>
+        <t>ACE PLACE</t>
+    </si>
+    <si>
+        <t>WHY NOT</t>
+    </si>
+    <si>
+        <t>PRAATCAFE DE DONK</t>
+    </si>
+    <si>
+        <t>BASTOGNE</t>
+    </si>
+    <si>
+        <t>LAPSCHEURE</t>
+    </si>
+    <si>
+        <t>PARK</t>
+    </si>
+    <si>
+        <t>SINT-GILLIS-WAAS</t>
+    </si>
+    <si>
+        <t>ONDER DE TOREN</t>
+    </si>
+    <si>
+        <t>TAVERNE STATION DU DOCQ</t>
+    </si>
+    <si>
+        <t>SOMBREFFE</t>
+    </si>
+    <si>
+        <t>LE POINT DE VUE</t>
+    </si>
+    <si>
+        <t>LE MIAMI</t>
+    </si>
+    <si>
+        <t>SAINT-HUBERT</t>
+    </si>
+    <si>
+        <t>AU PONT DE FRANCE</t>
+    </si>
+    <si>
+        <t>LA GLANERIE</t>
+    </si>
+    <si>
+        <t>SPARTA</t>
+    </si>
+    <si>
+        <t>APPELS</t>
+    </si>
+    <si>
+        <t>LOLA</t>
+    </si>
+    <si>
+        <t>IN DE LINDE</t>
+    </si>
+    <si>
+        <t>DE COECK</t>
+    </si>
+    <si>
+        <t>THE PITSTOP</t>
+    </si>
+    <si>
+        <t>CHAPITEAU</t>
+    </si>
+    <si>
+        <t>AALTER</t>
+    </si>
+    <si>
+        <t>DE ZWALUW</t>
+    </si>
+    <si>
+        <t>LE CARAMBOL</t>
+    </si>
+    <si>
+        <t>PETIT-ENGHIEN</t>
+    </si>
+    <si>
+        <t>LE SMASHING</t>
+    </si>
+    <si>
+        <t>LE CASTEL</t>
+    </si>
+    <si>
+        <t>WALCOURT</t>
+    </si>
+    <si>
+        <t>BRASSERIE M</t>
+    </si>
+    <si>
+        <t>COMBLAIN-AU-PONT</t>
+    </si>
+    <si>
+        <t>NEW AVENUE</t>
+    </si>
+    <si>
+        <t>LUXHUIS</t>
+    </si>
+    <si>
+        <t>DE ZWAAN</t>
+    </si>
+    <si>
+        <t>CLUB DES ARTISTES</t>
+    </si>
+    <si>
+        <t>LE DRAPEAU FRANCAIS</t>
+    </si>
+    <si>
+        <t>PECQ</t>
+    </si>
+    <si>
+        <t>JAMES</t>
+    </si>
+    <si>
+        <t>DE DORPSPOMP</t>
+    </si>
+    <si>
+        <t>HERSELT</t>
+    </si>
+    <si>
+        <t>PLAY&amp;SPORT</t>
+    </si>
+    <si>
+        <t>WESTMALLE</t>
+    </si>
+    <si>
+        <t>CAFE DU CENTRE</t>
+    </si>
+    <si>
+        <t>ANTHISNES</t>
+    </si>
+    <si>
+        <t>COMPLEXE SPORTIF LINCENT</t>
+    </si>
+    <si>
+        <t>LINCENT</t>
+    </si>
+    <si>
+        <t>L'AUBERGE DU LAC</t>
+    </si>
+    <si>
+        <t>PERONNES-LEZ-ANTOING</t>
+    </si>
+    <si>
+        <t>GRAND CAFE SETTANTATRE</t>
+    </si>
+    <si>
+        <t>T WIELTJE</t>
+    </si>
+    <si>
+        <t>ALVERINGEM</t>
+    </si>
+    <si>
+        <t>CAFE SPORTIF</t>
+    </si>
+    <si>
+        <t>NIEL</t>
+    </si>
+    <si>
+        <t>DE PRIMEUR</t>
+    </si>
+    <si>
+        <t>HERK-DE-STAD</t>
+    </si>
+    <si>
+        <t>LOUNGE BAR LA BRASSERIE</t>
+    </si>
+    <si>
+        <t>MESSANCY</t>
+    </si>
+    <si>
+        <t>OUDENBURG</t>
+    </si>
+    <si>
+        <t>F.C. MELSBROEK</t>
+    </si>
+    <si>
+        <t>MELSBROEK</t>
+    </si>
+    <si>
+        <t>CLUBHUIS 'T C.O.C.</t>
+    </si>
+    <si>
+        <t>PARADIJS</t>
+    </si>
+    <si>
+        <t>OOIGEM</t>
+    </si>
+    <si>
+        <t>LE GRAND SALON</t>
+    </si>
+    <si>
+        <t>OBIGIES</t>
+    </si>
+    <si>
+        <t>WESPELAAR</t>
+    </si>
+    <si>
+        <t>LE POUL'S CAFE</t>
+    </si>
+    <si>
+        <t>LE CLUB</t>
+    </si>
+    <si>
+        <t>CAFE DE LA PRESSE</t>
+    </si>
+    <si>
+        <t>TAINTIGNIES</t>
+    </si>
+    <si>
+        <t>DEN OUDEN TOREN</t>
+    </si>
+    <si>
+        <t>KROEGSTJE</t>
+    </si>
+    <si>
+        <t>LE COMMUNAL</t>
+    </si>
+    <si>
+        <t>VAULX</t>
+    </si>
+    <si>
+        <t>MONACO</t>
+    </si>
+    <si>
+        <t>BERCHEM</t>
+    </si>
+    <si>
+        <t>SPORTHAL FC HAREN</t>
+    </si>
+    <si>
+        <t>BRUSSEL (HAREN)</t>
+    </si>
+    <si>
+        <t>BIECHTSTOEL</t>
+    </si>
+    <si>
+        <t>DADIZELE</t>
+    </si>
+    <si>
+        <t>PARKING</t>
+    </si>
+    <si>
+        <t>OVERMERE</t>
+    </si>
+    <si>
+        <t>LUX CAFE</t>
+    </si>
+    <si>
+        <t>AU TONNEAU</t>
+    </si>
+    <si>
+        <t>IN DEN CONGO</t>
+    </si>
+    <si>
+        <t>VOSSEM</t>
+    </si>
+    <si>
+        <t>LINDENHOF</t>
+    </si>
+    <si>
+        <t>TEMSE</t>
+    </si>
+    <si>
+        <t>HEMELRIJK</t>
+    </si>
+    <si>
+        <t>BEERSE</t>
+    </si>
+    <si>
+        <t>DE SCHERPE PLANK</t>
+    </si>
+    <si>
+        <t>LE BATONNIER</t>
+    </si>
+    <si>
+        <t>WAUX-HALL</t>
+    </si>
+    <si>
+        <t>LE REGENT</t>
+    </si>
+    <si>
+        <t>SPY</t>
+    </si>
+    <si>
+        <t>SPORTHAL TECHNICO</t>
+    </si>
+    <si>
+        <t>MEERPAAL</t>
+    </si>
+    <si>
+        <t>ROYAL</t>
+    </si>
+    <si>
+        <t>TAVERNE SAINT ROCH</t>
+    </si>
+    <si>
+        <t>VIEILLE GUINGUETTE+ SALLE</t>
+    </si>
+    <si>
+        <t>CHEZ ALEX ET FREDDY</t>
+    </si>
+    <si>
+        <t>COMINES</t>
+    </si>
+    <si>
+        <t>PISCINE NEUPRE</t>
+    </si>
+    <si>
+        <t>ROTHEUX-RIMIERE</t>
+    </si>
+    <si>
+        <t>STEDELIJK ZWEMBAD</t>
+    </si>
+    <si>
+        <t>AUX ETANGS</t>
+    </si>
+    <si>
+        <t>BRAINE-LE-COMTE</t>
+    </si>
+    <si>
+        <t>RIO</t>
+    </si>
+    <si>
+        <t>ZOERSEL</t>
+    </si>
+    <si>
+        <t>LION CAFE</t>
+    </si>
+    <si>
+        <t>DE KLETSER</t>
+    </si>
+    <si>
+        <t>HERDERSEM</t>
+    </si>
+    <si>
+        <t>LES TROIS BILLES</t>
+    </si>
+    <si>
+        <t>ENSIVAL</t>
+    </si>
+    <si>
+        <t>TAVERNE JOSAPHAT VALLEY</t>
+    </si>
+    <si>
+        <t>STROMBEEK-BEVER</t>
+    </si>
+    <si>
+        <t>MILOHEEM</t>
+    </si>
+    <si>
+        <t>COOL DOWN</t>
+    </si>
+    <si>
+        <t>MASSENHOVEN</t>
+    </si>
+    <si>
+        <t>L' EGLANTINE</t>
+    </si>
+    <si>
+        <t>LE SOLVAY</t>
+    </si>
+    <si>
+        <t>OUD KASTEEL</t>
+    </si>
+    <si>
+        <t>T PLEINTJE</t>
+    </si>
+    <si>
+        <t>BOWLING DE GOE SMETE</t>
+    </si>
+    <si>
+        <t>KOEKELARE</t>
+    </si>
+    <si>
+        <t>DE SNELLE DUIF</t>
+    </si>
+    <si>
+        <t>MORKHOVEN</t>
+    </si>
+    <si>
+        <t>DEN BAKKER</t>
+    </si>
+    <si>
+        <t>LE VIEUX JEMEPPE</t>
+    </si>
+    <si>
+        <t>LE PRINCE ROSE</t>
+    </si>
+    <si>
+        <t>TAVERNE DON GIULIO</t>
+    </si>
+    <si>
+        <t>XTRA-TIME</t>
+    </si>
+    <si>
+        <t>KRAAINEM</t>
+    </si>
+    <si>
+        <t>DE BOLLE</t>
+    </si>
+    <si>
+        <t>OUD BECQUEVOORT</t>
+    </si>
+    <si>
+        <t>BEKKEVOORT</t>
+    </si>
+    <si>
+        <t>CHEZ ALAIN</t>
+    </si>
+    <si>
+        <t>STREE</t>
+    </si>
+    <si>
+        <t>THALASSA</t>
+    </si>
+    <si>
+        <t>KIEFHOEVE</t>
+    </si>
+    <si>
+        <t>SOUMAGNE</t>
+    </si>
+    <si>
+        <t>EL PASO</t>
+    </si>
+    <si>
+        <t>HAMONT</t>
+    </si>
+    <si>
+        <t>THE ROOSTER'S</t>
+    </si>
+    <si>
+        <t>OP ATOM</t>
+    </si>
+    <si>
+        <t>SPORTHAL DIEPENDAL</t>
+    </si>
+    <si>
+        <t>DE MASCOT</t>
+    </si>
+    <si>
+        <t>BARISTA LATINO</t>
+    </si>
+    <si>
+        <t>SPORTHAL LEBBEKE</t>
+    </si>
+    <si>
+        <t>VOSSENBERG</t>
+    </si>
+    <si>
+        <t>HERENTALS</t>
+    </si>
+    <si>
+        <t>LA PETITE CASCADE</t>
+    </si>
+    <si>
+        <t>LE LIDO</t>
+    </si>
+    <si>
+        <t>ZWARTE LEEUW</t>
+    </si>
+    <si>
+        <t>WINGENE</t>
+    </si>
+    <si>
+        <t>EN PASSANT</t>
+    </si>
+    <si>
+        <t>MESPELARE</t>
+    </si>
+    <si>
+        <t>AARTSELAAR</t>
+    </si>
+    <si>
+        <t>HALTE 5</t>
+    </si>
+    <si>
+        <t>BAL'ENZO</t>
+    </si>
+    <si>
+        <t>LA RENOMMEE</t>
+    </si>
+    <si>
+        <t>OUPEYE</t>
+    </si>
+    <si>
+        <t>BRASSERIE DU VIEUX MOULIN</t>
+    </si>
+    <si>
+        <t>STREEKEBEEK BRASSERIE</t>
+    </si>
+    <si>
+        <t>KAFFEE DE SJEUR</t>
+    </si>
+    <si>
+        <t>OMNIBUS</t>
+    </si>
+    <si>
+        <t>LE MONA LISA</t>
+    </si>
+    <si>
+        <t>AUVELAIS</t>
+    </si>
+    <si>
+        <t>CAFE DAATMET</t>
+    </si>
+    <si>
+        <t>SLOEBERKE</t>
+    </si>
+    <si>
+        <t>MISTRAL</t>
+    </si>
+    <si>
+        <t>LE BISTROT DE L'EMPEREUR</t>
+    </si>
+    <si>
+        <t>TAVERNE SAINT LAURENT</t>
+    </si>
+    <si>
+        <t>LE CAFE DU SQUARE</t>
+    </si>
+    <si>
+        <t>HANNUT</t>
+    </si>
+    <si>
+        <t>COVER</t>
+    </si>
+    <si>
+        <t>ON Y VA</t>
+    </si>
+    <si>
+        <t>WACHTEBEKE</t>
+    </si>
+    <si>
+        <t>CIRCUIT ZOLDER OTOBAR</t>
+    </si>
+    <si>
+        <t>ZOLDER</t>
+    </si>
+    <si>
+        <t>DREVE</t>
+    </si>
+    <si>
+        <t>WIJTSCHATE</t>
+    </si>
+    <si>
+        <t>SCHEPDAAL</t>
+    </si>
+    <si>
+        <t>DE FONTEYN</t>
+    </si>
+    <si>
+        <t>LAARNE</t>
+    </si>
+    <si>
+        <t>T LEIREKEN</t>
+    </si>
+    <si>
+        <t>PAND 58</t>
+    </si>
+    <si>
+        <t>DE BIERTONNE</t>
+    </si>
+    <si>
+        <t>LE CAFE DE PAPA</t>
+    </si>
+    <si>
+        <t>KRISTOFFELHEEM</t>
+    </si>
+    <si>
+        <t>CAFE DEN HOEK</t>
+    </si>
+    <si>
+        <t>J ADORE</t>
+    </si>
+    <si>
+        <t>SOIGNIES</t>
+    </si>
+    <si>
+        <t>GENT SINT PIETERS</t>
+    </si>
+    <si>
+        <t>HOEK CITY</t>
+    </si>
+    <si>
+        <t>LA CAPSULE</t>
+    </si>
+    <si>
+        <t>SAIVE</t>
+    </si>
+    <si>
+        <t>DEN EEKHOORN</t>
+    </si>
+    <si>
+        <t>THE CORNER BAR</t>
+    </si>
+    <si>
+        <t>LE ST PIERRE</t>
+    </si>
+    <si>
+        <t>ANTOING</t>
+    </si>
+    <si>
+        <t>GERMINAL</t>
+    </si>
+    <si>
+        <t>LE SAF</t>
+    </si>
+    <si>
+        <t>IZEL</t>
+    </si>
+    <si>
+        <t>HOTEL DE VILLE</t>
+    </si>
+    <si>
+        <t>GIPSY HORSES MANEGE</t>
+    </si>
+    <si>
+        <t>TONGERLO</t>
+    </si>
+    <si>
+        <t>DE BLAUWE KANNE</t>
+    </si>
+    <si>
+        <t>MIDDELKAMP</t>
+    </si>
+    <si>
+        <t>GROENEWEG</t>
+    </si>
+    <si>
+        <t>DE KRUISKALSIJDE</t>
+    </si>
+    <si>
+        <t>ZUIENKERKE</t>
+    </si>
+    <si>
+        <t>DEN DOORN</t>
+    </si>
+    <si>
+        <t>DE ZOETE INVAL</t>
+    </si>
+    <si>
+        <t>DUISBURG</t>
+    </si>
+    <si>
+        <t>LES ARTISTES</t>
+    </si>
+    <si>
+        <t>AU D-M</t>
+    </si>
+    <si>
+        <t>L'ABREUVOIR</t>
+    </si>
+    <si>
+        <t>HOUTAIN-SAINT-SIMEON</t>
+    </si>
+    <si>
+        <t>HOLSBEEK</t>
+    </si>
+    <si>
+        <t>PECHERIE LA FONCENALLE</t>
+    </si>
+    <si>
+        <t>MELEN</t>
+    </si>
+    <si>
+        <t>THE RACE</t>
+    </si>
+    <si>
+        <t>BOORTMEERBEEK</t>
+    </si>
+    <si>
+        <t>CAFÉ REVUE</t>
+    </si>
+    <si>
+        <t>CHEZ MU</t>
+    </si>
+    <si>
+        <t>MUSSON</t>
+    </si>
+    <si>
+        <t>EL GRINGO</t>
+    </si>
+    <si>
+        <t>T LAPPERKE</t>
+    </si>
+    <si>
+        <t>ADEGEM</t>
+    </si>
+    <si>
+        <t>KROONTJE</t>
+    </si>
+    <si>
+        <t>SINT-ELOOIS-VIJVE</t>
+    </si>
+    <si>
+        <t>CESAR</t>
+    </si>
+    <si>
+        <t>CHICK AND FUN</t>
+    </si>
+    <si>
+        <t>CHEVVY'S</t>
+    </si>
+    <si>
+        <t>F.C. CROSSING VISSENAKEN</t>
+    </si>
+    <si>
+        <t>VISSENAKEN</t>
+    </si>
+    <si>
+        <t>LE BALLON</t>
+    </si>
+    <si>
+        <t>ZELLIK</t>
+    </si>
+    <si>
+        <t>KON. LIBERTY YACHT CLUB</t>
+    </si>
+    <si>
+        <t>DENDERGALM</t>
+    </si>
+    <si>
+        <t>GIJZEGEM</t>
+    </si>
+    <si>
+        <t>LE LEGIA</t>
+    </si>
+    <si>
+        <t>DIAMOND'S BAR</t>
+    </si>
+    <si>
+        <t>LIBRAMONT</t>
+    </si>
+    <si>
+        <t>DE FACTORY</t>
+    </si>
+    <si>
+        <t>DE BRUG</t>
+    </si>
+    <si>
+        <t>SINT-JORIS</t>
+    </si>
+    <si>
+        <t>THE BRAIN</t>
+    </si>
+    <si>
+        <t>BISTRO</t>
+    </si>
+    <si>
+        <t>HET PALLIETERKE</t>
+    </si>
+    <si>
+        <t>CRAZY BAR</t>
+    </si>
+    <si>
+        <t>CHEZ PHIL</t>
+    </si>
+    <si>
+        <t>ROBERTVILLE</t>
+    </si>
+    <si>
+        <t>MOONZONE</t>
+    </si>
+    <si>
+        <t>SPORTCAFE BRIELEKE</t>
+    </si>
+    <si>
+        <t>WOMMELGEM</t>
+    </si>
+    <si>
+        <t>WIEL (HET)</t>
+    </si>
+    <si>
+        <t>CIRCUIT ZOLDER WHEELS</t>
+    </si>
+    <si>
+        <t>T MOLENHOF</t>
+    </si>
+    <si>
+        <t>OOSTERZELE</t>
+    </si>
+    <si>
+        <t>L'ILE DE GOREE</t>
+    </si>
+    <si>
+        <t>LA FERMETTE</t>
+    </si>
+    <si>
+        <t>SPORTCAFE EXTRA TIME</t>
+    </si>
+    <si>
+        <t>NEVELE</t>
+    </si>
+    <si>
+        <t>SPORTHAL</t>
+    </si>
+    <si>
+        <t>BISTROT L'ENTRE AMIS</t>
+    </si>
+    <si>
+        <t>TONGRINNE</t>
+    </si>
+    <si>
+        <t>PROHIBITION</t>
+    </si>
+    <si>
+        <t>LE LATINO</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB LE VERLAINE</t>
+    </si>
+    <si>
+        <t>VERLAINE</t>
+    </si>
+    <si>
+        <t>LA TAVERNE DE L'HOTEL DE VILLE</t>
+    </si>
+    <si>
+        <t>LE ZINC</t>
+    </si>
+    <si>
+        <t>LE SLOOPY</t>
+    </si>
+    <si>
+        <t>LOUPOIGNE</t>
+    </si>
+    <si>
+        <t>LE BARRAGE</t>
+    </si>
+    <si>
+        <t>NISMES</t>
+    </si>
+    <si>
+        <t>RACING JETTE WAVRE BUVETTE</t>
+    </si>
+    <si>
+        <t>WAVRE</t>
+    </si>
+    <si>
+        <t>NEW SPORTS</t>
+    </si>
+    <si>
+        <t>LES PECHEURS &amp; LES PÉCHERESSES</t>
+    </si>
+    <si>
+        <t>QUAI 12 NAMUR (SANTUS)</t>
+    </si>
+    <si>
+        <t>MC BAR</t>
+    </si>
+    <si>
+        <t>GENVAL</t>
+    </si>
+    <si>
+        <t>BOWLING SUNSET</t>
+    </si>
+    <si>
+        <t>KORTRIJK</t>
+    </si>
+    <si>
+        <t>TURK (DEN) CAFE</t>
+    </si>
+    <si>
+        <t>BOER JANSSENS</t>
+    </si>
+    <si>
+        <t>AMERICAN SHOOTERS</t>
+    </si>
+    <si>
+        <t>CAMEO</t>
+    </si>
+    <si>
+        <t>WEVELGEM</t>
+    </si>
+    <si>
+        <t>NIEUW YVEGEM</t>
+    </si>
+    <si>
+        <t>INGOOIGEM</t>
+    </si>
+    <si>
+        <t>SCHUTTERSHOF</t>
+    </si>
+    <si>
+        <t>MARKE</t>
+    </si>
+    <si>
+        <t>T LEEUWKE</t>
+    </si>
+    <si>
+        <t>SNOOKER MEULEBEKE</t>
+    </si>
+    <si>
+        <t>MEULEBEKE</t>
+    </si>
+    <si>
+        <t>VRIJ POLEN</t>
+    </si>
+    <si>
+        <t>OOSTROZEBEKE</t>
+    </si>
+    <si>
+        <t>MART CAFFEE</t>
+    </si>
+    <si>
+        <t>KUURNE</t>
+    </si>
+    <si>
+        <t>MIDDENSTANDSHUIS</t>
+    </si>
+    <si>
+        <t>DE GROT</t>
+    </si>
+    <si>
+        <t>MIDDENSTAND</t>
+    </si>
+    <si>
+        <t>BISSEGEM</t>
+    </si>
+    <si>
+        <t xml:space="preserve"> T LINDEKE</t>
+    </si>
+    <si>
+        <t>MOORSELE</t>
+    </si>
+    <si>
+        <t>DE MAMBO</t>
+    </si>
+    <si>
+        <t>DE SPORTSKEURE</t>
+    </si>
+    <si>
+        <t>IN T GEMAK</t>
+    </si>
+    <si>
+        <t>CAFE TEMPO</t>
+    </si>
+    <si>
+        <t>WORTEGEM</t>
+    </si>
+    <si>
+        <t>FOOTCLUB</t>
+    </si>
+    <si>
+        <t>L'HECTOLITRE</t>
+    </si>
+    <si>
+        <t>LE REPOS DES VOITURIERS</t>
+    </si>
+    <si>
+        <t>MASNUY-ST-JEAN (JURBISE)</t>
+    </si>
+    <si>
+        <t>LA CLEF D'OR+SALLE</t>
+    </si>
+    <si>
+        <t>LA ROCAILLE + SALLE</t>
+    </si>
+    <si>
+        <t>LE REP'ERE + SALLE</t>
+    </si>
+    <si>
+        <t>A L'APERO</t>
+    </si>
+    <si>
+        <t>LES EMBUSCADES</t>
+    </si>
+    <si>
+        <t>THE COCK INN</t>
+    </si>
+    <si>
+        <t>JEMAPPES</t>
+    </si>
+    <si>
+        <t>CHEZ LOUISE</t>
+    </si>
+    <si>
+        <t>FRAMERIES</t>
+    </si>
+    <si>
+        <t>MARIE BOULETTE</t>
+    </si>
+    <si>
+        <t>MERCATO</t>
+    </si>
+    <si>
+        <t>DE KAVIJAKS</t>
+    </si>
+    <si>
+        <t>CONCORDIA</t>
+    </si>
+    <si>
+        <t>THE NEW KINGSTON</t>
+    </si>
+    <si>
+        <t>WERVIK</t>
+    </si>
+    <si>
+        <t>OEDELEM</t>
+    </si>
+    <si>
+        <t>RON'S PUB</t>
+    </si>
+    <si>
+        <t>K-FEE SULTAN</t>
+    </si>
+    <si>
+        <t>LAUWE</t>
+    </si>
+    <si>
+        <t>DE GROENE DREVE</t>
+    </si>
+    <si>
+        <t>BIERHUIS DE MYTHE</t>
+    </si>
+    <si>
+        <t>DE MACOTE</t>
+    </si>
+    <si>
+        <t>DEN ENGEL</t>
+    </si>
+    <si>
+        <t>LA BASCULE</t>
+    </si>
+    <si>
+        <t>SPIERE</t>
+    </si>
+    <si>
+        <t>T EXCUUS</t>
+    </si>
+    <si>
+        <t>INGELMUNSTER</t>
+    </si>
+    <si>
+        <t>DE KAAI</t>
+    </si>
+    <si>
+        <t>DUNGELHOF</t>
+    </si>
+    <si>
+        <t>HALLE-BOOIENHOVEN</t>
+    </si>
+    <si>
+        <t>HEIDEBLOEM KFC</t>
+    </si>
+    <si>
+        <t>PULDERBOS</t>
+    </si>
+    <si>
+        <t>STADSCAFE FEESTZAAL DE KRING</t>
+    </si>
+    <si>
+        <t>STOKKEM</t>
+    </si>
+    <si>
+        <t>MOLENBEEK-WERSBEEK</t>
+    </si>
+    <si>
+        <t>RILLAAR</t>
+    </si>
+    <si>
+        <t>JUKEBOX</t>
+    </si>
+    <si>
+        <t>AA DRINK SOCCER HALL</t>
+    </si>
+    <si>
+        <t>CENTRAL</t>
+    </si>
+    <si>
+        <t>LEDE</t>
+    </si>
+    <si>
+        <t>T WETTERAARKE</t>
+    </si>
+    <si>
+        <t>SPORTHAL 'T VEERLEVELD</t>
+    </si>
+    <si>
+        <t>VRAAGTEKEN</t>
+    </si>
+    <si>
+        <t>SIR LANCELOT</t>
+    </si>
+    <si>
+        <t>PROFKE</t>
+    </si>
+    <si>
+        <t>T&amp;T</t>
+    </si>
+    <si>
+        <t>7 ICI</t>
+    </si>
+    <si>
+        <t>BRILJANTJE T</t>
+    </si>
+    <si>
+        <t>KFCO BEERSCHOT WILRIJK</t>
+    </si>
+    <si>
+        <t>NEERLANDHOF</t>
+    </si>
+    <si>
+        <t>RIJN EN MAAS</t>
+    </si>
+    <si>
+        <t>OASIS</t>
+    </si>
+    <si>
+        <t>DEN DOLLE KEVER</t>
+    </si>
+    <si>
+        <t>LE SAINT GERMAIN</t>
+    </si>
+    <si>
+        <t>BASKET CLUB FLERON</t>
+    </si>
+    <si>
+        <t>AUX DEUX MAGOTS</t>
+    </si>
+    <si>
+        <t>CERCLE ST LAMBERT (CAFE)</t>
+    </si>
+    <si>
+        <t>HERMALLE-SOUS-ARGENTEAU</t>
+    </si>
+    <si>
+        <t>L'HEXAGONE</t>
+    </si>
+    <si>
+        <t>CAFE BELLE VUE</t>
+    </si>
+    <si>
+        <t>LA BRASSERIE DU PONT</t>
+    </si>
+    <si>
+        <t>TAVERNE AUBELOISE</t>
+    </si>
+    <si>
+        <t>AUBEL</t>
+    </si>
+    <si>
+        <t>LE KUBORN</t>
+    </si>
+    <si>
+        <t>BRASSERIE DU HOYOUX</t>
+    </si>
+    <si>
+        <t>PONT DE BONNE</t>
+    </si>
+    <si>
+        <t>CAFE AU PALAIS</t>
+    </si>
+    <si>
+        <t>X'TRA</t>
+    </si>
+    <si>
+        <t>OOSTMALLE</t>
+    </si>
+    <si>
+        <t>AN SIBHIN IRISH PUB</t>
+    </si>
+    <si>
+        <t>SINT ANNA</t>
+    </si>
+    <si>
+        <t>PARK'S CAFE</t>
+    </si>
+    <si>
+        <t>THE FUNKY MONKEY</t>
+    </si>
+    <si>
+        <t>TC BLOEMENHOF</t>
+    </si>
+    <si>
+        <t>TENNIS CLUB D'EMBOURG</t>
+    </si>
+    <si>
+        <t>ASSENEDE</t>
+    </si>
+    <si>
+        <t>CAFE COMMUNAL</t>
+    </si>
+    <si>
+        <t>CAFE DE LA GARE</t>
+    </si>
+    <si>
+        <t>MILMORT</t>
+    </si>
+    <si>
+        <t>BOEZ</t>
+    </si>
+    <si>
+        <t>POC ID</t>
+    </si>
+    <si>
+        <t xml:space="preserve">POC name </t>
+    </si>
+    <si>
+        <t>POC street</t>
+    </si>
+    <si>
+        <t xml:space="preserve">POC zip </t>
+    </si>
+    <si>
+        <t xml:space="preserve">POC city </t>
+    </si>
+    <si>
+        <t>TENNIS CLUB HOUDENG GOIGNIES</t>
+    </si>
+    <si>
+        <t>AUX VOLLE POT</t>
+    </si>
+    <si>
+        <t>SALLE POLYVALENTE BAUDOUR</t>
+    </si>
+    <si>
+        <t>MARGARETHA (SINT)</t>
+    </si>
+    <si>
+        <t>WAKEBOARD CENTER HOLSBEEK</t>
+    </si>
+    <si>
+        <t>House number</t>
+    </si>
+    <si>
+        <t>RUE DES PRISONNIERS</t>
+    </si>
+    <si>
+        <t>AVENUE DU DIAMANT</t>
+    </si>
+    <si>
+        <t>RUE DE BRABANT</t>
+    </si>
+    <si>
+        <t>PLACE EUGENE KEYM</t>
+    </si>
+    <si>
+        <t>PLACE DE LINDE</t>
+    </si>
+    <si>
+        <t>AVENUE DU PARC</t>
+    </si>
+    <si>
+        <t>PLACE DE LA VAILLANCE</t>
+    </si>
+    <si>
+        <t>PLACE DAILLY</t>
+    </si>
+    <si>
+        <t>RUE DE L ABBAYE</t>
+    </si>
+    <si>
+        <t>AVENUE EMMANUEL MOUNIER 87</t>
+    </si>
+    <si>
+        <t>PLACE MAURICE VAN MEENEN</t>
+    </si>
+    <si>
+        <t>RUE DE SAVOIE</t>
+    </si>
+    <si>
+        <t>BELSE HEI</t>
+    </si>
+    <si>
+        <t>BROEKSTRAAT</t>
+    </si>
+    <si>
+        <t>Z/N</t>
+    </si>
+    <si>
+        <t>STATIEPLEIN</t>
+    </si>
+    <si>
+        <t>LOSTRAAT</t>
+    </si>
+    <si>
+        <t>KERKPLEIN</t>
+    </si>
+    <si>
+        <t>YZERHAND</t>
+    </si>
+    <si>
+        <t>PLATTEPUT</t>
+    </si>
+    <si>
+        <t>14A</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT</t>
+    </si>
+    <si>
+        <t>HILLARESTRAAT</t>
+    </si>
+    <si>
+        <t>EMIEL HERTECAMPLAAN</t>
+    </si>
+    <si>
+        <t>57 A</t>
+    </si>
+    <si>
+        <t>VOORMUIDE</t>
+    </si>
+    <si>
+        <t>MAURICE DE WEERTSTRAAT</t>
+    </si>
+    <si>
+        <t>FRANS VAN DUNLAAN</t>
+    </si>
+    <si>
+        <t>GROENPLAATS</t>
+    </si>
+    <si>
+        <t>RUE DE TOURNAI</t>
+    </si>
+    <si>
+        <t>AVENUE EDMOND PARMENTIER</t>
+    </si>
+    <si>
+        <t>RUE D'ACOZ</t>
+    </si>
+    <si>
+        <t>5/H</t>
+    </si>
+    <si>
+        <t>GOSPERTSTRASSE</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT-IER</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE</t>
+    </si>
+    <si>
+        <t>NIEUWMOER-DORP</t>
+    </si>
+    <si>
+        <t>BERGEVEST</t>
+    </si>
+    <si>
+        <t>RUE DU RIVAGE</t>
+    </si>
+    <si>
+        <t>BD 2ME ARMEE BRITANNIQUE</t>
+    </si>
+    <si>
+        <t>RUE DE L'EGLISE</t>
+    </si>
+    <si>
+        <t>MECHELSEBAAN</t>
+    </si>
+    <si>
+        <t>WOLVERTEMSESTEENWEG</t>
+    </si>
+    <si>
+        <t>GOOTJE</t>
+    </si>
+    <si>
+        <t>KOLONEL DUSARTPLEIN</t>
+    </si>
+    <si>
+        <t>A. RODENBACHSTRAAT</t>
+    </si>
+    <si>
+        <t>KETELSTRAAT</t>
+    </si>
+    <si>
+        <t>LAVENDELSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DU CENTENAIRE</t>
+    </si>
+    <si>
+        <t>WILLEM EGGERICKXSTRAAT</t>
+    </si>
+    <si>
+        <t>TORENSTRAAT</t>
+    </si>
+    <si>
+        <t>KOLDAMSTRAAT</t>
+    </si>
+    <si>
+        <t>BARONVAL</t>
+    </si>
+    <si>
+        <t>SINT - KRISTOFFELSTRAAT</t>
+    </si>
+    <si>
+        <t>HUNDELGEMSESTEENWEG</t>
+    </si>
+    <si>
+        <t>SPILLEGEM</t>
+    </si>
+    <si>
+        <t>MEULESTEEDSESTEENWEG</t>
+    </si>
+    <si>
+        <t>SINT-PIETERSPLEIN</t>
+    </si>
+    <si>
+        <t>PLACE DU PERRON</t>
+    </si>
+    <si>
+        <t>BRAAMBERGSTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA FORESTERI</t>
+    </si>
+    <si>
+        <t>AVENUE DES THERMES</t>
+    </si>
+    <si>
+        <t>147B</t>
+    </si>
+    <si>
+        <t>WINSTON CHURCHILLPLEIN</t>
+    </si>
+    <si>
+        <t>RUE DE LA HAUTE FORIERE</t>
+    </si>
+    <si>
+        <t>RUE DE BERNALMONT</t>
+    </si>
+    <si>
+        <t>BLD DE LA SAUVENIERE</t>
+    </si>
+    <si>
+        <t>143-145</t>
+    </si>
+    <si>
+        <t>RUE DE LA CLOSERAIE</t>
+    </si>
+    <si>
+        <t>ROUTE DE MONS</t>
+    </si>
+    <si>
+        <t>RUE DE COUSOLRE</t>
+    </si>
+    <si>
+        <t>AVENUE DU STADE</t>
+    </si>
+    <si>
+        <t>LANESTRAAT 106</t>
+    </si>
+    <si>
+        <t>RUE G. DE LOMBAERDE</t>
+    </si>
+    <si>
+        <t>GEMEENTEPLEIN</t>
+    </si>
+    <si>
+        <t>RUE DES ALUNIERES</t>
+    </si>
+    <si>
+        <t>CHAUSSEE VERTE</t>
+    </si>
+    <si>
+        <t>94 1</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE LIEGE</t>
+    </si>
+    <si>
+        <t>PLACE DE LA LIBERTE</t>
+    </si>
+    <si>
+        <t>ZEEDIJK</t>
+    </si>
+    <si>
+        <t>BOULEVARD ANSPACH</t>
+    </si>
+    <si>
+        <t>ZEENSTRAAT</t>
+    </si>
+    <si>
+        <t>AZIELAAN</t>
+    </si>
+    <si>
+        <t>VIERHUIZEN</t>
+    </si>
+    <si>
+        <t>AVENUE DU PONT</t>
+    </si>
+    <si>
+        <t>BONDGENOTENLAAN</t>
+    </si>
+    <si>
+        <t>CHAUSSEE ROMAINE</t>
+    </si>
+    <si>
+        <t>RUE ARTHUR DEFOIN</t>
+    </si>
+    <si>
+        <t>DE BECKER-REMYPLEIN</t>
+    </si>
+    <si>
+        <t>VRIJHEIDWEG</t>
+    </si>
+    <si>
+        <t>ALBERT I LAAN</t>
+    </si>
+    <si>
+        <t>157 A</t>
+    </si>
+    <si>
+        <t>BERGENSE STEENWEG</t>
+    </si>
+    <si>
+        <t>PL.FRANKLIN D. ROOSEVELT</t>
+    </si>
+    <si>
+        <t>ELSUM</t>
+    </si>
+    <si>
+        <t>MARKT</t>
+    </si>
+    <si>
+        <t>GROTE MARKT</t>
+    </si>
+    <si>
+        <t>SPORTLAAN</t>
+    </si>
+    <si>
+        <t>NIJVERHEIDSLAAN 7</t>
+    </si>
+    <si>
+        <t>GRAND-RUE</t>
+    </si>
+    <si>
+        <t>UILEBROEK</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA DEPORTATION</t>
+    </si>
+    <si>
+        <t>PLACE DES SPORTS</t>
+    </si>
+    <si>
+        <t>PLACE BAUDOUIN 1ER</t>
+    </si>
+    <si>
+        <t>SCHOOLBERGENSTRAAT</t>
+    </si>
+    <si>
+        <t>STADIONLAAN</t>
+    </si>
+    <si>
+        <t>RUE DU CASTINIA</t>
+    </si>
+    <si>
+        <t>4C</t>
+    </si>
+    <si>
+        <t>RUE DES CULTES</t>
+    </si>
+    <si>
+        <t>MARKTPLAATS</t>
+    </si>
+    <si>
+        <t>RUE ALFRED HAULOTTE</t>
+    </si>
+    <si>
+        <t>RUE SAINTE-WALBURGE</t>
+    </si>
+    <si>
+        <t>RUE JULES HANS</t>
+    </si>
+    <si>
+        <t>AVENUE JOSEPH ABRAS</t>
+    </si>
+    <si>
+        <t>RUE SAINT-GILLES</t>
+    </si>
+    <si>
+        <t>WERVIKHOVESTRAAT</t>
+    </si>
+    <si>
+        <t>RUE PROVINCIALE</t>
+    </si>
+    <si>
+        <t>RENEUPRE</t>
+    </si>
+    <si>
+        <t>TIENDESCHUURVELD 106</t>
+    </si>
+    <si>
+        <t>KORTE MOEIE</t>
+    </si>
+    <si>
+        <t>BREEVENDREEF</t>
+    </si>
+    <si>
+        <t>AVENUE DES COMBATTANTS</t>
+    </si>
+    <si>
+        <t>1A</t>
+    </si>
+    <si>
+        <t>RUE DES PRES</t>
+    </si>
+    <si>
+        <t>RUE GENERAL DE GAULLE</t>
+    </si>
+    <si>
+        <t>WINTERSLAGSTRAAT</t>
+    </si>
+    <si>
+        <t>OUDE KERKSTRAAT</t>
+    </si>
+    <si>
+        <t>24 A</t>
+    </si>
+    <si>
+        <t>QUINKENSSTRAAT</t>
+    </si>
+    <si>
+        <t>Z N</t>
+    </si>
+    <si>
+        <t>AU CHESSION</t>
+    </si>
+    <si>
+        <t>KLOOSTERSTRAAT</t>
+    </si>
+    <si>
+        <t>GAVERSESTEENWEG</t>
+    </si>
+    <si>
+        <t>SUR LES KEYEUX</t>
+    </si>
+    <si>
+        <t>RUE DU JEU DE BALLE</t>
+    </si>
+    <si>
+        <t>AVENUE SALOME</t>
+    </si>
+    <si>
+        <t>AVENUE ADOLPHE DUPUICH</t>
+    </si>
+    <si>
+        <t>LINDESTRAAT</t>
+    </si>
+    <si>
+        <t>KARDINAAL MERCIERLAAN</t>
+    </si>
+    <si>
+        <t>23 /3</t>
+    </si>
+    <si>
+        <t>TULPINSTRAAT</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE RUISBROEK</t>
+    </si>
+    <si>
+        <t>RUE VICTOR HEINE</t>
+    </si>
+    <si>
+        <t>RUE DU CENTRE</t>
+    </si>
+    <si>
+        <t>VELDSTRAAT</t>
+    </si>
+    <si>
+        <t>MUIZENSTRAAT</t>
+    </si>
+    <si>
+        <t>32A</t>
+    </si>
+    <si>
+        <t>7C</t>
+    </si>
+    <si>
+        <t>HEUFKENSWEG</t>
+    </si>
+    <si>
+        <t>GEMEENTEPARK</t>
+    </si>
+    <si>
+        <t>GROENINGENLEI</t>
+    </si>
+    <si>
+        <t>BOVEMANSSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE VALENCIENNOISE</t>
+    </si>
+    <si>
+        <t>EINDHOUTSEWEG</t>
+    </si>
+    <si>
+        <t>VENNEKESLAAN</t>
+    </si>
+    <si>
+        <t>VALKENIERSSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DES CARRELAGES 91</t>
+    </si>
+    <si>
+        <t>HOGEWEG</t>
+    </si>
+    <si>
+        <t>JAN MARTIN VAN LIERDELAAN</t>
+    </si>
+    <si>
+        <t>KATTENBROEK</t>
+    </si>
+    <si>
+        <t>ZAVELKUILSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE BOMEREE</t>
+    </si>
+    <si>
+        <t>LANGESTRAAT</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE L'OURTHE</t>
+    </si>
+    <si>
+        <t>RUE JOSEPH WAUTERS</t>
+    </si>
+    <si>
+        <t>GROTE BAAN</t>
+    </si>
+    <si>
+        <t>MARKTSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DU GRAVIER</t>
+    </si>
+    <si>
+        <t>11 B</t>
+    </si>
+    <si>
+        <t>RUE DES GUILLEMINS</t>
+    </si>
+    <si>
+        <t>BOULEVARD GUSTAVE KLEYER</t>
+    </si>
+    <si>
+        <t>RUE DE TAILLIS-PRE</t>
+    </si>
+    <si>
+        <t>SPOORWEGLAAN</t>
+    </si>
+    <si>
+        <t>KEIBERGSTRAAT</t>
+    </si>
+    <si>
+        <t>JOSEPH DENAYERSTRAAT</t>
+    </si>
+    <si>
+        <t>CLAESPLEIN</t>
+    </si>
+    <si>
+        <t>RICHARD CALUWAERTSSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE EMILE VANDERVELDE</t>
+    </si>
+    <si>
+        <t>RUE DE LA BELLEFLEUR</t>
+    </si>
+    <si>
+        <t>AVENUE DELCHAMBRE</t>
+    </si>
+    <si>
+        <t>PROVINCIEBAAN</t>
+    </si>
+    <si>
+        <t>AVENUE DE BATTA</t>
+    </si>
+    <si>
+        <t>DORP</t>
+    </si>
+    <si>
+        <t>PLACE SURLET DE CHOKIER</t>
+    </si>
+    <si>
+        <t>4 -5</t>
+    </si>
+    <si>
+        <t>DE SMET DE NAEYERLAAN</t>
+    </si>
+    <si>
+        <t>GENTSESTEENWEG</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 26</t>
+    </si>
+    <si>
+        <t>GRAND PLACE</t>
+    </si>
+    <si>
+        <t>SINT-MICHIELSHELLING 5 -6</t>
+    </si>
+    <si>
+        <t>DUINENWATER</t>
+    </si>
+    <si>
+        <t>BOOMSESTEENWEG</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-PIERRE</t>
+    </si>
+    <si>
+        <t>GODEFROID 64</t>
+    </si>
+    <si>
+        <t>TWEEBRUGGENPLEIN</t>
+    </si>
+    <si>
+        <t>SCHRIEKSEBAAN</t>
+    </si>
+    <si>
+        <t>ACHTERSTRAAT</t>
+    </si>
+    <si>
+        <t>STEENWEG OP DIEST</t>
+    </si>
+    <si>
+        <t>AVENUE CHAZAL</t>
+    </si>
+    <si>
+        <t>ALFONS VAN PUYMBROECKLN</t>
+    </si>
+    <si>
+        <t>RUE DE L'ECOLE</t>
+    </si>
+    <si>
+        <t>AVENUE THEODULE GONDA</t>
+    </si>
+    <si>
+        <t>2 B</t>
+    </si>
+    <si>
+        <t>PLACE JULES MANSART</t>
+    </si>
+    <si>
+        <t>WIEKEVORST DORP</t>
+    </si>
+    <si>
+        <t>PROF. DR. V. CELENPLEIN</t>
+    </si>
+    <si>
+        <t>KOUTERSTRAAT</t>
+    </si>
+    <si>
+        <t>DR. V. VAN CAUTERENSTR.</t>
+    </si>
+    <si>
+        <t>VEDASTUSSTRAAT</t>
+    </si>
+    <si>
+        <t>SINT-URSULASTRAAT</t>
+    </si>
+    <si>
+        <t>MAASTRICHTERSTRAAT</t>
+    </si>
+    <si>
+        <t>KLINKAERT</t>
+    </si>
+    <si>
+        <t>AVENUE DE MAIRE</t>
+    </si>
+    <si>
+        <t>WOLSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE PAULINE HUBERT</t>
+    </si>
+    <si>
+        <t>BEERZELPLEIN</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE JOLIMONT</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT IER</t>
+    </si>
+    <si>
+        <t>HENRI TORLEYLAAN</t>
+    </si>
+    <si>
+        <t>SCHOOLSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE CESAR FRANCK</t>
+    </si>
+    <si>
+        <t>BERGSTRAAT</t>
+    </si>
+    <si>
+        <t>TIENSEVEST</t>
+    </si>
+    <si>
+        <t>PL.DOCTEUR E. LODEWIJCKX</t>
+    </si>
+    <si>
+        <t>5B</t>
+    </si>
+    <si>
+        <t>RUE DE NEUFCHATEAU</t>
+    </si>
+    <si>
+        <t>ALSEMBERGSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE DU TOMBOIS</t>
+    </si>
+    <si>
+        <t>AVENUE WINSTON-CHURCHILL</t>
+    </si>
+    <si>
+        <t>HOEVENSEBAAN</t>
+    </si>
+    <si>
+        <t>DWORPSESTRAAT</t>
+    </si>
+    <si>
+        <t>MONACOPLEIN</t>
+    </si>
+    <si>
+        <t>9 B</t>
+    </si>
+    <si>
+        <t>NISRAMONT</t>
+    </si>
+    <si>
+        <t>RUE DE LAEKEN</t>
+    </si>
+    <si>
+        <t>PERSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE NINOVE</t>
+    </si>
+    <si>
+        <t>27B</t>
+    </si>
+    <si>
+        <t>AVENUE DU VAL SAINT-GEORGES</t>
+    </si>
+    <si>
+        <t>KOOLKERKSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE HAUTE</t>
+    </si>
+    <si>
+        <t>CHEMIN DES PRIMEVERES</t>
+    </si>
+    <si>
+        <t>RUE DEBAST</t>
+    </si>
+    <si>
+        <t>WOUMENWEG</t>
+    </si>
+    <si>
+        <t>DRIEKONINGENSTRAAT</t>
+    </si>
+    <si>
+        <t>LALOUXLAAN</t>
+    </si>
+    <si>
+        <t>TIENSESTEENWEG</t>
+    </si>
+    <si>
+        <t>BREDABAAN</t>
+    </si>
+    <si>
+        <t>WEG NAAR AS</t>
+    </si>
+    <si>
+        <t>POLDERDREEF</t>
+    </si>
+    <si>
+        <t>LEDEBERGPLEIN</t>
+    </si>
+    <si>
+        <t>PLACE DU MANEGE</t>
+    </si>
+    <si>
+        <t>EN LAIXHEAU</t>
+    </si>
+    <si>
+        <t>SCHOMMELEI</t>
+    </si>
+    <si>
+        <t>ANTWERPSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE VOLTA</t>
+    </si>
+    <si>
+        <t>PLACE ROYALE</t>
+    </si>
+    <si>
+        <t>1-3</t>
+    </si>
+    <si>
+        <t>BOSVELDWEG</t>
+    </si>
+    <si>
+        <t>HEILIG HARTLAAN</t>
+    </si>
+    <si>
+        <t>LISPERSTRAAT</t>
+    </si>
+    <si>
+        <t>WEIDESTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE GEORGES HENRI</t>
+    </si>
+    <si>
+        <t>TWEEMONTSTRAAT</t>
+    </si>
+    <si>
+        <t>COUPURE LINKS</t>
+    </si>
+    <si>
+        <t>IEPERSTRAAT</t>
+    </si>
+    <si>
+        <t>LEOPOLDPLAATS</t>
+    </si>
+    <si>
+        <t>RUE SAINT-PAUL</t>
+    </si>
+    <si>
+        <t>RUE DU PONCAY</t>
+    </si>
+    <si>
+        <t>PLACE COMMUNALE</t>
+    </si>
+    <si>
+        <t>CHEMIN RUE</t>
+    </si>
+    <si>
+        <t>SCHUTTENBERGSTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE MILCAMPS</t>
+    </si>
+    <si>
+        <t>PL.LAMBERT-SCHIFFELERS</t>
+    </si>
+    <si>
+        <t>RUE DU NOYER</t>
+    </si>
+    <si>
+        <t>OUDESTRAAT</t>
+    </si>
+    <si>
+        <t>PLACE JOURDAN</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE LOUVAIN 815</t>
+    </si>
+    <si>
+        <t>STATIONSPLEIN</t>
+    </si>
+    <si>
+        <t>RUE DES ECOLES</t>
+    </si>
+    <si>
+        <t>AVENUE DE L'ARMEE</t>
+    </si>
+    <si>
+        <t>131 -133</t>
+    </si>
+    <si>
+        <t>RUE DE LA BANQUE</t>
+    </si>
+    <si>
+        <t>RUE PISSEROULE</t>
+    </si>
+    <si>
+        <t>PLACE DES GUILLEMINS</t>
+    </si>
+    <si>
+        <t>RUE DU T.T.A.</t>
+    </si>
+    <si>
+        <t>1 A</t>
+    </si>
+    <si>
+        <t>RUE DE BEHOGNE</t>
+    </si>
+    <si>
+        <t>CRAPAURUE</t>
+    </si>
+    <si>
+        <t>RUE DU CHERA</t>
+    </si>
+    <si>
+        <t>RUE DE L'ETANG</t>
+    </si>
+    <si>
+        <t>ENGELSENLAAN</t>
+    </si>
+    <si>
+        <t>BREDESTRAAT</t>
+    </si>
+    <si>
+        <t>AALSTERSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE DE PARME</t>
+    </si>
+    <si>
+        <t>AVENUE FERDINAND NICOLAY</t>
+    </si>
+    <si>
+        <t>ROKLIJF</t>
+    </si>
+    <si>
+        <t>PLACE DE SAINT-JOB</t>
+    </si>
+    <si>
+        <t>RUE DELMOTTE</t>
+    </si>
+    <si>
+        <t>DORPSPLEIN</t>
+    </si>
+    <si>
+        <t>MARIAKERKEPLEIN</t>
+    </si>
+    <si>
+        <t>GISTELSESTEENWEG</t>
+    </si>
+    <si>
+        <t>GRAND`PLACE</t>
+    </si>
+    <si>
+        <t>PLACE JULES DESTREE</t>
+    </si>
+    <si>
+        <t>GRAND-PLACE</t>
+    </si>
+    <si>
+        <t>PLACE CROMBEZ</t>
+    </si>
+    <si>
+        <t>PLACE CHARLES II</t>
+    </si>
+    <si>
+        <t>DORPSTRAAT</t>
+    </si>
+    <si>
+        <t>HOUTKAAI</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE WATERLOO</t>
+    </si>
+    <si>
+        <t>E. GILLISSTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE DES COMBATTANTS 94A</t>
+    </si>
+    <si>
+        <t>RUE EDOUARD ANSEELE</t>
+    </si>
+    <si>
+        <t>BOULEVARD PAUL JANSON</t>
+    </si>
+    <si>
+        <t>RALISWEG</t>
+    </si>
+    <si>
+        <t>13 -17</t>
+    </si>
+    <si>
+        <t>RUE DU VILLAGE</t>
+    </si>
+    <si>
+        <t>NAAMSESTEENWEG</t>
+    </si>
+    <si>
+        <t>PLACE DES HAIES</t>
+    </si>
+    <si>
+        <t>RUE DE LA TETE D'ARGENT</t>
+    </si>
+    <si>
+        <t>PLACE LEOPOLD</t>
+    </si>
+    <si>
+        <t>TURNHOUTSEBAAN</t>
+    </si>
+    <si>
+        <t>TORHOUTSESTEENWEG</t>
+    </si>
+    <si>
+        <t>BREDEWEG</t>
+    </si>
+    <si>
+        <t>PARIJSSTRAAT</t>
+    </si>
+    <si>
+        <t>NEERWINDENSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE ALBERT IER</t>
+    </si>
+    <si>
+        <t>PLACE COMMUNALE 2</t>
+    </si>
+    <si>
+        <t>HEISTLAAN</t>
+    </si>
+    <si>
+        <t>NIEUWPOORTSESTEENWEG</t>
+    </si>
+    <si>
+        <t>PLACE DES ONDINES</t>
+    </si>
+    <si>
+        <t>MASSEMSESTEENWEG</t>
+    </si>
+    <si>
+        <t>TIELTSTRAAT</t>
+    </si>
+    <si>
+        <t>MIEREGEMSTRAAT</t>
+    </si>
+    <si>
+        <t>KERKSTRAAT</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE WAVRE</t>
+    </si>
+    <si>
+        <t>DE STROPERSSTRAAT</t>
+    </si>
+    <si>
+        <t>TRIANONLAAN</t>
+    </si>
+    <si>
+        <t>PLACE DE WASMUEL</t>
+    </si>
+    <si>
+        <t>DIESTSESTEENWEG</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE ALBERT IER</t>
+    </si>
+    <si>
+        <t>HAVENSTRAAT</t>
+    </si>
+    <si>
+        <t>VISMARKT</t>
+    </si>
+    <si>
+        <t>AVENUE EUDORE PIRMEZ</t>
+    </si>
+    <si>
+        <t>RUE VANDERKINDERE</t>
+    </si>
+    <si>
+        <t>LAUWSESTRAAT</t>
+    </si>
+    <si>
+        <t>DORP-WEST</t>
+    </si>
+    <si>
+        <t>HELSHOVENSTRAAT</t>
+    </si>
+    <si>
+        <t>5 B</t>
+    </si>
+    <si>
+        <t>SINT-GODELIEVESTRAAT</t>
+    </si>
+    <si>
+        <t>PLACE J. MERLOT</t>
+    </si>
+    <si>
+        <t>OUDEVAARTPLAATS</t>
+    </si>
+    <si>
+        <t>POMPSTRAAT</t>
+    </si>
+    <si>
+        <t>MARTELARENPLEIN</t>
+    </si>
+    <si>
+        <t>RUE DU STADE</t>
+    </si>
+    <si>
+        <t>PLACE MONSEU</t>
+    </si>
+    <si>
+        <t>PASTORIJSTRAAT</t>
+    </si>
+    <si>
+        <t>TERVUURSESTEENWEG</t>
+    </si>
+    <si>
+        <t>PLACE TERDELT</t>
+    </si>
+    <si>
+        <t>RUE DE MONSVILLE</t>
+    </si>
+    <si>
+        <t>PLACE VERTE</t>
+    </si>
+    <si>
+        <t>RUE DE ROUBAIX</t>
+    </si>
+    <si>
+        <t>RUE DE BAUME</t>
+    </si>
+    <si>
+        <t>VAN MAERLANTSTRAAT</t>
+    </si>
+    <si>
+        <t>MOESHOFSTRAAT</t>
+    </si>
+    <si>
+        <t>ABDIJSTRAAT</t>
+    </si>
+    <si>
+        <t>KONING ALBERTPLEIN</t>
+    </si>
+    <si>
+        <t>RUE D'HAVRE</t>
+    </si>
+    <si>
+        <t>1/3</t>
+    </si>
+    <si>
+        <t>AANDORENSTRAAT</t>
+    </si>
+    <si>
+        <t>VARSENAREWEG</t>
+    </si>
+    <si>
+        <t>RUE DU MONT-A-LEUX</t>
+    </si>
+    <si>
+        <t>VANDENPEEREBOOMSTRAAT</t>
+    </si>
+    <si>
+        <t>BRUGSEWEG 157</t>
+    </si>
+    <si>
+        <t>HOUTMARKT</t>
+    </si>
+    <si>
+        <t>24A</t>
+    </si>
+    <si>
+        <t>RUE ROGIER</t>
+    </si>
+    <si>
+        <t>RUE DE LIEGE</t>
+    </si>
+    <si>
+        <t>BURGEMEESTER POTIAULAAN</t>
+    </si>
+    <si>
+        <t>EYERMANSTRAAT</t>
+    </si>
+    <si>
+        <t>38A</t>
+    </si>
+    <si>
+        <t>PLACE DU DOCTEUR BOCQUET</t>
+    </si>
+    <si>
+        <t>RILLAARSEWEG</t>
+    </si>
+    <si>
+        <t>RUE DU COMMERCE</t>
+    </si>
+    <si>
+        <t>AKKERSTRAAT</t>
+    </si>
+    <si>
+        <t>ZANDOERSTRAAT</t>
+    </si>
+    <si>
+        <t>KAPELSTRAAT</t>
+    </si>
+    <si>
+        <t>PLACE DR. HOLLENFELTZ</t>
+    </si>
+    <si>
+        <t>HOF VAN STRAETEN</t>
+    </si>
+    <si>
+        <t>NIEUWSTRAAT</t>
+    </si>
+    <si>
+        <t>7A</t>
+    </si>
+    <si>
+        <t>RUE DU BEGUINAGE</t>
+    </si>
+    <si>
+        <t>SINT-TRUIDERSTEENWEG</t>
+    </si>
+    <si>
+        <t>QUAI AUX BRIQUES</t>
+    </si>
+    <si>
+        <t>WILLEKENSLAAN</t>
+    </si>
+    <si>
+        <t>RUE DU BIPLAN</t>
+    </si>
+    <si>
+        <t>PLACE DE BRASMENIL</t>
+    </si>
+    <si>
+        <t>CAPUCIENENSTRAAT</t>
+    </si>
+    <si>
+        <t>LEUVENSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RESSEGEMSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE THIER DU RY</t>
+    </si>
+    <si>
+        <t>BADENLAAN</t>
+    </si>
+    <si>
+        <t>RUE DE MONS</t>
+    </si>
+    <si>
+        <t>PARKSTRAAT</t>
+    </si>
+    <si>
+        <t>STATIESTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE LA TOURETTE</t>
+    </si>
+    <si>
+        <t>STELENSEWEG</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA SALM</t>
+    </si>
+    <si>
+        <t>GROTE HERREWEG</t>
+    </si>
+    <si>
+        <t>PLACE JEAN JAURES</t>
+    </si>
+    <si>
+        <t>TRAMSTRAAT</t>
+    </si>
+    <si>
+        <t>PLACE</t>
+    </si>
+    <si>
+        <t>DONKLAAN</t>
+    </si>
+    <si>
+        <t>PLACE DU CRUCIFIX</t>
+    </si>
+    <si>
+        <t>RUE JULIEN MULLIE</t>
+    </si>
+    <si>
+        <t>PUTSEBAAN</t>
+    </si>
+    <si>
+        <t>WELLEPLEIN</t>
+    </si>
+    <si>
+        <t>WANDELAARSTRAAT</t>
+    </si>
+    <si>
+        <t>KROPSTRAAT</t>
+    </si>
+    <si>
+        <t>HODONK</t>
+    </si>
+    <si>
+        <t>KONING ALBERT I-STRAAT</t>
+    </si>
+    <si>
+        <t>GRAND'RUE</t>
+    </si>
+    <si>
+        <t>MOERESTEENWEG</t>
+    </si>
+    <si>
+        <t>QUAI DU BATTY</t>
+    </si>
+    <si>
+        <t>SPEKSTRAAT</t>
+    </si>
+    <si>
+        <t>ZN</t>
+    </si>
+    <si>
+        <t>L. VAN HOEYMISSENSTRAAT</t>
+    </si>
+    <si>
+        <t>SINT-GILLISPLEIN</t>
+    </si>
+    <si>
+        <t>MOLENSTRAAT</t>
+    </si>
+    <si>
+        <t>SINT-ANNALAAN</t>
+    </si>
+    <si>
+        <t>AUGUST NIHOULSTRAAT</t>
+    </si>
+    <si>
+        <t>72A</t>
+    </si>
+    <si>
+        <t>TIENSESTRAAT</t>
+    </si>
+    <si>
+        <t>LIPSESTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE MERODE</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE NEERSTALLE</t>
+    </si>
+    <si>
+        <t>MEEUWENLAAN</t>
+    </si>
+    <si>
+        <t>ROZEVELDSTRAAT</t>
+    </si>
+    <si>
+        <t>WAMBEEKSTRAAT</t>
+    </si>
+    <si>
+        <t>NAZARETHSESTEENWEG</t>
+    </si>
+    <si>
+        <t>KRUIBEKESTEENWEG</t>
+    </si>
+    <si>
+        <t>DE KEYSERHOEVE</t>
+    </si>
+    <si>
+        <t>KERKTORENSTRAAT</t>
+    </si>
+    <si>
+        <t>CHRISTINASTRAAT</t>
+    </si>
+    <si>
+        <t>35 A</t>
+    </si>
+    <si>
+        <t>PLACE AUX FOIRES</t>
+    </si>
+    <si>
+        <t>WESTLAAN</t>
+    </si>
+    <si>
+        <t>HOUWAARTSTRAAT</t>
+    </si>
+    <si>
+        <t>ZOMERLOOSSTRAAT</t>
+    </si>
+    <si>
+        <t>BOULEVARD DU MIDI</t>
+    </si>
+    <si>
+        <t>CHURCHILLLAAN</t>
+    </si>
+    <si>
+        <t>GEESTBEEK</t>
+    </si>
+    <si>
+        <t>MARKTPLEIN</t>
+    </si>
+    <si>
+        <t>RUE DU MOULIN</t>
+    </si>
+    <si>
+        <t>GRAVENSTRAAT</t>
+    </si>
+    <si>
+        <t>ALBERT RUZETTELAAN</t>
+    </si>
+    <si>
+        <t>TULPENSTRAAT</t>
+    </si>
+    <si>
+        <t>PLACE VAN MEYEL</t>
+    </si>
+    <si>
+        <t>RUE DES COMBATTANTS</t>
+    </si>
+    <si>
+        <t>BALSAKKER</t>
+    </si>
+    <si>
+        <t>LEEMWEG</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE BRUXELLES</t>
+    </si>
+    <si>
+        <t>OUDE LEUVENSESTRAAT</t>
+    </si>
+    <si>
+        <t>STRAATAKKERS</t>
+    </si>
+    <si>
+        <t>KOEWACHTSTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE DES CHAPELIERS</t>
+    </si>
+    <si>
+        <t>RIJSELSESTRAAT</t>
+    </si>
+    <si>
+        <t>A. VANDENPEEREBOOMPLEIN</t>
+    </si>
+    <si>
+        <t>OORDEGEMKOUTER</t>
+    </si>
+    <si>
+        <t>OKEGEMDORP</t>
+    </si>
+    <si>
+        <t>KASTEELSTRAAT</t>
+    </si>
+    <si>
+        <t>EN CHAROTTE</t>
+    </si>
+    <si>
+        <t>RUE LOUVIERE</t>
+    </si>
+    <si>
+        <t>LIERBAAN</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA PORALLEE</t>
+    </si>
+    <si>
+        <t>PLACE D'HERSEAUX</t>
+    </si>
+    <si>
+        <t>12 BIS</t>
+    </si>
+    <si>
+        <t>DORPELSTRAAT</t>
+    </si>
+    <si>
+        <t>GROENDREEF</t>
+    </si>
+    <si>
+        <t>VILVOORDELAAN</t>
+    </si>
+    <si>
+        <t>PLACE DE L'EGLISE</t>
+    </si>
+    <si>
+        <t>RUE LIEUTENANT</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA CHEVALERIE</t>
+    </si>
+    <si>
+        <t>AVENUE GENERAL LEMAN</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA COURONNE</t>
+    </si>
+    <si>
+        <t>IDEGEMPLEIN</t>
+    </si>
+    <si>
+        <t>RUE RAOUL VAN SPITAEL</t>
+    </si>
+    <si>
+        <t>LIERSESTEENWEG</t>
+    </si>
+    <si>
+        <t>KRUISSTRAAT</t>
+    </si>
+    <si>
+        <t>PARKLAAN</t>
+    </si>
+    <si>
+        <t>SINT-GORIKSPLEIN</t>
+    </si>
+    <si>
+        <t>RUE SAINTE-CATHERINE</t>
+    </si>
+    <si>
+        <t>AVENUE HENRI CONSCIENCE</t>
+    </si>
+    <si>
+        <t>RUE THABOR</t>
+    </si>
+    <si>
+        <t>ZANDSTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE DES ROGATIONS</t>
+    </si>
+    <si>
+        <t>PAARDEMARKT</t>
+    </si>
+    <si>
+        <t>MONSEIGNEUR LADEUZEPLEIN</t>
+    </si>
+    <si>
+        <t>RUE DE CHATELET</t>
+    </si>
+    <si>
+        <t>BERGENSESTEENWEG</t>
+    </si>
+    <si>
+        <t>VARKENSMARKT</t>
+    </si>
+    <si>
+        <t>GEELSEBAAN</t>
+    </si>
+    <si>
+        <t>SCHELLEBELLE-DORP</t>
+    </si>
+    <si>
+        <t>GROTESTRAAT</t>
+    </si>
+    <si>
+        <t>VONCKSTRAAT</t>
+    </si>
+    <si>
+        <t>LEUVENSEBAAN</t>
+    </si>
+    <si>
+        <t>RIJSELSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE LA CROIX DE FER</t>
+    </si>
+    <si>
+        <t>KONING BOUDEWIJNSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE GRANDE</t>
+    </si>
+    <si>
+        <t>PLACE DE MOLENBAIX</t>
+    </si>
+    <si>
+        <t>PLACE DU LUXEMBOURG</t>
+    </si>
+    <si>
+        <t>RUE DU CINQ-SEPTEMBRE</t>
+    </si>
+    <si>
+        <t>TERELSTSTRAAT</t>
+    </si>
+    <si>
+        <t>PLACE EMILE VANDERVELDE</t>
+    </si>
+    <si>
+        <t>RUE DU FOURNEAU</t>
+    </si>
+    <si>
+        <t>CHEMIN DES PEUPLIERS</t>
+    </si>
+    <si>
+        <t>LEOPOLDSTRAAT</t>
+    </si>
+    <si>
+        <t>KONINGIN ASTRIDPLEIN</t>
+    </si>
+    <si>
+        <t>RUE COUTURE MATHY</t>
+    </si>
+    <si>
+        <t>RUE ARTHUR PATER</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE LODELINSART</t>
+    </si>
+    <si>
+        <t>AUGUSTIJNSLEI</t>
+    </si>
+    <si>
+        <t>RUE DE VIRGINAL</t>
+    </si>
+    <si>
+        <t>STEENWEG OP OOSTHOVEN</t>
+    </si>
+    <si>
+        <t>BOULEVARD CHARLEMAGNE</t>
+    </si>
+    <si>
+        <t>HOELBEEKSTRAAT</t>
+    </si>
+    <si>
+        <t>ZELEMSEBAAN</t>
+    </si>
+    <si>
+        <t>NIJVERHEIDSSTRAAT</t>
+    </si>
+    <si>
+        <t>PLACE DU ROI ALBERT</t>
+    </si>
+    <si>
+        <t>PIERENBERGSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE ROTHEUX</t>
+    </si>
+    <si>
+        <t>DUFFELSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE FRANKLIN ROOSEVELT</t>
+    </si>
+    <si>
+        <t>RUE DE LA STATION</t>
+    </si>
+    <si>
+        <t>ALFONS-CONSTANT SWINNE</t>
+    </si>
+    <si>
+        <t>VUILSTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE DU SILENCE</t>
+    </si>
+    <si>
+        <t>ASTRIDLAAN</t>
+    </si>
+    <si>
+        <t>HOUTHULSTSTRAAT</t>
+    </si>
+    <si>
+        <t>DUINENWEG</t>
+    </si>
+    <si>
+        <t>OUDE MECHELSEBAAN</t>
+    </si>
+    <si>
+        <t>STEENWEG</t>
+    </si>
+    <si>
+        <t>RONDPLEIN</t>
+    </si>
+    <si>
+        <t>STADHUISPLEIN</t>
+    </si>
+    <si>
+        <t>1BUS1</t>
+    </si>
+    <si>
+        <t>RUE DU PARC</t>
+    </si>
+    <si>
+        <t>VINDICTIEVELAAN</t>
+    </si>
+    <si>
+        <t>MINDERHOUTDORP</t>
+    </si>
+    <si>
+        <t>FRANS ADRIAENSSENSSTRAAT</t>
+    </si>
+    <si>
+        <t>ONDERWIJSLAAN</t>
+    </si>
+    <si>
+        <t>RUE GRAY</t>
+    </si>
+    <si>
+        <t>RUE DU PONT DE WANDRE</t>
+    </si>
+    <si>
+        <t>PLACE EUGENE FLAGEY</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-ANTOINE</t>
+    </si>
+    <si>
+        <t>BOULEVARD GENER JACQUES</t>
+    </si>
+    <si>
+        <t>RUE DU METAL</t>
+    </si>
+    <si>
+        <t>RUE DE VILLERS</t>
+    </si>
+    <si>
+        <t>CHAUSSEE PAUL HOUTART</t>
+    </si>
+    <si>
+        <t>SINT-JANSSTRAAT</t>
+    </si>
+    <si>
+        <t>BOELARE</t>
+    </si>
+    <si>
+        <t>SINT-URSMARUSSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE PATURAGES</t>
+    </si>
+    <si>
+        <t>RUE LULAY</t>
+    </si>
+    <si>
+        <t>KOLLEBLOEMSTRAAT</t>
+    </si>
+    <si>
+        <t>SPAANSEMOLENSTRAAT</t>
+    </si>
+    <si>
+        <t>GISTELSTEENWEG</t>
+    </si>
+    <si>
+        <t>PLACE JEAN-PHILIPPE LAVALLE</t>
+    </si>
+    <si>
+        <t>GASTON ROELANDTSPLEIN</t>
+    </si>
+    <si>
+        <t>KOUTERBAAN</t>
+    </si>
+    <si>
+        <t>BOULEVARD INDUSTRIEL</t>
+    </si>
+    <si>
+        <t>OUDE BAAN</t>
+    </si>
+    <si>
+        <t>JEZUIETENRUI</t>
+    </si>
+    <si>
+        <t>RUE EDMOND FOULON</t>
+    </si>
+    <si>
+        <t>KONING LEOPOLD III LAAN</t>
+    </si>
+    <si>
+        <t>115A</t>
+    </si>
+    <si>
+        <t>RUE DE CHIMAY</t>
+    </si>
+    <si>
+        <t>ALBERT I-PROMENADE</t>
+    </si>
+    <si>
+        <t>STEENOVENSTRAAT</t>
+    </si>
+    <si>
+        <t>SPECHTENLAAN</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA FACULTE D`AGRONOMIE</t>
+    </si>
+    <si>
+        <t>RUE D'OMBRIE</t>
+    </si>
+    <si>
+        <t>RUE FRANCOIS DEWIEST</t>
+    </si>
+    <si>
+        <t>RENIER SNIEDERSPAD</t>
+    </si>
+    <si>
+        <t>PLACE DU XX AOUT</t>
+    </si>
+    <si>
+        <t>RUE DU PONT-DE-WANDRE</t>
+    </si>
+    <si>
+        <t>RUE DE PLAINEVAUX</t>
+    </si>
+    <si>
+        <t>ZAFFELAREDORP</t>
+    </si>
+    <si>
+        <t>TIELTSE BAAN</t>
+    </si>
+    <si>
+        <t>BOULEVARD EMILE JACQMAIN</t>
+    </si>
+    <si>
+        <t>ZEELAAN</t>
+    </si>
+    <si>
+        <t>LETTERKUNDESTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE BRUXELLES</t>
+    </si>
+    <si>
+        <t>RUE ENTRE-DEUX-VILLES</t>
+    </si>
+    <si>
+        <t>VREDELAAN</t>
+    </si>
+    <si>
+        <t>BOEZINGESTRAAT</t>
+    </si>
+    <si>
+        <t>ENGELSTRAAT</t>
+    </si>
+    <si>
+        <t>VENNESTRAAT</t>
+    </si>
+    <si>
+        <t>HENRI JASPARLAAN</t>
+    </si>
+    <si>
+        <t>MONNIKENHOFSTRAAT</t>
+    </si>
+    <si>
+        <t>WOUBRECHTSTRAAT 8</t>
+    </si>
+    <si>
+        <t>RUE D ARMENTIERES</t>
+    </si>
+    <si>
+        <t>17DE ESK. LICHTVLIEGWEZENLAAN</t>
+    </si>
+    <si>
+        <t>RUE SAINT-JEAN</t>
+    </si>
+    <si>
+        <t>GEMEENTEHUISSTRAAT</t>
+    </si>
+    <si>
+        <t>KOEISTRAAT</t>
+    </si>
+    <si>
+        <t>MERELBEKESTATIONPLEIN</t>
+    </si>
+    <si>
+        <t>ZEVENEKENDORP</t>
+    </si>
+    <si>
+        <t>A. RUZETTELAAN</t>
+    </si>
+    <si>
+        <t>STEEGSTRAAT</t>
+    </si>
+    <si>
+        <t>ZANDDIJK</t>
+    </si>
+    <si>
+        <t>62 A</t>
+    </si>
+    <si>
+        <t>HOUTE</t>
+    </si>
+    <si>
+        <t>RUE MITOYENNE</t>
+    </si>
+    <si>
+        <t>ZWIJNAARDSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE DE LA FERME DU PLAGNIAU</t>
+    </si>
+    <si>
+        <t>LOMBEEKSTRAAT</t>
+    </si>
+    <si>
+        <t>OUDE HEERWEG</t>
+    </si>
+    <si>
+        <t>RUE CHARLES MONCOUSIN</t>
+    </si>
+    <si>
+        <t>EREMBODEGEM-DORP</t>
+    </si>
+    <si>
+        <t>PLACE DE LA VICTOIRE</t>
+    </si>
+    <si>
+        <t>RUE DE LA VESDRE</t>
+    </si>
+    <si>
+        <t>RUE DU CORTIL</t>
+    </si>
+    <si>
+        <t>BEELDHOUWKUNSTLAAN</t>
+    </si>
+    <si>
+        <t>PLACE PUISSANT</t>
+    </si>
+    <si>
+        <t>RUE CHARLES-MAGNETTE</t>
+    </si>
+    <si>
+        <t>RUE CHASSEURS-ARDENNAIS</t>
+    </si>
+    <si>
+        <t>MARGOTE</t>
+    </si>
+    <si>
+        <t>BELLEGEMSESTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE VALENCIENNES</t>
+    </si>
+    <si>
+        <t>DE LA STATION</t>
+    </si>
+    <si>
+        <t>GENTSTRAAT</t>
+    </si>
+    <si>
+        <t>ADVOCAAT DE BACKERSTRAAT</t>
+    </si>
+    <si>
+        <t>KREKELENDRIES</t>
+    </si>
+    <si>
+        <t>ROESELARESTRAAT</t>
+    </si>
+    <si>
+        <t>SINT-MARGARETHAPLEIN</t>
+    </si>
+    <si>
+        <t>MISSTRAAT</t>
+    </si>
+    <si>
+        <t>CHAUSSEE D'AUDENARDE</t>
+    </si>
+    <si>
+        <t>RUE DE ROMSEE</t>
+    </si>
+    <si>
+        <t>EDINGENSESTEENWEG</t>
+    </si>
+    <si>
+        <t>CONSCIENCESTRAAT</t>
+    </si>
+    <si>
+        <t>SQUARE FRANCOIS RIGA</t>
+    </si>
+    <si>
+        <t>9 -11</t>
+    </si>
+    <si>
+        <t>RODE-KRUISPLEIN</t>
+    </si>
+    <si>
+        <t>TERDONKPLEIN</t>
+    </si>
+    <si>
+        <t>KASTEELDREEF</t>
+    </si>
+    <si>
+        <t>ALICE NAHONSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DES HAYEFFES</t>
+    </si>
+    <si>
+        <t>27 A</t>
+    </si>
+    <si>
+        <t>DROOGTE</t>
+    </si>
+    <si>
+        <t>RUE DE LOVERVAL</t>
+    </si>
+    <si>
+        <t>KOOLSTRAAT</t>
+    </si>
+    <si>
+        <t>PATER DAMIAANPLEIN</t>
+    </si>
+    <si>
+        <t>RAYMOND HERNALSTEENSTR.</t>
+    </si>
+    <si>
+        <t>R DE MONS</t>
+    </si>
+    <si>
+        <t>AVENUE DES ETATS-UNIS</t>
+    </si>
+    <si>
+        <t>2B</t>
+    </si>
+    <si>
+        <t>HOOGSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DES NATIONS-UNIES</t>
+    </si>
+    <si>
+        <t>BORSBEEKSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE DES VINGT-DEUX</t>
+    </si>
+    <si>
+        <t>RUE DU NERONRY</t>
+    </si>
+    <si>
+        <t>JULIUS DE GEYTERSTRAAT</t>
+    </si>
+    <si>
+        <t>KRONEKALSEIDE</t>
+    </si>
+    <si>
+        <t>RUE DU SABLON</t>
+    </si>
+    <si>
+        <t>LAPSCHEURESTRAAT</t>
+    </si>
+    <si>
+        <t>BURG. OMER DE MEYPLEIN</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE CHARLEROI</t>
+    </si>
+    <si>
+        <t>PLACE DU MARCHE</t>
+    </si>
+    <si>
+        <t>CHAUSSEE MONTGOMERY</t>
+    </si>
+    <si>
+        <t>LENNIKSEBAAN</t>
+    </si>
+    <si>
+        <t>SINT-MARTINUSSTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE JULES-MATHIEU</t>
+    </si>
+    <si>
+        <t>RUE D'AYWAILLE</t>
+    </si>
+    <si>
+        <t>BLANCEFLOERLAAN</t>
+    </si>
+    <si>
+        <t>BOOMSTRAAT</t>
+    </si>
+    <si>
+        <t>BRUGSESTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE DU GLOBE</t>
+    </si>
+    <si>
+        <t>RUE DE COURTRAI</t>
+    </si>
+    <si>
+        <t>RUE DU BON PASTEUR</t>
+    </si>
+    <si>
+        <t>HEIDEMOLENBAAN</t>
+    </si>
+    <si>
+        <t>RUE DU CANAL</t>
+    </si>
+    <si>
+        <t>NOORDLAAN</t>
+    </si>
+    <si>
+        <t>EDWARD CLAESSENSLAAN</t>
+    </si>
+    <si>
+        <t>SLUIS</t>
+    </si>
+    <si>
+        <t>RUE D'ARLON</t>
+    </si>
+    <si>
+        <t>VLIEGVELD</t>
+    </si>
+    <si>
+        <t>118 B</t>
+    </si>
+    <si>
+        <t>EPHREM DE MALANDERPLEIN</t>
+    </si>
+    <si>
+        <t>BAVIKHOOFSESTRAAT</t>
+    </si>
+    <si>
+        <t>DIJKSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DU PONT</t>
+    </si>
+    <si>
+        <t>CARMERSSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DES ABLIAUX</t>
+    </si>
+    <si>
+        <t>KAPELLESTRAAT</t>
+    </si>
+    <si>
+        <t>GELUWESTRAAT</t>
+    </si>
+    <si>
+        <t>HARENHEIDESTRAAT (SPORTHALSTRAAT)</t>
+    </si>
+    <si>
+        <t>PLAATS</t>
+    </si>
+    <si>
+        <t>PAALSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE BATONNIER BRAFFORT</t>
+    </si>
+    <si>
+        <t>RUE HOVEMONT 118</t>
+    </si>
+    <si>
+        <t>SMISKENSSTRAAT</t>
+    </si>
+    <si>
+        <t>PANNENSTRAAT</t>
+    </si>
+    <si>
+        <t>CHARLIERHELLING</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-ROCH</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE WILLEMEAU</t>
+    </si>
+    <si>
+        <t>RUE DU FORT</t>
+    </si>
+    <si>
+        <t>RUE DE LA PRAYE</t>
+    </si>
+    <si>
+        <t>BIENS LEFEVRE</t>
+    </si>
+    <si>
+        <t>LELIESTRAAT</t>
+    </si>
+    <si>
+        <t>AVENUE DU MAROUSET</t>
+    </si>
+    <si>
+        <t>HANDELSLEI</t>
+    </si>
+    <si>
+        <t>EN MI-VILLE</t>
+    </si>
+    <si>
+        <t>JOZEF DE VLEMINCKSTRAAT</t>
+    </si>
+    <si>
+        <t>MILOSTRAAT</t>
+    </si>
+    <si>
+        <t>LIERSEBAAN</t>
+    </si>
+    <si>
+        <t>BOULEVARD ERNEST SOLVAY</t>
+    </si>
+    <si>
+        <t>DOKTER HAUBENLAAN</t>
+    </si>
+    <si>
+        <t>RINGLAAN</t>
+    </si>
+    <si>
+        <t>STREEPSTRAAT</t>
+    </si>
+    <si>
+        <t>GINDERBUITEN</t>
+    </si>
+    <si>
+        <t>HAUT-VINAVE</t>
+    </si>
+    <si>
+        <t>4-6</t>
+    </si>
+    <si>
+        <t>B. BRUGMANN DE WALZINPLN</t>
+    </si>
+    <si>
+        <t>RUE DU PATRONAGE</t>
+    </si>
+    <si>
+        <t>VLAMINGSTRAAT</t>
+    </si>
+    <si>
+        <t>STAATSBAAN</t>
+    </si>
+    <si>
+        <t>KLEINE LAAN</t>
+    </si>
+    <si>
+        <t>KIEVERMONT</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA RESISTANCE</t>
+    </si>
+    <si>
+        <t>RUE DE LA FOURCHE</t>
+    </si>
+    <si>
+        <t>LINDEBOOMSTRAAT</t>
+    </si>
+    <si>
+        <t>VEEMARKT</t>
+    </si>
+    <si>
+        <t>13-15</t>
+    </si>
+    <si>
+        <t>ALBERT I STRAAT</t>
+    </si>
+    <si>
+        <t>MARKGRAVENSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE ROYALE</t>
+    </si>
+    <si>
+        <t>MESPELARESTRAAT</t>
+    </si>
+    <si>
+        <t>KLEISTRAAT</t>
+    </si>
+    <si>
+        <t>202-204</t>
+    </si>
+    <si>
+        <t>HENDRIK BRUGMANSSTRAAT</t>
+    </si>
+    <si>
+        <t>4/0001</t>
+    </si>
+    <si>
+        <t>JULES MORETUSLEI</t>
+    </si>
+    <si>
+        <t>177 /179</t>
+    </si>
+    <si>
+        <t>RUE DU ROI ALBERT</t>
+    </si>
+    <si>
+        <t>COO</t>
+    </si>
+    <si>
+        <t>TRAMLAAN</t>
+    </si>
+    <si>
+        <t>STATIONPLEIN</t>
+    </si>
+    <si>
+        <t>HOUTMARKTSTRAAT</t>
+    </si>
+    <si>
+        <t>BRUSSELSESTEENWEG</t>
+    </si>
+    <si>
+        <t>PLACE D'ARMES</t>
+    </si>
+    <si>
+        <t>RUE SAINT-LAURENT</t>
+    </si>
+    <si>
+        <t>RUE DES VIEUX REMPARTS</t>
+    </si>
+    <si>
+        <t>VRIJDAGMARKT</t>
+    </si>
+    <si>
+        <t>MEERSTRAAT</t>
+    </si>
+    <si>
+        <t>TERLAEMEN</t>
+    </si>
+    <si>
+        <t>JAN DE TROCHSTRAAT</t>
+    </si>
+    <si>
+        <t>SINT-HUYBRECHTSTRAAT</t>
+    </si>
+    <si>
+        <t>LEOPOLDLAAN</t>
+    </si>
+    <si>
+        <t>VOLDERSLAAN</t>
+    </si>
+    <si>
+        <t>PLACE VAN ZEELAND</t>
+    </si>
+    <si>
+        <t>KONINGIN FABIOLALAAN</t>
+    </si>
+    <si>
+        <t>MOERKANTSEBAAN 268</t>
+    </si>
+    <si>
+        <t>RUE HAUTE-SAIVE</t>
+    </si>
+    <si>
+        <t>BRUSSELBAAN</t>
+    </si>
+    <si>
+        <t>PLACE BARA</t>
+    </si>
+    <si>
+        <t>LEUVENSESTRAAT</t>
+    </si>
+    <si>
+        <t>RUE CHASSEURS ARDENNAIS</t>
+    </si>
+    <si>
+        <t>MOLLEMANSSTRAAT</t>
+    </si>
+    <si>
+        <t>DRIES</t>
+    </si>
+    <si>
+        <t>BLANKENBERGSESTEENWEG</t>
+    </si>
+    <si>
+        <t>OVERIJSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE DE SEPTEMBRE</t>
+    </si>
+    <si>
+        <t>RUE DE MALINES</t>
+    </si>
+    <si>
+        <t>BLAUWMOLENSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE DE CEREXHE</t>
+    </si>
+    <si>
+        <t>RIJMENAMSEBAAN</t>
+    </si>
+    <si>
+        <t>GRAANMARKT</t>
+    </si>
+    <si>
+        <t>RUE RENE NICOLAS</t>
+    </si>
+    <si>
+        <t>ADEGEM-DORP</t>
+    </si>
+    <si>
+        <t>ALOISE BIEBUYCKSTRAAT</t>
+    </si>
+    <si>
+        <t>11 A</t>
+    </si>
+    <si>
+        <t>VOSKENSLAAN</t>
+    </si>
+    <si>
+        <t>REDERSKAAI</t>
+    </si>
+    <si>
+        <t>SINT-PIETERSSTRAAT</t>
+    </si>
+    <si>
+        <t>THONETLAAN</t>
+    </si>
+    <si>
+        <t>MEIRBEEKSTRAAT</t>
+    </si>
+    <si>
+        <t>LATTENKLIEVERSSTRAAT</t>
+    </si>
+    <si>
+        <t>BOULEVARD D`ANVERS</t>
+    </si>
+    <si>
+        <t>WINKELOMSEHEIDE</t>
+    </si>
+    <si>
+        <t>AVENUE DE STALINGRAD</t>
+    </si>
+    <si>
+        <t>RUE CENTRALE</t>
+    </si>
+    <si>
+        <t>HENDRIK CONSCIENCESTRAAT</t>
+    </si>
+    <si>
+        <t>BRIELEKE</t>
+    </si>
+    <si>
+        <t>PUURSESTEENWEG</t>
+    </si>
+    <si>
+        <t>GERAARDSBERGSESTEENWEG</t>
+    </si>
+    <si>
+        <t>RUE HORS-CHATEAU</t>
+    </si>
+    <si>
+        <t>ZEISTRAAT</t>
+    </si>
+    <si>
+        <t>48A</t>
+    </si>
+    <si>
+        <t>GERAARDSBERGSESTRAAT</t>
+    </si>
+    <si>
+        <t>QUAI MARCHE AU POISSON</t>
+    </si>
+    <si>
+        <t>PLACE HOTEL DE VILLE</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE MONS</t>
+    </si>
+    <si>
+        <t>18 BP40</t>
+    </si>
+    <si>
+        <t>RUE SAINTE-ADELE</t>
+    </si>
+    <si>
+        <t>AVENUE DU CENTRE SPORTIF</t>
+    </si>
+    <si>
+        <t>PLACE CAMILLE LEMONNIER</t>
+    </si>
+    <si>
+        <t>PLACE DE LA STATION</t>
+    </si>
+    <si>
+        <t>S/N</t>
+    </si>
+    <si>
+        <t>RUE DE ROSIERES</t>
+    </si>
+    <si>
+        <t>BRUGSESTEENWEG</t>
+    </si>
+    <si>
+        <t>AALTERSESTEENWEG</t>
+    </si>
+    <si>
+        <t>BOTERMARKT</t>
+    </si>
+    <si>
+        <t>BOER JANSSENSSTRAAT</t>
+    </si>
+    <si>
+        <t>OUDE-VESTINGSSTRAAT</t>
+    </si>
+    <si>
+        <t>MENENSTRAAT</t>
+    </si>
+    <si>
+        <t>INGOOIGEMSTRAAT</t>
+    </si>
+    <si>
+        <t>MARKEKERKSTRAAT</t>
+    </si>
+    <si>
+        <t>GULLEGEMSTRAAT</t>
+    </si>
+    <si>
+        <t>PITTEMSTRAAT</t>
+    </si>
+    <si>
+        <t>4 A</t>
+    </si>
+    <si>
+        <t>MOLSTENSTRAAT</t>
+    </si>
+    <si>
+        <t>BISSEGEMPLAATS</t>
+    </si>
+    <si>
+        <t>WARANDESTRAAT</t>
+    </si>
+    <si>
+        <t>NIJVERHEIDSLAAN</t>
+    </si>
+    <si>
+        <t>KREKELMOTESTRAAT</t>
+    </si>
+    <si>
+        <t>WAREGEMSEWEG</t>
+    </si>
+    <si>
+        <t>CHAUSSEE BRUNEHAULT</t>
+    </si>
+    <si>
+        <t>RUE DES RADIS</t>
+    </si>
+    <si>
+        <t>AVENUE MARECHAL FOCH</t>
+    </si>
+    <si>
+        <t>RUE DES ALLIES</t>
+    </si>
+    <si>
+        <t>CHEMIN DE WASMES</t>
+    </si>
+    <si>
+        <t>HOF VAN 'T HENNEKEN</t>
+    </si>
+    <si>
+        <t>LISSEWEEGSESTEENWEG</t>
+    </si>
+    <si>
+        <t>CONSTANT PERMEKELAAN</t>
+    </si>
+    <si>
+        <t>ZUIDSTRAAT</t>
+    </si>
+    <si>
+        <t>SINT-MAARTENSPLEIN</t>
+    </si>
+    <si>
+        <t>BEEKSTRAAT</t>
+    </si>
+    <si>
+        <t>60 B</t>
+    </si>
+    <si>
+        <t>LAUWEPLAATS</t>
+    </si>
+    <si>
+        <t>ROESELAARSESTRAAT</t>
+    </si>
+    <si>
+        <t>IJZEREN BAREEL</t>
+    </si>
+    <si>
+        <t>ZOUTSTRAAT</t>
+    </si>
+    <si>
+        <t>DUNGELSTRAAT</t>
+    </si>
+    <si>
+        <t>MASTENBAAN</t>
+    </si>
+    <si>
+        <t>ARNOLD SAUWENLAAN</t>
+    </si>
+    <si>
+        <t>HALENSEBAAN</t>
+    </si>
+    <si>
+        <t>HAACHTSEBAAN</t>
+    </si>
+    <si>
+        <t>SLEDDERLOWEG 100/2</t>
+    </si>
+    <si>
+        <t>WICHELSESTEENWEG</t>
+    </si>
+    <si>
+        <t>KANUNNIK PETRUS TRIESTLAAN</t>
+    </si>
+    <si>
+        <t>PASTORIJWEG</t>
+    </si>
+    <si>
+        <t>FORT VI-STRAAT</t>
+    </si>
+    <si>
+        <t>LAMBRECHTSHOEKENLAAN</t>
+    </si>
+    <si>
+        <t>WAALSEKAAI</t>
+    </si>
+    <si>
+        <t>KIOSKPLAATS</t>
+    </si>
+    <si>
+        <t>ATLETENSTRAAT</t>
+    </si>
+    <si>
+        <t>EDENPLEIN</t>
+    </si>
+    <si>
+        <t>BROUWERSVLIET</t>
+    </si>
+    <si>
+        <t>KAPELSESTRAAT</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-GERMAIN</t>
+    </si>
+    <si>
+        <t>RUE DE MAGNEE</t>
+    </si>
+    <si>
+        <t>RUE NANIOT</t>
+    </si>
+    <si>
+        <t>GRAND'ROUTE</t>
+    </si>
+    <si>
+        <t>RUE EUGENE VANDENHOFF 86</t>
+    </si>
+    <si>
+        <t>RUE DU PERRON</t>
+    </si>
+    <si>
+        <t>PLACE DU MARTYR</t>
+    </si>
+    <si>
+        <t>QUAI DE L'OURTHE</t>
+    </si>
+    <si>
+        <t>PLACE DU 12EME DE LIGNE</t>
+    </si>
+    <si>
+        <t>RUE DE COLARD TROUILLET</t>
+    </si>
+    <si>
+        <t>ROUTE DE LIMET</t>
+    </si>
+    <si>
+        <t>83 B</t>
+    </si>
+    <si>
+        <t>PLACE ANDRÉ RYCKMANS</t>
+    </si>
+    <si>
+        <t>DORPSPLAATS</t>
+    </si>
+    <si>
+        <t>NATIONALESTRAAT 44</t>
+    </si>
+    <si>
+        <t>HERDEBEEKSTRAAT</t>
+    </si>
+    <si>
+        <t>BASILIEKSTRAAT</t>
+    </si>
+    <si>
+        <t>RUE ARCHIMEDE</t>
+    </si>
+    <si>
+        <t>65 67</t>
+    </si>
+    <si>
+        <t>18A</t>
+    </si>
+    <si>
+        <t>KAPELLEDREEF</t>
+    </si>
+    <si>
+        <t>RUE BOVENDAEL</t>
+    </si>
+    <si>
+        <t>TER VOORT</t>
+    </si>
+    <si>
+        <t>POC street House number</t>
+    </si>
+    <si>
+        <t>RUE DES PRISONNIERS 1</t>
+    </si>
+    <si>
+        <t>AVENUE DU DIAMANT 215</t>
+    </si>
+    <si>
+        <t>RUE DE BRABANT 45</t>
+    </si>
+    <si>
+        <t>PLACE EUGENE KEYM 35</t>
+    </si>
+    <si>
+        <t>PLACE DE LINDE 10</t>
+    </si>
+    <si>
+        <t>AVENUE DU PARC 77</t>
+    </si>
+    <si>
+        <t>PLACE DE LA VAILLANCE 23</t>
+    </si>
+    <si>
+        <t>PLACE DAILLY 23</t>
+    </si>
+    <si>
+        <t>RUE DE L ABBAYE 6</t>
+    </si>
+    <si>
+        <t>AVENUE EMMANUEL MOUNIER 87 0</t>
+    </si>
+    <si>
+        <t>PLACE MAURICE VAN MEENEN 37</t>
+    </si>
+    <si>
+        <t>RUE DE SAVOIE 10</t>
+    </si>
+    <si>
+        <t>BELSE HEI 2</t>
+    </si>
+    <si>
+        <t>BROEKSTRAAT Z/N</t>
+    </si>
+    <si>
+        <t>STATIEPLEIN 10</t>
+    </si>
+    <si>
+        <t>LOSTRAAT 2</t>
+    </si>
+    <si>
+        <t>KERKPLEIN 3</t>
+    </si>
+    <si>
+        <t>YZERHAND 50</t>
+    </si>
+    <si>
+        <t>PLATTEPUT 14A</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 2</t>
+    </si>
+    <si>
+        <t>HILLARESTRAAT 332</t>
+    </si>
+    <si>
+        <t>EMIEL HERTECAMPLAAN 57 A</t>
+    </si>
+    <si>
+        <t>VOORMUIDE 79</t>
+    </si>
+    <si>
+        <t>MAURICE DE WEERTSTRAAT 34</t>
+    </si>
+    <si>
+        <t>FRANS VAN DUNLAAN 77</t>
+    </si>
+    <si>
+        <t>GROENPLAATS 7</t>
+    </si>
+    <si>
+        <t>RUE DE TOURNAI 78</t>
+    </si>
+    <si>
+        <t>AVENUE EDMOND PARMENTIER 81</t>
+    </si>
+    <si>
+        <t>RUE D'ACOZ 5/H</t>
+    </si>
+    <si>
+        <t>GOSPERTSTRASSE 112</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT-IER 13</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 51</t>
+    </si>
+    <si>
+        <t>NIEUWMOER-DORP 51</t>
+    </si>
+    <si>
+        <t>BERGEVEST 12</t>
+    </si>
+    <si>
+        <t>RUE DU RIVAGE 1</t>
+    </si>
+    <si>
+        <t>BD 2ME ARMEE BRITANNIQUE 600</t>
+    </si>
+    <si>
+        <t>RUE DE L'EGLISE 19</t>
+    </si>
+    <si>
+        <t>MECHELSEBAAN 70</t>
+    </si>
+    <si>
+        <t>WOLVERTEMSESTEENWEG 136</t>
+    </si>
+    <si>
+        <t>GOOTJE 61</t>
+    </si>
+    <si>
+        <t>KOLONEL DUSARTPLEIN 44</t>
+    </si>
+    <si>
+        <t>A. RODENBACHSTRAAT 69</t>
+    </si>
+    <si>
+        <t>KETELSTRAAT 50</t>
+    </si>
+    <si>
+        <t>LAVENDELSTRAAT 27</t>
+    </si>
+    <si>
+        <t>RUE DU CENTENAIRE 120</t>
+    </si>
+    <si>
+        <t>WILLEM EGGERICKXSTRAAT 15</t>
+    </si>
+    <si>
+        <t>TORENSTRAAT 30</t>
+    </si>
+    <si>
+        <t>KOLDAMSTRAAT 9</t>
+    </si>
+    <si>
+        <t>BARONVAL 21</t>
+    </si>
+    <si>
+        <t>SINT - KRISTOFFELSTRAAT 20</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 237</t>
+    </si>
+    <si>
+        <t>HUNDELGEMSESTEENWEG 119</t>
+    </si>
+    <si>
+        <t>SPILLEGEM 23</t>
+    </si>
+    <si>
+        <t>MEULESTEEDSESTEENWEG 1</t>
+    </si>
+    <si>
+        <t>SINT-PIETERSPLEIN 51</t>
+    </si>
+    <si>
+        <t>PLACE DU PERRON 37</t>
+    </si>
+    <si>
+        <t>BRAAMBERGSTRAAT 1</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA FORESTERI 0</t>
+    </si>
+    <si>
+        <t>AVENUE DES THERMES 147B</t>
+    </si>
+    <si>
+        <t>WINSTON CHURCHILLPLEIN 3</t>
+    </si>
+    <si>
+        <t>RUE DE LA HAUTE FORIERE 29</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 39</t>
+    </si>
+    <si>
+        <t>RUE DE BERNALMONT 2</t>
+    </si>
+    <si>
+        <t>BLD DE LA SAUVENIERE 143-145</t>
+    </si>
+    <si>
+        <t>RUE DE LA CLOSERAIE 3</t>
+    </si>
+    <si>
+        <t>ROUTE DE MONS 229</t>
+    </si>
+    <si>
+        <t>RUE DE COUSOLRE 7</t>
+    </si>
+    <si>
+        <t>AVENUE DU STADE 0</t>
+    </si>
+    <si>
+        <t>LANESTRAAT 106 0</t>
+    </si>
+    <si>
+        <t>RUE G. DE LOMBAERDE 70</t>
+    </si>
+    <si>
+        <t>GEMEENTEPLEIN 38</t>
+    </si>
+    <si>
+        <t>RUE DES ALUNIERES 17</t>
+    </si>
+    <si>
+        <t>CHAUSSEE VERTE 94 1</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE LIEGE 3</t>
+    </si>
+    <si>
+        <t>PLACE DE LA LIBERTE 88</t>
+    </si>
+    <si>
+        <t>ZEEDIJK 6</t>
+    </si>
+    <si>
+        <t>BOULEVARD ANSPACH 77</t>
+    </si>
+    <si>
+        <t>ZEENSTRAAT Z/N</t>
+    </si>
+    <si>
+        <t>AZIELAAN 1</t>
+    </si>
+    <si>
+        <t>VIERHUIZEN 15</t>
+    </si>
+    <si>
+        <t>AVENUE DU PONT 1</t>
+    </si>
+    <si>
+        <t>BONDGENOTENLAAN 60</t>
+    </si>
+    <si>
+        <t>CHAUSSEE ROMAINE 238</t>
+    </si>
+    <si>
+        <t>RUE ARTHUR DEFOIN 142</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 4</t>
+    </si>
+    <si>
+        <t>DE BECKER-REMYPLEIN 27</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 17</t>
+    </si>
+    <si>
+        <t>VRIJHEIDWEG 9</t>
+    </si>
+    <si>
+        <t>ALBERT I LAAN 157 A</t>
+    </si>
+    <si>
+        <t>BERGENSE STEENWEG 33</t>
+    </si>
+    <si>
+        <t>PL.FRANKLIN D. ROOSEVELT 51</t>
+    </si>
+    <si>
+        <t>ELSUM 116</t>
+    </si>
+    <si>
+        <t>MARKT 17</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 22</t>
+    </si>
+    <si>
+        <t>SPORTLAAN 5</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 8</t>
+    </si>
+    <si>
+        <t>NIJVERHEIDSLAAN 7 0</t>
+    </si>
+    <si>
+        <t>GRAND-RUE 41</t>
+    </si>
+    <si>
+        <t>UILEBROEK 7</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA DEPORTATION 68</t>
+    </si>
+    <si>
+        <t>PLACE DES SPORTS 1</t>
+    </si>
+    <si>
+        <t>PLACE BAUDOUIN 1ER 3</t>
+    </si>
+    <si>
+        <t>SCHOOLBERGENSTRAAT 218</t>
+    </si>
+    <si>
+        <t>STADIONLAAN 48</t>
+    </si>
+    <si>
+        <t>RUE DU CASTINIA 0</t>
+    </si>
+    <si>
+        <t>SPORTLAAN 4C</t>
+    </si>
+    <si>
+        <t>RUE DES CULTES 9</t>
+    </si>
+    <si>
+        <t>MARKTPLAATS 5</t>
+    </si>
+    <si>
+        <t>RUE ALFRED HAULOTTE 56</t>
+    </si>
+    <si>
+        <t>RUE SAINTE-WALBURGE 4</t>
+    </si>
+    <si>
+        <t>RUE JULES HANS 108</t>
+    </si>
+    <si>
+        <t>AVENUE JOSEPH ABRAS 165</t>
+    </si>
+    <si>
+        <t>RUE SAINT-GILLES 164</t>
+    </si>
+    <si>
+        <t>WERVIKHOVESTRAAT 7</t>
+    </si>
+    <si>
+        <t>RUE PROVINCIALE 51</t>
+    </si>
+    <si>
+        <t>RENEUPRE 5</t>
+    </si>
+    <si>
+        <t>TIENDESCHUURVELD 106 0</t>
+    </si>
+    <si>
+        <t>KORTE MOEIE 16</t>
+    </si>
+    <si>
+        <t>BREEVENDREEF 56</t>
+    </si>
+    <si>
+        <t>AVENUE DES COMBATTANTS 1A</t>
+    </si>
+    <si>
+        <t>RUE DES PRES 6</t>
+    </si>
+    <si>
+        <t>RUE GENERAL DE GAULLE 55</t>
+    </si>
+    <si>
+        <t>WINTERSLAGSTRAAT 84</t>
+    </si>
+    <si>
+        <t>OUDE KERKSTRAAT 24 A</t>
+    </si>
+    <si>
+        <t>QUINKENSSTRAAT Z N</t>
+    </si>
+    <si>
+        <t>AU CHESSION 8</t>
+    </si>
+    <si>
+        <t>KLOOSTERSTRAAT 35</t>
+    </si>
+    <si>
+        <t>GAVERSESTEENWEG 240</t>
+    </si>
+    <si>
+        <t>SUR LES KEYEUX 0</t>
+    </si>
+    <si>
+        <t>RUE DU JEU DE BALLE 11</t>
+    </si>
+    <si>
+        <t>AVENUE SALOME 2</t>
+    </si>
+    <si>
+        <t>AVENUE ADOLPHE DUPUICH 42</t>
+    </si>
+    <si>
+        <t>LINDESTRAAT 15</t>
+    </si>
+    <si>
+        <t>KARDINAAL MERCIERLAAN 58</t>
+    </si>
+    <si>
+        <t>AVENUE DU STADE 23 /3</t>
+    </si>
+    <si>
+        <t>TULPINSTRAAT 40</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE RUISBROEK 18</t>
+    </si>
+    <si>
+        <t>RUE VICTOR HEINE 9</t>
+    </si>
+    <si>
+        <t>RUE DU CENTRE 111</t>
+    </si>
+    <si>
+        <t>VELDSTRAAT 79</t>
+    </si>
+    <si>
+        <t>MUIZENSTRAAT 32A</t>
+    </si>
+    <si>
+        <t>SPORTLAAN 7C</t>
+    </si>
+    <si>
+        <t>HEUFKENSWEG 1</t>
+    </si>
+    <si>
+        <t>GEMEENTEPARK 9</t>
+    </si>
+    <si>
+        <t>GROENINGENLEI Z/N</t>
+    </si>
+    <si>
+        <t>SPORTLAAN 12</t>
+    </si>
+    <si>
+        <t>BOVEMANSSTRAAT 20</t>
+    </si>
+    <si>
+        <t>RUE VALENCIENNOISE 29</t>
+    </si>
+    <si>
+        <t>EINDHOUTSEWEG 102</t>
+    </si>
+    <si>
+        <t>VENNEKESLAAN 11</t>
+    </si>
+    <si>
+        <t>VALKENIERSSTRAAT 1</t>
+    </si>
+    <si>
+        <t>RUE DES CARRELAGES 91 0</t>
+    </si>
+    <si>
+        <t>HOGEWEG 139</t>
+    </si>
+    <si>
+        <t>JAN MARTIN VAN LIERDELAAN 24</t>
+    </si>
+    <si>
+        <t>KATTENBROEK 5</t>
+    </si>
+    <si>
+        <t>ZAVELKUILSTRAAT Z/N</t>
+    </si>
+    <si>
+        <t>TULPINSTRAAT 12</t>
+    </si>
+    <si>
+        <t>RUE DE BOMEREE 318</t>
+    </si>
+    <si>
+        <t>LANGESTRAAT 12</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE L'OURTHE 72</t>
+    </si>
+    <si>
+        <t>RUE JOSEPH WAUTERS 52</t>
+    </si>
+    <si>
+        <t>GROTE BAAN 40</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 5</t>
+    </si>
+    <si>
+        <t>MARKTSTRAAT 31</t>
+    </si>
+    <si>
+        <t>RUE DU GRAVIER 11 B</t>
+    </si>
+    <si>
+        <t>RUE DES GUILLEMINS 6</t>
+    </si>
+    <si>
+        <t>BOULEVARD GUSTAVE KLEYER 2</t>
+    </si>
+    <si>
+        <t>RUE DE TAILLIS-PRE 180</t>
+    </si>
+    <si>
+        <t>AVENUE DU PONT 5</t>
+    </si>
+    <si>
+        <t>SPOORWEGLAAN 171</t>
+    </si>
+    <si>
+        <t>KEIBERGSTRAAT 13</t>
+    </si>
+    <si>
+        <t>JOSEPH DENAYERSTRAAT 6</t>
+    </si>
+    <si>
+        <t>CLAESPLEIN 1</t>
+    </si>
+    <si>
+        <t>RICHARD CALUWAERTSSTRAAT 10</t>
+    </si>
+    <si>
+        <t>RUE EMILE VANDERVELDE 56</t>
+    </si>
+    <si>
+        <t>RUE DE LA BELLEFLEUR 3</t>
+    </si>
+    <si>
+        <t>RUE SAINT-GILLES 167</t>
+    </si>
+    <si>
+        <t>AVENUE DELCHAMBRE 3</t>
+    </si>
+    <si>
+        <t>PROVINCIEBAAN 18</t>
+    </si>
+    <si>
+        <t>AVENUE DE BATTA 30</t>
+    </si>
+    <si>
+        <t>DORP 44</t>
+    </si>
+    <si>
+        <t>PLACE SURLET DE CHOKIER 4 -5</t>
+    </si>
+    <si>
+        <t>DE SMET DE NAEYERLAAN 19</t>
+    </si>
+    <si>
+        <t>GENTSESTEENWEG 255</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 26 0</t>
+    </si>
+    <si>
+        <t>GRAND PLACE 17</t>
+    </si>
+    <si>
+        <t>DE SMET DE NAEYERLAAN 121</t>
+    </si>
+    <si>
+        <t>SINT-MICHIELSHELLING 5 -6 0</t>
+    </si>
+    <si>
+        <t>DUINENWATER 43</t>
+    </si>
+    <si>
+        <t>BOOMSESTEENWEG 335</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-PIERRE 13</t>
+    </si>
+    <si>
+        <t>GODEFROID 64 0</t>
+    </si>
+    <si>
+        <t>TWEEBRUGGENPLEIN 8</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 14</t>
+    </si>
+    <si>
+        <t>SCHRIEKSEBAAN 55</t>
+    </si>
+    <si>
+        <t>ACHTERSTRAAT 48</t>
+    </si>
+    <si>
+        <t>STEENWEG OP DIEST 23</t>
+    </si>
+    <si>
+        <t>LOSTRAAT 1</t>
+    </si>
+    <si>
+        <t>AVENUE CHAZAL 38</t>
+    </si>
+    <si>
+        <t>ALFONS VAN PUYMBROECKLN 11</t>
+    </si>
+    <si>
+        <t>RUE DE L'ECOLE 1</t>
+    </si>
+    <si>
+        <t>AVENUE THEODULE GONDA 2 B</t>
+    </si>
+    <si>
+        <t>PLACE JULES MANSART 26</t>
+    </si>
+    <si>
+        <t>WIEKEVORST DORP 16</t>
+    </si>
+    <si>
+        <t>PROF. DR. V. CELENPLEIN 20</t>
+    </si>
+    <si>
+        <t>GROTE BAAN 163</t>
+    </si>
+    <si>
+        <t>KOUTERSTRAAT 135</t>
+    </si>
+    <si>
+        <t>DR. V. VAN CAUTERENSTR. 9</t>
+    </si>
+    <si>
+        <t>VEDASTUSSTRAAT 65</t>
+    </si>
+    <si>
+        <t>SINT-URSULASTRAAT 1</t>
+    </si>
+    <si>
+        <t>MAASTRICHTERSTRAAT 148</t>
+    </si>
+    <si>
+        <t>KLINKAERT 13</t>
+    </si>
+    <si>
+        <t>AVENUE DE MAIRE 38</t>
+    </si>
+    <si>
+        <t>WOLSTRAAT 2</t>
+    </si>
+    <si>
+        <t>RUE PAULINE HUBERT 32</t>
+    </si>
+    <si>
+        <t>LANGESTRAAT 52</t>
+    </si>
+    <si>
+        <t>BEERZELPLEIN 29</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE JOLIMONT 88</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT IER 18</t>
+    </si>
+    <si>
+        <t>HENRI TORLEYLAAN 62</t>
+    </si>
+    <si>
+        <t>SCHOOLSTRAAT 1</t>
+    </si>
+    <si>
+        <t>RUE CESAR FRANCK 9</t>
+    </si>
+    <si>
+        <t>BERGSTRAAT 3</t>
+    </si>
+    <si>
+        <t>TIENSEVEST 20</t>
+    </si>
+    <si>
+        <t>PL.DOCTEUR E. LODEWIJCKX 5B</t>
+    </si>
+    <si>
+        <t>RUE DE NEUFCHATEAU 59</t>
+    </si>
+    <si>
+        <t>ALSEMBERGSESTEENWEG 992</t>
+    </si>
+    <si>
+        <t>RUE DU TOMBOIS 44</t>
+    </si>
+    <si>
+        <t>AVENUE WINSTON-CHURCHILL 21</t>
+    </si>
+    <si>
+        <t>HOEVENSEBAAN 2</t>
+    </si>
+    <si>
+        <t>DWORPSESTRAAT 2</t>
+    </si>
+    <si>
+        <t>MONACOPLEIN 9 B</t>
+    </si>
+    <si>
+        <t>NISRAMONT 32</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE JOLIMONT 194</t>
+    </si>
+    <si>
+        <t>RUE DE LAEKEN 187</t>
+    </si>
+    <si>
+        <t>PERSTRAAT 10</t>
+    </si>
+    <si>
+        <t>RUE DE NINOVE 27B</t>
+    </si>
+    <si>
+        <t>AVENUE DU VAL SAINT-GEORGES 1</t>
+    </si>
+    <si>
+        <t>DORP 2</t>
+    </si>
+    <si>
+        <t>OUDE MARKT 42</t>
+    </si>
+    <si>
+        <t>KOOLKERKSESTEENWEG 61</t>
+    </si>
+    <si>
+        <t>RUE HAUTE 233</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT IER 9</t>
+    </si>
+    <si>
+        <t>CHEMIN DES PRIMEVERES 22</t>
+    </si>
+    <si>
+        <t>RUE DEBAST 7</t>
+    </si>
+    <si>
+        <t>KERKPLEIN 31</t>
+    </si>
+    <si>
+        <t>SPORTLAAN 1</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 23</t>
+    </si>
+    <si>
+        <t>WOUMENWEG 42</t>
+    </si>
+    <si>
+        <t>DRIEKONINGENSTRAAT 1</t>
+    </si>
+    <si>
+        <t>LALOUXLAAN 8</t>
+    </si>
+    <si>
+        <t>RUE DE L'EGLISE 46</t>
+    </si>
+    <si>
+        <t>TIENSESTEENWEG 168</t>
+    </si>
+    <si>
+        <t>BREDABAAN 618</t>
+    </si>
+    <si>
+        <t>WEG NAAR AS 93</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 25</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 113</t>
+    </si>
+    <si>
+        <t>POLDERDREEF 12</t>
+    </si>
+    <si>
+        <t>LEDEBERGPLEIN 1</t>
+    </si>
+    <si>
+        <t>PLACE DU MANEGE 16</t>
+    </si>
+    <si>
+        <t>EN LAIXHEAU 25</t>
+    </si>
+    <si>
+        <t>SCHOMMELEI Z N</t>
+    </si>
+    <si>
+        <t>ANTWERPSESTEENWEG 129</t>
+    </si>
+    <si>
+        <t>RUE VOLTA 18</t>
+    </si>
+    <si>
+        <t>PLACE ROYALE 1-3</t>
+    </si>
+    <si>
+        <t>BOSVELDWEG 42</t>
+    </si>
+    <si>
+        <t>HEILIG HARTLAAN 36</t>
+    </si>
+    <si>
+        <t>LISPERSTRAAT 125</t>
+    </si>
+    <si>
+        <t>WEIDESTRAAT 12</t>
+    </si>
+    <si>
+        <t>AVENUE GEORGES HENRI 299</t>
+    </si>
+    <si>
+        <t>TWEEMONTSTRAAT 449</t>
+    </si>
+    <si>
+        <t>COUPURE LINKS 651</t>
+    </si>
+    <si>
+        <t>IEPERSTRAAT 67</t>
+    </si>
+    <si>
+        <t>LEOPOLDPLAATS 3</t>
+    </si>
+    <si>
+        <t>RUE SAINT-PAUL 8</t>
+    </si>
+    <si>
+        <t>MARKT 14</t>
+    </si>
+    <si>
+        <t>RUE DE L'EGLISE 2</t>
+    </si>
+    <si>
+        <t>RUE DU PONCAY 1</t>
+    </si>
+    <si>
+        <t>PLACE COMMUNALE 22</t>
+    </si>
+    <si>
+        <t>CHEMIN RUE 10</t>
+    </si>
+    <si>
+        <t>SCHUTTENBERGSTRAAT 2</t>
+    </si>
+    <si>
+        <t>AVENUE MILCAMPS 86</t>
+    </si>
+    <si>
+        <t>PL.LAMBERT-SCHIFFELERS 7</t>
+    </si>
+    <si>
+        <t>RUE DU NOYER 101</t>
+    </si>
+    <si>
+        <t>OUDESTRAAT 120</t>
+    </si>
+    <si>
+        <t>PLACE JOURDAN 33</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE LOUVAIN 815 0</t>
+    </si>
+    <si>
+        <t>STATIONSPLEIN 21</t>
+    </si>
+    <si>
+        <t>RUE DES ECOLES 2</t>
+    </si>
+    <si>
+        <t>AVENUE DE L'ARMEE 131 -133</t>
+    </si>
+    <si>
+        <t>RUE DE LA BANQUE 3</t>
+    </si>
+    <si>
+        <t>RUE PISSEROULE 122</t>
+    </si>
+    <si>
+        <t>PLACE DES GUILLEMINS 17</t>
+    </si>
+    <si>
+        <t>RUE DU T.T.A. 1 A</t>
+    </si>
+    <si>
+        <t>RUE DE BEHOGNE 16</t>
+    </si>
+    <si>
+        <t>CRAPAURUE 2</t>
+    </si>
+    <si>
+        <t>RUE DU CHERA 1</t>
+    </si>
+    <si>
+        <t>RUE DE L'ETANG 86</t>
+    </si>
+    <si>
+        <t>ENGELSENLAAN 99</t>
+    </si>
+    <si>
+        <t>TIENSESTEENWEG 99</t>
+    </si>
+    <si>
+        <t>STATIEPLEIN 8</t>
+    </si>
+    <si>
+        <t>BREDESTRAAT 88</t>
+    </si>
+    <si>
+        <t>AVENUE DES COMBATTANTS 70</t>
+    </si>
+    <si>
+        <t>AALSTERSESTEENWEG 2</t>
+    </si>
+    <si>
+        <t>RUE DE PARME 39</t>
+    </si>
+    <si>
+        <t>AVENUE FERDINAND NICOLAY 27</t>
+    </si>
+    <si>
+        <t>ROKLIJF 4</t>
+    </si>
+    <si>
+        <t>PLACE DE SAINT-JOB 37</t>
+    </si>
+    <si>
+        <t>RUE DELMOTTE 140</t>
+    </si>
+    <si>
+        <t>DORPSPLEIN 7</t>
+    </si>
+    <si>
+        <t>MARIAKERKEPLEIN 9</t>
+    </si>
+    <si>
+        <t>GRAND PLACE 3</t>
+    </si>
+    <si>
+        <t>GISTELSESTEENWEG 536</t>
+    </si>
+    <si>
+        <t>GRAND`PLACE 34</t>
+    </si>
+    <si>
+        <t>PLACE JULES DESTREE 15</t>
+    </si>
+    <si>
+        <t>GRAND-PLACE 21</t>
+    </si>
+    <si>
+        <t>PLACE CROMBEZ 26</t>
+    </si>
+    <si>
+        <t>PLACE CHARLES II 13</t>
+    </si>
+    <si>
+        <t>DORPSTRAAT 27</t>
+    </si>
+    <si>
+        <t>HOUTKAAI 3</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE WATERLOO 68</t>
+    </si>
+    <si>
+        <t>E. GILLISSTRAAT Z/N</t>
+    </si>
+    <si>
+        <t>AVENUE DES COMBATTANTS 94A 0</t>
+    </si>
+    <si>
+        <t>RUE EDOUARD ANSEELE 46</t>
+    </si>
+    <si>
+        <t>BOULEVARD PAUL JANSON 70</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT IER 14</t>
+    </si>
+    <si>
+        <t>RALISWEG 13 -17</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 10</t>
+    </si>
+    <si>
+        <t>RUE DU VILLAGE 99</t>
+    </si>
+    <si>
+        <t>NAAMSESTEENWEG 1</t>
+    </si>
+    <si>
+        <t>PLACE DES HAIES 11</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 65</t>
+    </si>
+    <si>
+        <t>RUE DE LA TETE D'ARGENT 1</t>
+    </si>
+    <si>
+        <t>PLACE LEOPOLD 5</t>
+    </si>
+    <si>
+        <t>TURNHOUTSEBAAN 3</t>
+    </si>
+    <si>
+        <t>TORHOUTSESTEENWEG 1</t>
+    </si>
+    <si>
+        <t>BREDEWEG 6</t>
+    </si>
+    <si>
+        <t>PARIJSSTRAAT 30</t>
+    </si>
+    <si>
+        <t>BRAAMBERGSTRAAT 11</t>
+    </si>
+    <si>
+        <t>NEERWINDENSTRAAT 13</t>
+    </si>
+    <si>
+        <t>RUE ALBERT IER 288</t>
+    </si>
+    <si>
+        <t>PLACE COMMUNALE 2 0</t>
+    </si>
+    <si>
+        <t>HEISTLAAN 170</t>
+    </si>
+    <si>
+        <t>TIENSEVEST 22</t>
+    </si>
+    <si>
+        <t>NIEUWPOORTSESTEENWEG 180</t>
+    </si>
+    <si>
+        <t>TIENSESTEENWEG 2</t>
+    </si>
+    <si>
+        <t>GRAND-PLACE 38</t>
+    </si>
+    <si>
+        <t>PLACE DES ONDINES 3</t>
+    </si>
+    <si>
+        <t>MASSEMSESTEENWEG 55</t>
+    </si>
+    <si>
+        <t>TIELTSTRAAT 68</t>
+    </si>
+    <si>
+        <t>MIEREGEMSTRAAT 110</t>
+    </si>
+    <si>
+        <t>KERKSTRAAT 6</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 31</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE WAVRE 781</t>
+    </si>
+    <si>
+        <t>DE STROPERSSTRAAT 8</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE WAVRE 1241</t>
+    </si>
+    <si>
+        <t>TRIANONLAAN 13</t>
+    </si>
+    <si>
+        <t>PLACE DE WASMUEL 44</t>
+    </si>
+    <si>
+        <t>DIESTSESTEENWEG 109</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT 2</t>
+    </si>
+    <si>
+        <t>AVENUE ALBERT IER 83</t>
+    </si>
+    <si>
+        <t>HAVENSTRAAT 4</t>
+    </si>
+    <si>
+        <t>VISMARKT 4</t>
+    </si>
+    <si>
+        <t>AVENUE EUDORE PIRMEZ 10</t>
+    </si>
+    <si>
+        <t>AVENUE DES COMBATTANTS 1</t>
+    </si>
+    <si>
+        <t>RUE VANDERKINDERE 143</t>
+    </si>
+    <si>
+        <t>LAUWSESTRAAT 99</t>
+    </si>
+    <si>
+        <t>DORP-WEST 86</t>
+    </si>
+    <si>
+        <t>HELSHOVENSTRAAT 5 B</t>
+    </si>
+    <si>
+        <t>SINT-GODELIEVESTRAAT 59</t>
+    </si>
+    <si>
+        <t>PLACE J. MERLOT 4</t>
+    </si>
+    <si>
+        <t>OUDEVAARTPLAATS 34</t>
+    </si>
+    <si>
+        <t>POMPSTRAAT 11</t>
+    </si>
+    <si>
+        <t>MARTELARENPLEIN 1</t>
+    </si>
+    <si>
+        <t>GEMEENTEPLEIN 2</t>
+    </si>
+    <si>
+        <t>RUE DU STADE 18</t>
+    </si>
+    <si>
+        <t>PLACE MONSEU 31</t>
+    </si>
+    <si>
+        <t>PASTORIJSTRAAT 2</t>
+    </si>
+    <si>
+        <t>TERVUURSESTEENWEG 301</t>
+    </si>
+    <si>
+        <t>PLACE TERDELT 1</t>
+    </si>
+    <si>
+        <t>RUE DE MONSVILLE 281</t>
+    </si>
+    <si>
+        <t>PLACE VERTE 5</t>
+    </si>
+    <si>
+        <t>RUE DE ROUBAIX 1</t>
+    </si>
+    <si>
+        <t>RUE DE BAUME 97</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 11</t>
+    </si>
+    <si>
+        <t>OUDE MARKT 47</t>
+    </si>
+    <si>
+        <t>VAN MAERLANTSTRAAT 21</t>
+    </si>
+    <si>
+        <t>MOESHOFSTRAAT 152</t>
+    </si>
+    <si>
+        <t>ABDIJSTRAAT 85</t>
+    </si>
+    <si>
+        <t>BREDABAAN 702</t>
+    </si>
+    <si>
+        <t>KONING ALBERTPLEIN 13</t>
+    </si>
+    <si>
+        <t>DORP 14</t>
+    </si>
+    <si>
+        <t>PLACE LEOPOLD 6</t>
+    </si>
+    <si>
+        <t>RUE D'HAVRE 1/3</t>
+    </si>
+    <si>
+        <t>AANDORENSTRAAT 88</t>
+    </si>
+    <si>
+        <t>VARSENAREWEG 38</t>
+    </si>
+    <si>
+        <t>RUE DU MONT-A-LEUX 58</t>
+    </si>
+    <si>
+        <t>VANDENPEEREBOOMSTRAAT 30</t>
+    </si>
+    <si>
+        <t>BRUGSEWEG 157 0</t>
+    </si>
+    <si>
+        <t>HOUTMARKT 24A</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 83</t>
+    </si>
+    <si>
+        <t>RUE ROGIER 109</t>
+    </si>
+    <si>
+        <t>RUE DE LIEGE 266</t>
+    </si>
+    <si>
+        <t>MARKT 29</t>
+    </si>
+    <si>
+        <t>BURGEMEESTER POTIAULAAN 56</t>
+    </si>
+    <si>
+        <t>EYERMANSTRAAT 38A</t>
+    </si>
+    <si>
+        <t>PLACE DU DOCTEUR BOCQUET 6</t>
+    </si>
+    <si>
+        <t>GENTSESTEENWEG 124</t>
+    </si>
+    <si>
+        <t>RILLAARSEWEG 191</t>
+    </si>
+    <si>
+        <t>RUE DU COMMERCE 177</t>
+    </si>
+    <si>
+        <t>HENRI TORLEYLAAN 8</t>
+    </si>
+    <si>
+        <t>AKKERSTRAAT 1</t>
+    </si>
+    <si>
+        <t>ZANDOERSTRAAT 6</t>
+    </si>
+    <si>
+        <t>KAPELSTRAAT 165</t>
+    </si>
+    <si>
+        <t>PLACE DR. HOLLENFELTZ 28</t>
+    </si>
+    <si>
+        <t>HOF VAN STRAETEN 21</t>
+    </si>
+    <si>
+        <t>NIEUWSTRAAT 7A</t>
+    </si>
+    <si>
+        <t>RUE DU BEGUINAGE 2</t>
+    </si>
+    <si>
+        <t>SINT-TRUIDERSTEENWEG 323</t>
+    </si>
+    <si>
+        <t>QUAI AUX BRIQUES 72</t>
+    </si>
+    <si>
+        <t>WILLEKENSLAAN 101</t>
+    </si>
+    <si>
+        <t>DORP 15</t>
+    </si>
+    <si>
+        <t>CHAUSSEE VERTE 111</t>
+    </si>
+    <si>
+        <t>RUE DU BIPLAN 101</t>
+    </si>
+    <si>
+        <t>SPORTLAAN 14</t>
+    </si>
+    <si>
+        <t>PLACE DE BRASMENIL 20</t>
+    </si>
+    <si>
+        <t>CAPUCIENENSTRAAT 87</t>
+    </si>
+    <si>
+        <t>LEUVENSESTEENWEG 319</t>
+    </si>
+    <si>
+        <t>RESSEGEMSTRAAT 64</t>
+    </si>
+    <si>
+        <t>RUE THIER DU RY 36</t>
+    </si>
+    <si>
+        <t>BADENLAAN 98</t>
+    </si>
+    <si>
+        <t>RUE DE MONS 10</t>
+    </si>
+    <si>
+        <t>PARKSTRAAT 46</t>
+    </si>
+    <si>
+        <t>STATIESTRAAT 20</t>
+    </si>
+    <si>
+        <t>RUE DE LA TOURETTE 8</t>
+    </si>
+    <si>
+        <t>STELENSEWEG 39</t>
+    </si>
+    <si>
+        <t>PL.FRANKLIN D. ROOSEVELT 64</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA SALM 3</t>
+    </si>
+    <si>
+        <t>GROTE HERREWEG 160</t>
+    </si>
+    <si>
+        <t>PLACE JEAN JAURES 16</t>
+    </si>
+    <si>
+        <t>TRAMSTRAAT 3</t>
+    </si>
+    <si>
+        <t>PLACE 8</t>
+    </si>
+    <si>
+        <t>DONKLAAN 106</t>
+    </si>
+    <si>
+        <t>PLACE DU CRUCIFIX 1</t>
+    </si>
+    <si>
+        <t>RUE JULIEN MULLIE 40</t>
+    </si>
+    <si>
+        <t>PUTSEBAAN 18</t>
+    </si>
+    <si>
+        <t>SCHOOLSTRAAT 13</t>
+    </si>
+    <si>
+        <t>WELLEPLEIN 6</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 65</t>
+    </si>
+    <si>
+        <t>WANDELAARSTRAAT 8</t>
+    </si>
+    <si>
+        <t>KROPSTRAAT 2</t>
+    </si>
+    <si>
+        <t>HODONK 63</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT 115</t>
+    </si>
+    <si>
+        <t>KONING ALBERT I-STRAAT 53</t>
+    </si>
+    <si>
+        <t>GRAND'RUE 2</t>
+    </si>
+    <si>
+        <t>BREDABAAN 600</t>
+    </si>
+    <si>
+        <t>MOERESTEENWEG 36</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT 10</t>
+    </si>
+    <si>
+        <t>QUAI DU BATTY 28</t>
+    </si>
+    <si>
+        <t>SPEKSTRAAT ZN</t>
+    </si>
+    <si>
+        <t>L. VAN HOEYMISSENSTRAAT 85</t>
+    </si>
+    <si>
+        <t>SINT-GILLISPLEIN 29</t>
+    </si>
+    <si>
+        <t>MARKT 2</t>
+    </si>
+    <si>
+        <t>MOLENSTRAAT 1</t>
+    </si>
+    <si>
+        <t>SINT-ANNALAAN 182</t>
+    </si>
+    <si>
+        <t>AUGUST NIHOULSTRAAT 72A</t>
+    </si>
+    <si>
+        <t>TIENSESTRAAT 73</t>
+    </si>
+    <si>
+        <t>LIPSESTRAAT 70</t>
+    </si>
+    <si>
+        <t>RUE DE MERODE 17</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE NEERSTALLE 205</t>
+    </si>
+    <si>
+        <t>MEEUWENLAAN 6</t>
+    </si>
+    <si>
+        <t>ROZEVELDSTRAAT 2</t>
+    </si>
+    <si>
+        <t>WAMBEEKSTRAAT 27</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 36</t>
+    </si>
+    <si>
+        <t>NAZARETHSESTEENWEG 2</t>
+    </si>
+    <si>
+        <t>KRUIBEKESTEENWEG 116</t>
+    </si>
+    <si>
+        <t>DE KEYSERHOEVE 39</t>
+    </si>
+    <si>
+        <t>KERKTORENSTRAAT 22</t>
+    </si>
+    <si>
+        <t>CHRISTINASTRAAT 35 A</t>
+    </si>
+    <si>
+        <t>PLACE AUX FOIRES 3</t>
+    </si>
+    <si>
+        <t>WESTLAAN 44</t>
+    </si>
+    <si>
+        <t>RUE DE L'EGLISE 11</t>
+    </si>
+    <si>
+        <t>HOUWAARTSTRAAT 363</t>
+    </si>
+    <si>
+        <t>ZOMERLOOSSTRAAT 48</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 75</t>
+    </si>
+    <si>
+        <t>BOULEVARD DU MIDI 76</t>
+    </si>
+    <si>
+        <t>CHURCHILLLAAN 181</t>
+    </si>
+    <si>
+        <t>GEESTBEEK 25</t>
+    </si>
+    <si>
+        <t>MARKTPLEIN 1</t>
+    </si>
+    <si>
+        <t>RUE DU MOULIN 35</t>
+    </si>
+    <si>
+        <t>GRAVENSTRAAT 70</t>
+    </si>
+    <si>
+        <t>ALBERT RUZETTELAAN 189</t>
+    </si>
+    <si>
+        <t>TULPENSTRAAT 5</t>
+    </si>
+    <si>
+        <t>PLACE VAN MEYEL 3</t>
+    </si>
+    <si>
+        <t>RUE DES COMBATTANTS 14</t>
+    </si>
+    <si>
+        <t>BALSAKKER ZN</t>
+    </si>
+    <si>
+        <t>LEEMWEG 14</t>
+    </si>
+    <si>
+        <t>RUE PROVINCIALE 43</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE BRUXELLES 266</t>
+    </si>
+    <si>
+        <t>OUDE LEUVENSESTRAAT 93</t>
+    </si>
+    <si>
+        <t>STRAATAKKERS 1</t>
+    </si>
+    <si>
+        <t>KOEWACHTSTEENWEG 40</t>
+    </si>
+    <si>
+        <t>RUE DES CHAPELIERS 9</t>
+    </si>
+    <si>
+        <t>RIJSELSESTRAAT 208</t>
+    </si>
+    <si>
+        <t>A. VANDENPEEREBOOMPLEIN 19</t>
+    </si>
+    <si>
+        <t>OORDEGEMKOUTER 22</t>
+    </si>
+    <si>
+        <t>OKEGEMDORP 14</t>
+    </si>
+    <si>
+        <t>KASTEELSTRAAT 48</t>
+    </si>
+    <si>
+        <t>EN CHAROTTE 9</t>
+    </si>
+    <si>
+        <t>VELDSTRAAT 92</t>
+    </si>
+    <si>
+        <t>RUE LOUVIERE 7</t>
+    </si>
+    <si>
+        <t>LIERBAAN 25</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA PORALLEE 26</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-PIERRE 20</t>
+    </si>
+    <si>
+        <t>STATIONSPLEIN 7</t>
+    </si>
+    <si>
+        <t>PLACE D'HERSEAUX 12 BIS</t>
+    </si>
+    <si>
+        <t>GROTE BAAN 2</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 20</t>
+    </si>
+    <si>
+        <t>PLACE 12</t>
+    </si>
+    <si>
+        <t>DORPELSTRAAT 16</t>
+    </si>
+    <si>
+        <t>GROENDREEF 18</t>
+    </si>
+    <si>
+        <t>VILVOORDELAAN 60</t>
+    </si>
+    <si>
+        <t>PLACE DE L'EGLISE 8</t>
+    </si>
+    <si>
+        <t>RUE LIEUTENANT 2</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA CHEVALERIE 24</t>
+    </si>
+    <si>
+        <t>PLACE 1</t>
+    </si>
+    <si>
+        <t>AVENUE GENERAL LEMAN 4</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA COURONNE 437</t>
+    </si>
+    <si>
+        <t>IDEGEMPLEIN 1</t>
+    </si>
+    <si>
+        <t>RUE RAOUL VAN SPITAEL 19</t>
+    </si>
+    <si>
+        <t>KERKSTRAAT 26</t>
+    </si>
+    <si>
+        <t>LIERSESTEENWEG 273</t>
+    </si>
+    <si>
+        <t>DORPSTRAAT 48</t>
+    </si>
+    <si>
+        <t>KRUISSTRAAT 44</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 35</t>
+    </si>
+    <si>
+        <t>PARKLAAN 117</t>
+    </si>
+    <si>
+        <t>SINT-GORIKSPLEIN 25</t>
+    </si>
+    <si>
+        <t>AUGUST NIHOULSTRAAT 2</t>
+    </si>
+    <si>
+        <t>RUE SAINTE-CATHERINE 24</t>
+    </si>
+    <si>
+        <t>AVENUE FERDINAND NICOLAY 25</t>
+    </si>
+    <si>
+        <t>AVENUE HENRI CONSCIENCE 206</t>
+    </si>
+    <si>
+        <t>BOULEVARD DU MIDI 95</t>
+    </si>
+    <si>
+        <t>RUE THABOR 22</t>
+    </si>
+    <si>
+        <t>ZANDSTRAAT 35</t>
+    </si>
+    <si>
+        <t>AVENUE DES ROGATIONS 111</t>
+    </si>
+    <si>
+        <t>HOUTMARKT 1</t>
+    </si>
+    <si>
+        <t>PAARDEMARKT 2</t>
+    </si>
+    <si>
+        <t>MONSEIGNEUR LADEUZEPLEIN 1</t>
+    </si>
+    <si>
+        <t>GRAND'RUE 69</t>
+    </si>
+    <si>
+        <t>RUE DE CHATELET 37</t>
+    </si>
+    <si>
+        <t>BERGENSESTEENWEG 34</t>
+    </si>
+    <si>
+        <t>VARKENSMARKT 2</t>
+    </si>
+    <si>
+        <t>GEELSEBAAN 12</t>
+    </si>
+    <si>
+        <t>ONDER DE TOREN 13</t>
+    </si>
+    <si>
+        <t>SCHELLEBELLE-DORP 17</t>
+    </si>
+    <si>
+        <t>GROTESTRAAT 350</t>
+    </si>
+    <si>
+        <t>VISMARKT 1</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 10</t>
+    </si>
+    <si>
+        <t>VONCKSTRAAT 17</t>
+    </si>
+    <si>
+        <t>LEUVENSEBAAN 67</t>
+    </si>
+    <si>
+        <t>RIJSELSTRAAT 284</t>
+    </si>
+    <si>
+        <t>RUE DE LA CROIX DE FER 44</t>
+    </si>
+    <si>
+        <t>KONING BOUDEWIJNSTRAAT 1</t>
+    </si>
+    <si>
+        <t>RUE GRANDE 28</t>
+    </si>
+    <si>
+        <t>PLACE DE MOLENBAIX 53</t>
+    </si>
+    <si>
+        <t>PLACE DU LUXEMBOURG 4</t>
+    </si>
+    <si>
+        <t>DORP-WEST 24</t>
+    </si>
+    <si>
+        <t>RUE DU CINQ-SEPTEMBRE 31</t>
+    </si>
+    <si>
+        <t>GROTESTRAAT 24</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT 79</t>
+    </si>
+    <si>
+        <t>TERELSTSTRAAT 2</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 31</t>
+    </si>
+    <si>
+        <t>PLACE EMILE VANDERVELDE 1</t>
+    </si>
+    <si>
+        <t>RUE DU FOURNEAU 41</t>
+    </si>
+    <si>
+        <t>CHEMIN DES PEUPLIERS 19</t>
+    </si>
+    <si>
+        <t>LEOPOLDSTRAAT 59</t>
+    </si>
+    <si>
+        <t>KONINGIN ASTRIDPLEIN 40</t>
+    </si>
+    <si>
+        <t>RUE COUTURE MATHY 5</t>
+    </si>
+    <si>
+        <t>RUE ARTHUR PATER 10</t>
+    </si>
+    <si>
+        <t>GEELSEBAAN 50</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE LODELINSART 36</t>
+    </si>
+    <si>
+        <t>KERKPLEIN 4</t>
+    </si>
+    <si>
+        <t>RUE HAUTE 38</t>
+    </si>
+    <si>
+        <t>GEMEENTEPLEIN 14</t>
+    </si>
+    <si>
+        <t>AUGUSTIJNSLEI 33</t>
+    </si>
+    <si>
+        <t>RUE DE VIRGINAL 124</t>
+    </si>
+    <si>
+        <t>STEENWEG OP OOSTHOVEN 238</t>
+    </si>
+    <si>
+        <t>PLACE COMMUNALE 3</t>
+    </si>
+    <si>
+        <t>BOULEVARD CHARLEMAGNE 80</t>
+    </si>
+    <si>
+        <t>HOELBEEKSTRAAT 83</t>
+    </si>
+    <si>
+        <t>ZELEMSEBAAN 2</t>
+    </si>
+    <si>
+        <t>NIJVERHEIDSSTRAAT Z/N</t>
+    </si>
+    <si>
+        <t>PLACE DU ROI ALBERT 7</t>
+    </si>
+    <si>
+        <t>PIERENBERGSTRAAT 65</t>
+    </si>
+    <si>
+        <t>RUE DE MERODE 21</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT 112</t>
+    </si>
+    <si>
+        <t>RUE DE ROTHEUX 46</t>
+    </si>
+    <si>
+        <t>DUFFELSESTEENWEG 50</t>
+    </si>
+    <si>
+        <t>RUE FRANKLIN ROOSEVELT 252</t>
+    </si>
+    <si>
+        <t>RUE DE LA STATION 34</t>
+    </si>
+    <si>
+        <t>ALFONS-CONSTANT SWINNE 1</t>
+    </si>
+    <si>
+        <t>VUILSTRAAT 5</t>
+    </si>
+    <si>
+        <t>AVENUE DU SILENCE 1</t>
+    </si>
+    <si>
+        <t>ASTRIDLAAN 204</t>
+    </si>
+    <si>
+        <t>HOUTHULSTSTRAAT 39</t>
+    </si>
+    <si>
+        <t>DUINENWEG 287</t>
+    </si>
+    <si>
+        <t>OUDE MECHELSEBAAN 427</t>
+    </si>
+    <si>
+        <t>STEENWEG 174</t>
+    </si>
+    <si>
+        <t>RONDPLEIN 8</t>
+    </si>
+    <si>
+        <t>PLACE MONSEU 14</t>
+    </si>
+    <si>
+        <t>STADHUISPLEIN 1BUS1</t>
+    </si>
+    <si>
+        <t>RUE DU PARC 62</t>
+    </si>
+    <si>
+        <t>PLACE DU ROI ALBERT 15</t>
+    </si>
+    <si>
+        <t>TWEEBRUGGENPLEIN 17</t>
+    </si>
+    <si>
+        <t>VINDICTIEVELAAN 24</t>
+    </si>
+    <si>
+        <t>MINDERHOUTDORP 14</t>
+    </si>
+    <si>
+        <t>FRANS ADRIAENSSENSSTRAAT 121</t>
+    </si>
+    <si>
+        <t>ONDERWIJSLAAN 47</t>
+    </si>
+    <si>
+        <t>RUE GRAY 1</t>
+    </si>
+    <si>
+        <t>REEDIJK 37</t>
+    </si>
+    <si>
+        <t>RUE DU PONT DE WANDRE 103</t>
+    </si>
+    <si>
+        <t>PLACE EUGENE FLAGEY 1</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-ANTOINE 47</t>
+    </si>
+    <si>
+        <t>BOULEVARD GENER JACQUES 48</t>
+    </si>
+    <si>
+        <t>RUE DU METAL 2</t>
+    </si>
+    <si>
+        <t>DORP 10</t>
+    </si>
+    <si>
+        <t>RUE DE VILLERS 177</t>
+    </si>
+    <si>
+        <t>CHAUSSEE PAUL HOUTART 147</t>
+    </si>
+    <si>
+        <t>SINT-JANSSTRAAT 123</t>
+    </si>
+    <si>
+        <t>BOELARE 26</t>
+    </si>
+    <si>
+        <t>SINT-URSMARUSSTRAAT 10</t>
+    </si>
+    <si>
+        <t>RUE DE PATURAGES 61</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT IER 3</t>
+    </si>
+    <si>
+        <t>RUE LULAY 33</t>
+    </si>
+    <si>
+        <t>KOLLEBLOEMSTRAAT 12</t>
+    </si>
+    <si>
+        <t>SPAANSEMOLENSTRAAT 29</t>
+    </si>
+    <si>
+        <t>GISTELSTEENWEG 290</t>
+    </si>
+    <si>
+        <t>PLACE JEAN-PHILIPPE LAVALLE 19</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE BRUXELLES 399</t>
+    </si>
+    <si>
+        <t>GASTON ROELANDTSPLEIN 15</t>
+    </si>
+    <si>
+        <t>KOUTERBAAN 102</t>
+    </si>
+    <si>
+        <t>RUE GRANDE 58</t>
+    </si>
+    <si>
+        <t>BOULEVARD INDUSTRIEL 51</t>
+    </si>
+    <si>
+        <t>OUDE BAAN 64</t>
+    </si>
+    <si>
+        <t>RUE DU VILLAGE 9</t>
+    </si>
+    <si>
+        <t>JEZUIETENRUI 4</t>
+    </si>
+    <si>
+        <t>LIERSESTEENWEG 10</t>
+    </si>
+    <si>
+        <t>RUE EDMOND FOULON 17</t>
+    </si>
+    <si>
+        <t>KONING LEOPOLD III LAAN 115A</t>
+    </si>
+    <si>
+        <t>RUE DE CHIMAY 7</t>
+    </si>
+    <si>
+        <t>ALBERT I-PROMENADE 81</t>
+    </si>
+    <si>
+        <t>STEENOVENSTRAAT 137</t>
+    </si>
+    <si>
+        <t>SPECHTENLAAN 8</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA FACULTE D`AGRONOMIE 67</t>
+    </si>
+    <si>
+        <t>GEMEENTEPLEIN 6</t>
+    </si>
+    <si>
+        <t>RUE D'OMBRIE 21</t>
+    </si>
+    <si>
+        <t>RUE FRANCOIS DEWIEST 138</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT-IER 5</t>
+    </si>
+    <si>
+        <t>HOUTKAAI 2</t>
+    </si>
+    <si>
+        <t>MARKT 15</t>
+    </si>
+    <si>
+        <t>LEUVENSESTEENWEG 262</t>
+    </si>
+    <si>
+        <t>RENIER SNIEDERSPAD 33</t>
+    </si>
+    <si>
+        <t>PLACE DU XX AOUT 28</t>
+    </si>
+    <si>
+        <t>RUE DU PONT-DE-WANDRE 70</t>
+    </si>
+    <si>
+        <t>RUE DE PLAINEVAUX 302</t>
+    </si>
+    <si>
+        <t>ZAFFELAREDORP 47</t>
+    </si>
+    <si>
+        <t>NIEUWSTRAAT 47</t>
+    </si>
+    <si>
+        <t>TIELTSE BAAN 135</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE BRUXELLES 395</t>
+    </si>
+    <si>
+        <t>BOULEVARD EMILE JACQMAIN 36</t>
+    </si>
+    <si>
+        <t>ZEELAAN 61</t>
+    </si>
+    <si>
+        <t>LETTERKUNDESTRAAT 29</t>
+    </si>
+    <si>
+        <t>DORP 28</t>
+    </si>
+    <si>
+        <t>RUE DE BRUXELLES 57</t>
+    </si>
+    <si>
+        <t>RUE ENTRE-DEUX-VILLES 88</t>
+    </si>
+    <si>
+        <t>VREDELAAN 10</t>
+    </si>
+    <si>
+        <t>PARKSTRAAT 6</t>
+    </si>
+    <si>
+        <t>BOEZINGESTRAAT 51</t>
+    </si>
+    <si>
+        <t>ENGELSTRAAT 56</t>
+    </si>
+    <si>
+        <t>VENNESTRAAT 49</t>
+    </si>
+    <si>
+        <t>HENRI JASPARLAAN 169</t>
+    </si>
+    <si>
+        <t>MONNIKENHOFSTRAAT 16</t>
+    </si>
+    <si>
+        <t>WOUBRECHTSTRAAT 8 0</t>
+    </si>
+    <si>
+        <t>RUE D ARMENTIERES 312</t>
+    </si>
+    <si>
+        <t>17DE ESK. LICHTVLIEGWEZENLAAN 2</t>
+    </si>
+    <si>
+        <t>RUE SAINT-JEAN 2</t>
+    </si>
+    <si>
+        <t>GEMEENTEHUISSTRAAT 26</t>
+    </si>
+    <si>
+        <t>KOEISTRAAT 10</t>
+    </si>
+    <si>
+        <t>MERELBEKESTATIONPLEIN 2</t>
+    </si>
+    <si>
+        <t>GEMEENTEHUISSTRAAT 37</t>
+    </si>
+    <si>
+        <t>ZEVENEKENDORP 23</t>
+    </si>
+    <si>
+        <t>A. RUZETTELAAN 157</t>
+    </si>
+    <si>
+        <t>GROTE BAAN 83</t>
+    </si>
+    <si>
+        <t>CHAUSSEE ROMAINE 110</t>
+    </si>
+    <si>
+        <t>STEEGSTRAAT 16</t>
+    </si>
+    <si>
+        <t>ZANDDIJK 62 A</t>
+    </si>
+    <si>
+        <t>HOUTE 33</t>
+    </si>
+    <si>
+        <t>RUE MITOYENNE 912</t>
+    </si>
+    <si>
+        <t>GRAND-PLACE 18</t>
+    </si>
+    <si>
+        <t>ZWIJNAARDSESTEENWEG 743</t>
+    </si>
+    <si>
+        <t>RUE DE LA FERME DU PLAGNIAU 1</t>
+    </si>
+    <si>
+        <t>LOMBEEKSTRAAT 14</t>
+    </si>
+    <si>
+        <t>T VELD 68</t>
+    </si>
+    <si>
+        <t>OUDE HEERWEG 24</t>
+    </si>
+    <si>
+        <t>RUE CHARLES MONCOUSIN 28</t>
+    </si>
+    <si>
+        <t>EREMBODEGEM-DORP 33</t>
+    </si>
+    <si>
+        <t>KASTEELSTRAAT 28</t>
+    </si>
+    <si>
+        <t>MOLENSTRAAT 52</t>
+    </si>
+    <si>
+        <t>PLACE DE LA VICTOIRE 3</t>
+    </si>
+    <si>
+        <t>MOLENSTRAAT 80</t>
+    </si>
+    <si>
+        <t>HOEVENSEBAAN 147</t>
+    </si>
+    <si>
+        <t>PASTORIJSTRAAT 13</t>
+    </si>
+    <si>
+        <t>TERVUURSESTEENWEG 136</t>
+    </si>
+    <si>
+        <t>RUE DE LA VESDRE 14</t>
+    </si>
+    <si>
+        <t>RUE DU CORTIL 91</t>
+    </si>
+    <si>
+        <t>BEELDHOUWKUNSTLAAN 1</t>
+    </si>
+    <si>
+        <t>PLACE PUISSANT 2</t>
+    </si>
+    <si>
+        <t>RUE CHARLES-MAGNETTE 5</t>
+    </si>
+    <si>
+        <t>RUE CHASSEURS-ARDENNAIS 6</t>
+    </si>
+    <si>
+        <t>MARGOTE 76</t>
+    </si>
+    <si>
+        <t>BELLEGEMSESTRAAT 94</t>
+    </si>
+    <si>
+        <t>RUE DE VALENCIENNES 487</t>
+    </si>
+    <si>
+        <t>DE LA STATION 79</t>
+    </si>
+    <si>
+        <t>GRAND'RUE 61</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT 41</t>
+    </si>
+    <si>
+        <t>GENTSTRAAT 141</t>
+    </si>
+    <si>
+        <t>ADVOCAAT DE BACKERSTRAAT 2</t>
+    </si>
+    <si>
+        <t>KREKELENDRIES 20</t>
+    </si>
+    <si>
+        <t>ROESELARESTRAAT 46</t>
+    </si>
+    <si>
+        <t>KAPELSTRAAT 85</t>
+    </si>
+    <si>
+        <t>SINT-MARGARETHAPLEIN 4</t>
+    </si>
+    <si>
+        <t>ZWIJNAARDSESTEENWEG 217</t>
+    </si>
+    <si>
+        <t>MISSTRAAT 63</t>
+    </si>
+    <si>
+        <t>CHAUSSEE D'AUDENARDE 427</t>
+    </si>
+    <si>
+        <t>BREDABAAN 31</t>
+    </si>
+    <si>
+        <t>RUE DE ROMSEE 1</t>
+    </si>
+    <si>
+        <t>EDINGENSESTEENWEG 696</t>
+    </si>
+    <si>
+        <t>CONSCIENCESTRAAT 2</t>
+    </si>
+    <si>
+        <t>SQUARE FRANCOIS RIGA 17</t>
+    </si>
+    <si>
+        <t>ANTWERPSESTEENWEG 9 -11</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 8</t>
+    </si>
+    <si>
+        <t>RODE-KRUISPLEIN 15</t>
+    </si>
+    <si>
+        <t>TERDONKPLEIN 14</t>
+    </si>
+    <si>
+        <t>KASTEELDREEF 57</t>
+    </si>
+    <si>
+        <t>ALICE NAHONSTRAAT 13</t>
+    </si>
+    <si>
+        <t>RUE DES HAYEFFES 27 A</t>
+    </si>
+    <si>
+        <t>DROOGTE 37</t>
+    </si>
+    <si>
+        <t>RUE DE LOVERVAL 75</t>
+    </si>
+    <si>
+        <t>KOOLSTRAAT 121</t>
+    </si>
+    <si>
+        <t>PATER DAMIAANPLEIN 1</t>
+    </si>
+    <si>
+        <t>RAYMOND HERNALSTEENSTR. 68</t>
+    </si>
+    <si>
+        <t>RUE ALBERT IER 15</t>
+    </si>
+    <si>
+        <t>R DE MONS 13</t>
+    </si>
+    <si>
+        <t>AVENUE DES ETATS-UNIS 2B</t>
+    </si>
+    <si>
+        <t>HOOGSTRAAT 78</t>
+    </si>
+    <si>
+        <t>RUE DES NATIONS-UNIES 10</t>
+    </si>
+    <si>
+        <t>BORSBEEKSESTEENWEG 45</t>
+    </si>
+    <si>
+        <t>RUE DES VINGT-DEUX 33</t>
+    </si>
+    <si>
+        <t>RUE DU NERONRY 1</t>
+    </si>
+    <si>
+        <t>JULIUS DE GEYTERSTRAAT 133</t>
+    </si>
+    <si>
+        <t>KRONEKALSEIDE 297</t>
+    </si>
+    <si>
+        <t>RUE DU SABLON 217</t>
+    </si>
+    <si>
+        <t>LAPSCHEURESTRAAT 1</t>
+    </si>
+    <si>
+        <t>BURG. OMER DE MEYPLEIN 14</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE CHARLEROI 65</t>
+    </si>
+    <si>
+        <t>RUE DU VILLAGE 112</t>
+    </si>
+    <si>
+        <t>PLACE DU MARCHE 27</t>
+    </si>
+    <si>
+        <t>CHAUSSEE MONTGOMERY 65</t>
+    </si>
+    <si>
+        <t>ZANDSTRAAT 141</t>
+    </si>
+    <si>
+        <t>MOLENSTRAAT 61</t>
+    </si>
+    <si>
+        <t>LENNIKSEBAAN 159</t>
+    </si>
+    <si>
+        <t>GROTE BAAN 151</t>
+    </si>
+    <si>
+        <t>SINT-MARTINUSSTRAAT 80</t>
+    </si>
+    <si>
+        <t>MARKT 13</t>
+    </si>
+    <si>
+        <t>MOLENSTRAAT 47</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE BRUXELLES 181</t>
+    </si>
+    <si>
+        <t>AVENUE JULES-MATHIEU 0</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 34</t>
+    </si>
+    <si>
+        <t>RUE D'AYWAILLE 6</t>
+    </si>
+    <si>
+        <t>BLANCEFLOERLAAN 63</t>
+    </si>
+    <si>
+        <t>BOOMSTRAAT 3</t>
+    </si>
+    <si>
+        <t>BRUGSESTRAAT 29</t>
+    </si>
+    <si>
+        <t>AVENUE DU GLOBE 22</t>
+    </si>
+    <si>
+        <t>RUE DE COURTRAI 1</t>
+    </si>
+    <si>
+        <t>RUE DU BON PASTEUR 86</t>
+    </si>
+    <si>
+        <t>DORP 81</t>
+    </si>
+    <si>
+        <t>HEIDEMOLENBAAN 75</t>
+    </si>
+    <si>
+        <t>RUE DU CENTRE 40</t>
+    </si>
+    <si>
+        <t>RUE DES ECOLES 6</t>
+    </si>
+    <si>
+        <t>RUE DU CANAL 4</t>
+    </si>
+    <si>
+        <t>NOORDLAAN 42</t>
+    </si>
+    <si>
+        <t>DORP 25</t>
+    </si>
+    <si>
+        <t>EDWARD CLAESSENSLAAN 29</t>
+    </si>
+    <si>
+        <t>SLUIS 211</t>
+    </si>
+    <si>
+        <t>RUE D'ARLON 220</t>
+    </si>
+    <si>
+        <t>MARKTPLEIN 18</t>
+    </si>
+    <si>
+        <t>VLIEGVELD 118 B</t>
+    </si>
+    <si>
+        <t>EPHREM DE MALANDERPLEIN 7</t>
+    </si>
+    <si>
+        <t>BAVIKHOOFSESTRAAT 1</t>
+    </si>
+    <si>
+        <t>GRAND-RUE 83</t>
+    </si>
+    <si>
+        <t>DIJKSTRAAT 63</t>
+    </si>
+    <si>
+        <t>PLACE PUISSANT 10</t>
+    </si>
+    <si>
+        <t>RUE DU PONT 8</t>
+    </si>
+    <si>
+        <t>PLACE 5</t>
+    </si>
+    <si>
+        <t>ONDER DE TOREN 14</t>
+    </si>
+    <si>
+        <t>CARMERSSTRAAT 48</t>
+    </si>
+    <si>
+        <t>RUE DES ABLIAUX 57</t>
+    </si>
+    <si>
+        <t>KAPELLESTRAAT 91</t>
+    </si>
+    <si>
+        <t>GELUWESTRAAT 1</t>
+    </si>
+    <si>
+        <t>HARENHEIDESTRAAT (SPORTHALSTRAAT) 21</t>
+    </si>
+    <si>
+        <t>PLAATS 27</t>
+    </si>
+    <si>
+        <t>KRUISSTRAAT 61</t>
+    </si>
+    <si>
+        <t>MARKT 23</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 43</t>
+    </si>
+    <si>
+        <t>DORPSPLEIN 11</t>
+    </si>
+    <si>
+        <t>VELDSTRAAT 179</t>
+    </si>
+    <si>
+        <t>STADIONLAAN 8</t>
+    </si>
+    <si>
+        <t>PAALSESTEENWEG 3</t>
+    </si>
+    <si>
+        <t>RUE BATONNIER BRAFFORT 25</t>
+    </si>
+    <si>
+        <t>RUE HOVEMONT 118 0</t>
+    </si>
+    <si>
+        <t>RUE HAUTE 59</t>
+    </si>
+    <si>
+        <t>SMISKENSSTRAAT 45</t>
+    </si>
+    <si>
+        <t>PANNENSTRAAT 113</t>
+    </si>
+    <si>
+        <t>CHARLIERHELLING 12</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-ROCH 31</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE WILLEMEAU 78</t>
+    </si>
+    <si>
+        <t>RUE DU FORT 5</t>
+    </si>
+    <si>
+        <t>RUE DE LA PRAYE 8</t>
+    </si>
+    <si>
+        <t>BIENS LEFEVRE 11</t>
+    </si>
+    <si>
+        <t>LELIESTRAAT 32</t>
+    </si>
+    <si>
+        <t>AVENUE DU MAROUSET 1</t>
+    </si>
+    <si>
+        <t>HANDELSLEI 94</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE NEERSTALLE 73</t>
+    </si>
+    <si>
+        <t>GROTE BAAN 183</t>
+    </si>
+    <si>
+        <t>EN MI-VILLE 82</t>
+    </si>
+    <si>
+        <t>JOZEF DE VLEMINCKSTRAAT 50</t>
+    </si>
+    <si>
+        <t>MILOSTRAAT 13</t>
+    </si>
+    <si>
+        <t>LIERSEBAAN 177</t>
+    </si>
+    <si>
+        <t>GRAND'PLACE 18</t>
+    </si>
+    <si>
+        <t>BOULEVARD ERNEST SOLVAY 256</t>
+    </si>
+    <si>
+        <t>KASTEELSTRAAT 96</t>
+    </si>
+    <si>
+        <t>DOKTER HAUBENLAAN 75</t>
+    </si>
+    <si>
+        <t>RINGLAAN 33</t>
+    </si>
+    <si>
+        <t>STREEPSTRAAT 15</t>
+    </si>
+    <si>
+        <t>GINDERBUITEN 101</t>
+    </si>
+    <si>
+        <t>WARANDE 10</t>
+    </si>
+    <si>
+        <t>HAUT-VINAVE 4-6</t>
+    </si>
+    <si>
+        <t>B. BRUGMANN DE WALZINPLN 7</t>
+    </si>
+    <si>
+        <t>DWORPSESTRAAT 38</t>
+    </si>
+    <si>
+        <t>RUE DU PATRONAGE 10</t>
+    </si>
+    <si>
+        <t>VLAMINGSTRAAT 34</t>
+    </si>
+    <si>
+        <t>STAATSBAAN 333</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE CHARLEROI 165</t>
+    </si>
+    <si>
+        <t>KLEINE LAAN 11</t>
+    </si>
+    <si>
+        <t>KIEVERMONT 157</t>
+    </si>
+    <si>
+        <t>AVENUE DE LA RESISTANCE 272</t>
+    </si>
+    <si>
+        <t>RUE DE LA FOURCHE 30</t>
+    </si>
+    <si>
+        <t>DORP 79</t>
+    </si>
+    <si>
+        <t>LINDEBOOMSTRAAT 30</t>
+    </si>
+    <si>
+        <t>BREDESTRAAT 92</t>
+    </si>
+    <si>
+        <t>VEEMARKT 13-15</t>
+    </si>
+    <si>
+        <t>ALBERT I STRAAT 122</t>
+    </si>
+    <si>
+        <t>MARKGRAVENSTRAAT 93</t>
+    </si>
+    <si>
+        <t>RUE ROYALE 137</t>
+    </si>
+    <si>
+        <t>RUE GRANDE 150</t>
+    </si>
+    <si>
+        <t>KERKPLEIN 7</t>
+    </si>
+    <si>
+        <t>MESPELARESTRAAT 106</t>
+    </si>
+    <si>
+        <t>KLEISTRAAT 202-204</t>
+    </si>
+    <si>
+        <t>HENDRIK BRUGMANSSTRAAT 4/0001</t>
+    </si>
+    <si>
+        <t>JULES MORETUSLEI 177 /179</t>
+    </si>
+    <si>
+        <t>RUE DU ROI ALBERT 57</t>
+    </si>
+    <si>
+        <t>COO 2</t>
+    </si>
+    <si>
+        <t>TRAMLAAN 11</t>
+    </si>
+    <si>
+        <t>DOKTER HAUBENLAAN 48</t>
+    </si>
+    <si>
+        <t>STATIONPLEIN 5</t>
+    </si>
+    <si>
+        <t>PLACE COMMUNALE 11</t>
+    </si>
+    <si>
+        <t>HOUTMARKTSTRAAT 146</t>
+    </si>
+    <si>
+        <t>BRUSSELSESTEENWEG 82</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 19</t>
+    </si>
+    <si>
+        <t>PLACE D'ARMES 19</t>
+    </si>
+    <si>
+        <t>RUE SAINT-LAURENT 9</t>
+    </si>
+    <si>
+        <t>RUE DES VIEUX REMPARTS 3</t>
+    </si>
+    <si>
+        <t>VRIJDAGMARKT 26</t>
+    </si>
+    <si>
+        <t>MEERSTRAAT 33</t>
+    </si>
+    <si>
+        <t>TERLAEMEN 10</t>
+    </si>
+    <si>
+        <t>IEPERSTRAAT 123</t>
+    </si>
+    <si>
+        <t>JAN DE TROCHSTRAAT 137</t>
+    </si>
+    <si>
+        <t>ACHTERSTRAAT 33</t>
+    </si>
+    <si>
+        <t>SINT-HUYBRECHTSTRAAT 5</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 58</t>
+    </si>
+    <si>
+        <t>LEOPOLDLAAN 16</t>
+    </si>
+    <si>
+        <t>RUE EDOUARD ANSEELE 2</t>
+    </si>
+    <si>
+        <t>SCHOOLSTRAAT 10</t>
+    </si>
+    <si>
+        <t>VOLDERSLAAN 1</t>
+    </si>
+    <si>
+        <t>PLACE VAN ZEELAND 8</t>
+    </si>
+    <si>
+        <t>KONINGIN FABIOLALAAN 2</t>
+    </si>
+    <si>
+        <t>MOERKANTSEBAAN 268 0</t>
+    </si>
+    <si>
+        <t>RUE HAUTE-SAIVE 86</t>
+    </si>
+    <si>
+        <t>BRUSSELBAAN 155</t>
+    </si>
+    <si>
+        <t>RUE DU NOYER 187</t>
+    </si>
+    <si>
+        <t>PLACE BARA 11</t>
+    </si>
+    <si>
+        <t>LEUVENSESTRAAT 74</t>
+    </si>
+    <si>
+        <t>RUE CHASSEURS ARDENNAIS 2</t>
+    </si>
+    <si>
+        <t>RUE ALBERT IER 40</t>
+    </si>
+    <si>
+        <t>MOLLEMANSSTRAAT 14</t>
+    </si>
+    <si>
+        <t>DRIES 20</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT 12</t>
+    </si>
+    <si>
+        <t>AALSTERSESTEENWEG 75</t>
+    </si>
+    <si>
+        <t>BLANKENBERGSESTEENWEG 66</t>
+    </si>
+    <si>
+        <t>MOLENSTRAAT 3</t>
+    </si>
+    <si>
+        <t>OVERIJSESTEENWEG 95</t>
+    </si>
+    <si>
+        <t>RUE DE SEPTEMBRE 10</t>
+    </si>
+    <si>
+        <t>RUE DE MALINES 23</t>
+    </si>
+    <si>
+        <t>RUE DE LA STATION 4</t>
+    </si>
+    <si>
+        <t>BLAUWMOLENSTRAAT 16</t>
+    </si>
+    <si>
+        <t>RUE DE CEREXHE 34</t>
+    </si>
+    <si>
+        <t>RIJMENAMSEBAAN 21</t>
+    </si>
+    <si>
+        <t>GRAANMARKT 16</t>
+    </si>
+    <si>
+        <t>RUE RENE NICOLAS 2</t>
+    </si>
+    <si>
+        <t>DORPSSTRAAT 128</t>
+    </si>
+    <si>
+        <t>ADEGEM-DORP 62</t>
+    </si>
+    <si>
+        <t>ALOISE BIEBUYCKSTRAAT 11 A</t>
+    </si>
+    <si>
+        <t>VOSKENSLAAN 272</t>
+    </si>
+    <si>
+        <t>BRUSSELSESTEENWEG 651</t>
+    </si>
+    <si>
+        <t>REDERSKAAI 39</t>
+    </si>
+    <si>
+        <t>SINT-PIETERSSTRAAT 1</t>
+    </si>
+    <si>
+        <t>BRUSSELSESTEENWEG 756</t>
+    </si>
+    <si>
+        <t>THONETLAAN 131</t>
+    </si>
+    <si>
+        <t>MEIRBEEKSTRAAT 12</t>
+    </si>
+    <si>
+        <t>PLACE DU MARCHE 41</t>
+    </si>
+    <si>
+        <t>RUE GRANDE 70</t>
+    </si>
+    <si>
+        <t>VLAMINGSTRAAT 15</t>
+    </si>
+    <si>
+        <t>LATTENKLIEVERSSTRAAT 1</t>
+    </si>
+    <si>
+        <t>BOULEVARD D`ANVERS 21</t>
+    </si>
+    <si>
+        <t>BERGENSESTEENWEG 10</t>
+    </si>
+    <si>
+        <t>WINKELOMSEHEIDE 210</t>
+    </si>
+    <si>
+        <t>AVENUE DE STALINGRAD 102</t>
+    </si>
+    <si>
+        <t>RUE CENTRALE 32</t>
+    </si>
+    <si>
+        <t>HENDRIK CONSCIENCESTRAAT 54</t>
+    </si>
+    <si>
+        <t>BRIELEKE 16</t>
+    </si>
+    <si>
+        <t>PUURSESTEENWEG 2</t>
+    </si>
+    <si>
+        <t>BRUSSELSESTEENWEG 367</t>
+    </si>
+    <si>
+        <t>TERLAEMEN 4</t>
+    </si>
+    <si>
+        <t>GERAARDSBERGSESTEENWEG 78</t>
+    </si>
+    <si>
+        <t>RUE HORS-CHATEAU 138</t>
+    </si>
+    <si>
+        <t>AVENUE DES COMBATTANTS 2</t>
+    </si>
+    <si>
+        <t>ZEISTRAAT 41</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-ANTOINE 38</t>
+    </si>
+    <si>
+        <t>LOSTRAAT 48A</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE CHARLEROI 72</t>
+    </si>
+    <si>
+        <t>GERAARDSBERGSESTRAAT 21</t>
+    </si>
+    <si>
+        <t>QUAI MARCHE AU POISSON 15</t>
+    </si>
+    <si>
+        <t>RUE DE L'EGLISE 28</t>
+    </si>
+    <si>
+        <t>PLACE HOTEL DE VILLE 25</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE MONS 18 BP40</t>
+    </si>
+    <si>
+        <t>CHAUSSEE DE CHARLEROI 20</t>
+    </si>
+    <si>
+        <t>RUE SAINTE-ADELE 1</t>
+    </si>
+    <si>
+        <t>AVENUE DU CENTRE SPORTIF 20</t>
+    </si>
+    <si>
+        <t>RUE DES COMBATTANTS 46</t>
+    </si>
+    <si>
+        <t>PLACE CAMILLE LEMONNIER 3</t>
+    </si>
+    <si>
+        <t>PLACE DE LA STATION S/N</t>
+    </si>
+    <si>
+        <t>RUE DE ROSIERES 1</t>
+    </si>
+    <si>
+        <t>BRUGSESTEENWEG 170</t>
+    </si>
+    <si>
+        <t>AALTERSESTEENWEG 130</t>
+    </si>
+    <si>
+        <t>BOTERMARKT 3</t>
+    </si>
+    <si>
+        <t>BOER JANSSENSSTRAAT 15</t>
+    </si>
+    <si>
+        <t>PLAATS 5</t>
+    </si>
+    <si>
+        <t>OUDE-VESTINGSSTRAAT 6</t>
+    </si>
+    <si>
+        <t>MENENSTRAAT 121</t>
+    </si>
+    <si>
+        <t>INGOOIGEMSTRAAT 9</t>
+    </si>
+    <si>
+        <t>MARKEKERKSTRAAT 24</t>
+    </si>
+    <si>
+        <t>GULLEGEMSTRAAT 145</t>
+    </si>
+    <si>
+        <t>PITTEMSTRAAT 4 A</t>
+    </si>
+    <si>
+        <t>HOOGSTRAAT 39</t>
+    </si>
+    <si>
+        <t>MARKTPLEIN 22</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 4</t>
+    </si>
+    <si>
+        <t>MOLSTENSTRAAT 99</t>
+    </si>
+    <si>
+        <t>BISSEGEMPLAATS 1</t>
+    </si>
+    <si>
+        <t>WARANDESTRAAT 65</t>
+    </si>
+    <si>
+        <t>RINGLAAN 32</t>
+    </si>
+    <si>
+        <t>NIJVERHEIDSLAAN 6</t>
+    </si>
+    <si>
+        <t>KREKELMOTESTRAAT 46</t>
+    </si>
+    <si>
+        <t>WAREGEMSEWEG 1</t>
+    </si>
+    <si>
+        <t>CHAUSSEE PAUL HOUTART 88</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-PIERRE 21</t>
+    </si>
+    <si>
+        <t>CHAUSSEE BRUNEHAULT 394</t>
+    </si>
+    <si>
+        <t>RUE DES RADIS 27</t>
+    </si>
+    <si>
+        <t>RUE LOUVIERE 4</t>
+    </si>
+    <si>
+        <t>CHAUSSEE ROMAINE 168</t>
+    </si>
+    <si>
+        <t>GRAND-RUE 85</t>
+    </si>
+    <si>
+        <t>RUE JOSEPH WAUTERS 44</t>
+    </si>
+    <si>
+        <t>AVENUE MARECHAL FOCH 966</t>
+    </si>
+    <si>
+        <t>RUE DES ALLIES 48</t>
+    </si>
+    <si>
+        <t>CHEMIN DE WASMES 45</t>
+    </si>
+    <si>
+        <t>HOF VAN 'T HENNEKEN 88</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 12</t>
+    </si>
+    <si>
+        <t>LISSEWEEGSESTEENWEG 50</t>
+    </si>
+    <si>
+        <t>CONSTANT PERMEKELAAN 1</t>
+    </si>
+    <si>
+        <t>MARKT 1</t>
+    </si>
+    <si>
+        <t>ZUIDSTRAAT 7</t>
+    </si>
+    <si>
+        <t>SINT-MAARTENSPLEIN 4</t>
+    </si>
+    <si>
+        <t>BEEKSTRAAT 6</t>
+    </si>
+    <si>
+        <t>LANGESTRAAT 60 B</t>
+    </si>
+    <si>
+        <t>SINT-MAARTENSPLEIN 13</t>
+    </si>
+    <si>
+        <t>LAUWEPLAATS 2</t>
+    </si>
+    <si>
+        <t>ROESELAARSESTRAAT 191</t>
+    </si>
+    <si>
+        <t>PITTEMSTRAAT 33</t>
+    </si>
+    <si>
+        <t>GROTE MARKT 16</t>
+    </si>
+    <si>
+        <t>KERKSTRAAT 2</t>
+    </si>
+    <si>
+        <t>STATIONSSTRAAT 16</t>
+    </si>
+    <si>
+        <t>GENTSESTEENWEG 137</t>
+    </si>
+    <si>
+        <t>IJZEREN BAREEL 59</t>
+    </si>
+    <si>
+        <t>STATIONSPLEIN 35</t>
+    </si>
+    <si>
+        <t>ZOUTSTRAAT 11</t>
+    </si>
+    <si>
+        <t>DUNGELSTRAAT 2</t>
+    </si>
+    <si>
+        <t>MASTENBAAN 14</t>
+    </si>
+    <si>
+        <t>ARNOLD SAUWENLAAN 90</t>
+    </si>
+    <si>
+        <t>HALENSEBAAN 2</t>
+    </si>
+    <si>
+        <t>LANGESTRAAT 202</t>
+    </si>
+    <si>
+        <t>HAACHTSEBAAN 8</t>
+    </si>
+    <si>
+        <t>DIESTSESTEENWEG 97</t>
+    </si>
+    <si>
+        <t>SLEDDERLOWEG 100/2 0</t>
+    </si>
+    <si>
+        <t>WICHELSESTEENWEG 1</t>
+    </si>
+    <si>
+        <t>MARKT 24</t>
+    </si>
+    <si>
+        <t>KANUNNIK PETRUS TRIESTLAAN 1</t>
+    </si>
+    <si>
+        <t>PASTORIJWEG 23</t>
+    </si>
+    <si>
+        <t>GEMEENTEPLEIN 10</t>
+    </si>
+    <si>
+        <t>KERKSTRAAT 14</t>
+    </si>
+    <si>
+        <t>FORT VI-STRAAT 128</t>
+    </si>
+    <si>
+        <t>LAMBRECHTSHOEKENLAAN 45</t>
+    </si>
+    <si>
+        <t>WAALSEKAAI 43</t>
+    </si>
+    <si>
+        <t>KIOSKPLAATS 6</t>
+    </si>
+    <si>
+        <t>ATLETENSTRAAT 80</t>
+    </si>
+    <si>
+        <t>EDENPLEIN 26</t>
+    </si>
+    <si>
+        <t>BROUWERSVLIET 42</t>
+    </si>
+    <si>
+        <t>HOEVENSEBAAN 19</t>
+    </si>
+    <si>
+        <t>KAPELSESTRAAT 251</t>
+    </si>
+    <si>
+        <t>PLACE SAINT-GERMAIN 3</t>
+    </si>
+    <si>
+        <t>RUE DE MAGNEE 58</t>
+    </si>
+    <si>
+        <t>RUE NANIOT 323</t>
+    </si>
+    <si>
+        <t>GRAND'ROUTE 396</t>
+    </si>
+    <si>
+        <t>RUE EUGENE VANDENHOFF 86 0</t>
+    </si>
+    <si>
+        <t>RUE DU PERRON 3</t>
+    </si>
+    <si>
+        <t>PLACE DU MARTYR 45</t>
+    </si>
+    <si>
+        <t>QUAI DE L'OURTHE 11</t>
+    </si>
+    <si>
+        <t>PLACE DU 12EME DE LIGNE 14</t>
+    </si>
+    <si>
+        <t>PLACE ALBERT IER 7</t>
+    </si>
+    <si>
+        <t>RUE DE COLARD TROUILLET 1</t>
+    </si>
+    <si>
+        <t>ROUTE DE LIMET 83 B</t>
+    </si>
+    <si>
+        <t>PLACE ANDRÉ RYCKMANS 17</t>
+    </si>
+    <si>
+        <t>DORPSPLAATS 7</t>
+    </si>
+    <si>
+        <t>NATIONALESTRAAT 44 0</t>
+    </si>
+    <si>
+        <t>HERDEBEEKSTRAAT 174</t>
+    </si>
+    <si>
+        <t>BASILIEKSTRAAT 129</t>
+    </si>
+    <si>
+        <t>RUE ARCHIMEDE 65 67</t>
+    </si>
+    <si>
+        <t>MOLENSTRAAT 18A</t>
+    </si>
+    <si>
+        <t>AU CHESSION 10</t>
+    </si>
+    <si>
+        <t>TWEEMONTSTRAAT 447</t>
+    </si>
+    <si>
+        <t>KAPELLEDREEF 4</t>
+    </si>
+    <si>
+        <t>RUE RAOUL VAN SPITAEL 14</t>
+    </si>
+    <si>
+        <t>RUE BOVENDAEL 64</t>
+    </si>
+    <si>
+        <t>TER VOORT 94</t>
+    </si>
+</sst>
