@@ -4,9 +4,20 @@
 
 @include('partials.top-menu')
 
+@section('complement-css')
+    @parent
+    <style>
+        .centered {
+            text-align: center;
+        }
+    </style>
+@endsection
+
 @section('main-container')
     <div class="container" style="padding: 90px 0;">
-        <canvas id="tetris" width="240" height="400"></canvas>
-        <script src="tetris.js"></script>
+        <h1>Tetris Exercice (in JS)</h1>
+        <hr>
+        <div class="centered"><canvas id="tetris" width="240" height="400"></canvas></div>
+        <script src="/js/tetris/tetris.js"></script>
     </div>
 @endsection
