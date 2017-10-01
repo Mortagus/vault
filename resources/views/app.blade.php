@@ -12,7 +12,6 @@
     <title>@yield('title')</title>
 
     <link rel="icon" href="/favicon.ico">
-    <link rel="stylesheet" href="/bootstrap-table/src/bootstrap-table.css">
 
     <link href="/css/app.css" rel="stylesheet">
 

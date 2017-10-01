@@ -4,18 +4,25 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Input;
+use Mockery\Exception;
 
 class RandomController extends Controller
 {
+    /** @var resource $finfo */
+    private $finfo = NULL;
+
+    /** @var string $folderPath */
+    private $folderPath;
+
     public function index()
     {
-        $folderPath = $this->getFolderPathFromInput();
-        $errors = $this->checkFolderPath($folderPath);
+        $this->folderPath = $this->getFolderPathFromInput();
+        $errors = $this->checkFolderPath();
         $pageVariables = [
             'success' => empty($errors),
             'errors' => $errors,
-            'movieCollection' => (empty($errors)) ? $this->readFolder($folderPath) : [],
-            'selectedFolderPath' => $folderPath
+            'movieCollection' => (empty($errors)) ? $this->buildMovieCollection() : [],
+            'selectedFolderPath' => $this->folderPath
         ];
         return view('random.index', $pageVariables);
     }
@@ -51,18 +58,52 @@ class RandomController extends Controller
         return $folderPath;
     }
 
-    private function checkFolderPath($folderPath)
+    private function checkFolderPath()
     {
         $errors = [];
 
-        if (!file_exists($folderPath) || !is_dir($folderPath)) {
-            $errors[] = '[' . $folderPath . '] is not a valid folder !';
+        if (!file_exists($this->folderPath) || !is_dir($this->folderPath)) {
+            $errors[] = '[' . $this->folderPath . '] is not a valid folder !';
         }
 
         return $errors;
     }
 
-    private function readFolder($folderPath)
+    private function readFolder()
     {
+        $collection = scandir($this->folderPath);
+        // 2 array_shift to remove "." and ".."
+        array_shift($collection);
+        array_shift($collection);
+
+        return is_array($collection) ? $collection : [];
+    }
+
+    private function buildMovieCollection()
+    {
+        $collection = $this->readFolder();
+
+        $collection = array_slice($collection, 0, 20);
+
+        $this->finfo = finfo_open(FILEINFO_CONTINUE );
+        $collection = $this->retreiveFileInfo($collection);
+        finfo_close($this->finfo);
+
+        return $collection;
+    }
+
+    private function retreiveFileInfo($collection)
+    {
+        $newCollection = [];
+        foreach ($collection as $filename) {
+            $cleanFileName = $this->folderPath . DIRECTORY_SEPARATOR . $filename;
+            try {
+                $newCollection[] = finfo_file($this->finfo, $cleanFileName);
+            } catch (Exception $e) {
+
+            }
+        }
+
+        return $newCollection;
     }
 }

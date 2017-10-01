@@ -31,27 +31,21 @@
 </form>
 <hr>
 
-<div id="toolbar">
-    <button id="remove" class="btn btn-danger" disabled>
-        <i class="glyphicon glyphicon-remove"></i> Delete
-    </button>
-</div>
-<table id="movieCollection"
-       data-toolbar="#toolbar"
-       data-search="true"
-       data-show-refresh="true"
-       data-show-toggle="true"
-       data-show-columns="true"
-       data-show-export="true"
-       data-detail-view="true"
-       data-detail-formatter="detailFormatter"
-       data-minimum-count-columns="2"
-       data-show-pagination-switch="true"
-       data-pagination="true"
-       data-id-field="id"
-       data-page-list="[10, 25, 50, 100, ALL]"
-       data-show-footer="false"
-       data-side-pagination="server"
-       data-url="/examples/bootstrap_table/data"
-       data-response-handler="responseHandler">
-</table>
+@if (!empty($movieCollection))
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>File Name</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach ($movieCollection as $index => $fileName)
+            <tr>
+                <td>
+                    {{ ($index + 1) . '. ' . print_r($fileName, true) }}
+                </td>
+            </tr>
+        @endforeach
+        </tbody>
+    </table>
+@endif
