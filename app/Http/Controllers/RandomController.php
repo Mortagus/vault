@@ -9,7 +9,9 @@ use Mockery\Exception;
 class RandomController extends Controller
 {
     /** @var resource $finfo */
-    private $finfo = NULL;
+    private $finfo;
+
+    private $dirHandler;
 
     /** @var string $folderPath */
     private $folderPath;
@@ -25,27 +27,6 @@ class RandomController extends Controller
             'selectedFolderPath' => $this->folderPath
         ];
         return view('random.index', $pageVariables);
-    }
-
-    private function findRandomMovieFromSeagate()
-    {
-        $seagatePath = 'L:\Mes Videos\Film';
-
-        if (file_exists($seagatePath)) {
-            $movieTitle = '';
-            while (empty($movieTitle)) {
-                $directoryContent = scandir($seagatePath);
-                $max = count($directoryContent);
-                $min = 2;
-                $randomIndex = rand($min, $max);
-                $movieTitle = $directoryContent[$randomIndex];
-                $movieTitle = (empty($movieTitle) || $movieTitle == '.' || $movieTitle == '..') ? '' : $movieTitle;
-            }
-        } else {
-            $movieTitle = 'No Movie Found !';
-        }
-
-        return $movieTitle;
     }
 
     /**
@@ -69,41 +50,25 @@ class RandomController extends Controller
         return $errors;
     }
 
-    private function readFolder()
-    {
-        $collection = scandir($this->folderPath);
-        // 2 array_shift to remove "." and ".."
-        array_shift($collection);
-        array_shift($collection);
-
-        return is_array($collection) ? $collection : [];
-    }
-
     private function buildMovieCollection()
     {
-        $collection = $this->readFolder();
-
-        $collection = array_slice($collection, 0, 20);
-
-        $this->finfo = finfo_open(FILEINFO_CONTINUE );
-        $collection = $this->retreiveFileInfo($collection);
-        finfo_close($this->finfo);
-
-        return $collection;
-    }
-
-    private function retreiveFileInfo($collection)
-    {
-        $newCollection = [];
-        foreach ($collection as $filename) {
-            $cleanFileName = $this->folderPath . DIRECTORY_SEPARATOR . $filename;
-            try {
-                $newCollection[] = finfo_file($this->finfo, $cleanFileName);
-            } catch (Exception $e) {
-
+        $this->finfo = finfo_open(FILEINFO_NONE);
+        $this->dirHandler = opendir($this->folderPath);
+        $collection = [];
+        if ($this->dirHandler) {
+            while (($file = readdir($this->dirHandler)) !== false) {
+                if (!in_array($file, array('.', '..'))) {
+                    $collection[] = array(
+                        'filename' => $file,
+                        'type' => gettype($file),
+//                        'finfo' => print_r(finfo_file($this->finfo, $this->folderPath . '\\' . $file), true)
+                    );
+                }
             }
+            closedir($this->dirHandler);
+            finfo_close($this->finfo);
         }
 
-        return $newCollection;
+        return $collection;
     }
 }
