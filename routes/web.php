@@ -19,6 +19,10 @@ Route::group(['prefix' => 'projects'], function() {
     Route::get('/', 'ProjectController@index')->name('projects');
     Route::get('/tetris', 'TetrisController@index')->name('tetris');
 
+    Route::group(['prefix' => 'calendar'], function() {
+        Route::get('index/{year?}/{month?}', 'CalendarController@index')->name('calendar-index');
+    });
+
     Route::group(['prefix' => 'contest'], function() {
         Route::get('index', 'ContestController@index')->name('contest-index');
         Route::get('show/{id}', 'ContestController@show')->where('id', '[0-9]+')->name('contest-show');

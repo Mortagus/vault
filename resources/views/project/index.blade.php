@@ -13,6 +13,7 @@
                 <li class="list-group-item"><a href="{{ route('contest-index') }}">Contest Management</a></li>
                 <li class="list-group-item"><a href="{{ route('tetris') }}">Tetris</a></li>
                 <li class="list-group-item"><a href="{{ route('random') }}">Random</a></li>
+                <li class="list-group-item"><a href="{{ route('calendar-index') }}">Calendar</a></li>
             </ul>
         </div>
     </div>
