@@ -72,51 +72,87 @@ class Calendar
         $firstDayWeekNumber = intval($firstDay->format('W'));
         $lastDayWeekNumber = intval($lastDay->format('W'));
 
-        $weekCounter = max($firstDayWeekNumber, $lastDayWeekNumber) % 52;
-        $weekCounter -= min($firstDayWeekNumber, $lastDayWeekNumber) - 1;
+        if ($lastDayWeekNumber === 1) {
+            $lastDayWeekNumber = intval($lastDay->modify('- 7 days')->format('W')) + 1;
+        }
 
-        return abs($weekCounter);
+        $weekCounter = $lastDayWeekNumber - $firstDayWeekNumber + 1;
+        if ($weekCounter < 0) {
+            $weekCounter = intval($lastDay->format('W'));
+        }
+
+        return $weekCounter;
     }
 
     /**
-     * @return \DateTime
+     * @return \DateTimeImmutable
      */
     public function getFirstDayOfTheMonth()
     {
-        return new \DateTime($this->year . '-' . $this->month . '-01');
+        return new \DateTimeImmutable($this->year . '-' . $this->month . '-01');
     }
 
     /**
-     * @param \DateTime $firstDay
-     * @return \DateTime
+     * @param \DateTimeInterface $firstDay
+     * @return \DateTimeImmutable
      */
-    public function getLastDayOfTheMonth(\DateTime $firstDay)
+    public function getLastDayOfTheMonth(\DateTimeInterface $firstDay)
     {
-        return new \DateTime($firstDay->format('Y-m-t'));
+        return $firstDay->modify('last day of ' . $firstDay->format('M') . ' ' . $this->year);
     }
 
     /**
-     * @param \DateTime $day
-     * @return \DateTime
+     * @param \DateTimeInterface $day
+     * @return \DateTimeImmutable
      * @throws \Exception
      */
-    public function getFirstDayOfTheWeek(\DateTime $day = null)
+    public function getFirstDayOfTheWeek(\DateTimeInterface $day = null)
     {
         if ($day === null) {
             $day = $this->getFirstDayOfTheMonth();
         }
-        return (clone $day)->modify('last monday');
+        return $day->modify('last monday');
     }
 
     /**
-     * @param \DateTime $day
+     * @param \DateTimeInterface $day
      * @return bool
      */
-    public function isWithinMonth(\DateTime $day)
+    public function isWithinMonth(\DateTimeInterface $day)
     {
         $monthToTest = intval($day->format('m'));
 
         return $monthToTest == $this->month;
+    }
+
+    /**
+     * @return array
+     */
+    public function getPreviousMonthParameters()
+    {
+        $month = $this->month - 1;
+        $year = $this->year;
+        if ($month < self::FIRST_MONTH_INDEX) {
+            $month = self::LAST_MONTH_INDEX;
+            $year -= 1;
+        }
+
+        return ['month' => $month, 'year' => $year];
+    }
+
+    /**
+     * @return array
+     */
+    public function getNextMonthParameters()
+    {
+        $month = $this->month + 1;
+        $year = $this->year;
+        if ($month > self::LAST_MONTH_INDEX) {
+            $month = self::FIRST_MONTH_INDEX;
+            $year += 1;
+        }
+
+        return ['month' => $month, 'year' => $year];
     }
 
     /**
